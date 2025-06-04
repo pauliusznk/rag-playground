@@ -1,4 +1,6 @@
 Packages:
-python-dotenv
-langchain 
+langchain\n
+langchain-community
 langchain-openai
+python-dotenv
+tiktoken
