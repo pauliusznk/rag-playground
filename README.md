@@ -1,0 +1,7 @@
+Packages:
+langchain
+langchain-community
+langchain-openai
+python-dotenv
+tiktoken
+chromadb
