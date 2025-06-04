@@ -1,5 +1,5 @@
 Packages:
-langchain\n
+langchain
 langchain-community
 langchain-openai
 python-dotenv
