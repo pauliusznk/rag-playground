@@ -1,16 +1,13 @@
-from dotenv import load_dotenv
-from langchain.chains import RetrievalQA
-from langchain_openai import ChatOpenAI
+from Assistant import Assistant
 
-from data_loader import load
+def main():
+    paths = [
+            "../data/262ba704-1f02-45ea-9119-da7d33708d46_PN Rally Zemaitija 2025.md",
+            "../data/614cd4e6-4cbc-4512-85ea-acaf192c3f16_6 Ekipažų saugos įranga.md"
+             ]
+    assistant = Assistant(paths)
+    assistant.user_input()
+    
 
-load_dotenv()
-
-retriever = load()
-
-llm = ChatOpenAI(temperature=0, model="gpt-4.1-nano-2025-04-14")
-qa_chain = RetrievalQA.from_chain_type(llm=llm, retriever=retriever)
-
-question = input("Q:\n")
-response = qa_chain.run(question)
-print("A:\n", response)
+if __name__ == "__main__":
+    main()
