@@ -4,17 +4,14 @@ from langchain.prompts import PromptTemplate
 from langchain_openai import ChatOpenAI
 
 from prompts import prompt
-from DataLoader import DataLoader
 
 class Assistant:
-    def __init__(self, file_paths):
+    def __init__(self, file_paths, retriever):
         load_dotenv()
         self.files = file_paths
+        self.retriever = retriever
 
     def generate(self, question):
-        self.dataloader = DataLoader(self.files, "utf-8")
-        self.retriever = self.dataloader.get_retriever()
-
         self.prompt_template = PromptTemplate(
             input_variables=["context", "question"],
             template=(
@@ -35,7 +32,11 @@ class Assistant:
         return response['result']
 
     def user_input(self):
-        question = input("Q:\n")
-        answer = self.generate(question)
-        print("A:\n", answer)
+        while True:
+            question = input("Q:\n")
+            if question.strip().lower() == "exit":
+                print("Bye")
+                break
+            answer = self.generate(question)
+            print("A:\n", answer)
 

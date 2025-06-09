@@ -22,8 +22,8 @@ class DataLoader:
     def get_retriever(self):
         documents = self.load_documents()
         splitter = RecursiveCharacterTextSplitter(
-            chunk_size=500,
-            chunk_overlap=100
+            chunk_size=1000,
+            chunk_overlap=200
         )
         chunks = splitter.split_documents(documents)
         embedding = OpenAIEmbeddings()
