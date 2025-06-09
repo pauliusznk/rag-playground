@@ -19,9 +19,8 @@ class Assistant:
             input_variables=["context", "question"],
             template=(
                 f"{prompt}\n"
-                "Context:\n{context}\n\n"
-                "Question: {question}\n"
-                "Answer:"
+                "Context:{context}\n"
+                "Question:{question}"
             )
         )
         self.llm = ChatOpenAI(temperature=0.1, model="gpt-4.1-nano-2025-04-14")

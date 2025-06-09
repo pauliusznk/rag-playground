@@ -15,12 +15,11 @@ class DataLoader:
     def load_documents(self):
         documents = []
         for path in self.file_paths:
-            print(f"Loading document: {path}")
             loader = TextLoader(path, encoding=self.encoding)
             documents.extend(loader.load())
         return documents
 
-    def get_retriever(documents):
+    def get_retriever(self):
         documents = self.load_documents()
         splitter = RecursiveCharacterTextSplitter(
             chunk_size=500,
