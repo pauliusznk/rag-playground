@@ -6,9 +6,7 @@ from langchain_openai import ChatOpenAI
 from prompts import prompt
 
 class Assistant:
-    def __init__(self, file_paths, retriever):
-        load_dotenv()
-        self.files = file_paths
+    def __init__(self, retriever):
         self.retriever = retriever
 
     def generate(self, question):
