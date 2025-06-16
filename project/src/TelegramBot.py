@@ -37,10 +37,10 @@ class TelegramBot:
         
         client = OpenAI()
         with open(wav_path, "rb") as audio_file:
-            transcript = client.audio.transcriptions.create(model="whisper-1", file=audio_file)
+            transcript = client.audio.transcriptions.create(model="gpt-4o-transcribe", file=audio_file)
 
         question = transcript.text
-        print(f"Voice transcription: {question}")
+        print(f"Transcription: {question}")
         await self.reply_with_answer(update, question)
 
         os.remove(ogg_path)

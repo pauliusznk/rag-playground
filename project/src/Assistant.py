@@ -1,33 +1,51 @@
-from dotenv import load_dotenv
-from langchain.chains import RetrievalQA
-from langchain.prompts import PromptTemplate
+from langchain_core.prompts import PromptTemplate
+from langchain_core.output_parsers import StrOutputParser
 from langchain_openai import ChatOpenAI
+from langdetect import detect
 
 class Assistant:
-    def __init__(self, retriever, user_prompt, qt_prompt):
+    def __init__(self, retriever, user_prompt, question_cleaning_prompt):
         self.retriever = retriever
         self.user_prompt = user_prompt
-        self.qt_prompt = qt_prompt
+        self.question_cleaning_prompt = question_cleaning_prompt
+        self.llm = ChatOpenAI(model="gpt-4.1-nano-2025-04-14", temperature=0.1)
 
     def generate(self, question):
-        self.prompt_template = PromptTemplate(
-            input_variables=["context", "question"],
-            template=(
-                f"{self.user_prompt}\n"
-                "Context:{context}\n"
-                "Question:{question}"
-            )
-        )
-        self.llm = ChatOpenAI(temperature=0.1, model="gpt-4.1-nano-2025-04-14")
-        self.qa_chain = RetrievalQA.from_chain_type(
-            llm=self.llm,
-            retriever=self.retriever,
-            chain_type="stuff",
-            chain_type_kwargs={"prompt": self.prompt_template}
-        )
+        print("Original question:", question)
+        
+        language = detect(question)
+        print("Detected language:", language)
+        if language == "lt":
+            language_code = "Lietuvių"
+        else:
+            language_code = "English"            
 
-        response = self.qa_chain.invoke({"query": question})
-        return response['result']
+        question_cleaning_prompt = PromptTemplate(
+            input_variables=["text"],
+            template=self.question_cleaning_prompt
+        )
+        chain = question_cleaning_prompt | self.llm | StrOutputParser()
+        cleaned_question = chain.invoke({"text": question})
+        print("Cleaned question:", cleaned_question)
+
+        documents = self.retriever.invoke(cleaned_question)
+        context_text = ""
+        for doc in documents:
+            context_text += doc.page_content + "\n\n"
+        print("Context text:", context_text)
+        answer_prompt = PromptTemplate(
+            input_variables=["context", "question"],
+            template=self.user_prompt
+        )
+        answer_chain = answer_prompt | self.llm | StrOutputParser()
+        answer = answer_chain.invoke({
+            "context": context_text,
+            "question": cleaned_question,
+            "language": language_code
+        })
+
+
+        return answer
 
     def user_input(self):
         while True:
@@ -37,4 +55,3 @@ class Assistant:
                 break
             answer = self.generate(question)
             print("A:\n", answer)
-
