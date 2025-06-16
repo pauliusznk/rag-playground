@@ -1,9 +1,8 @@
 from dotenv import load_dotenv
 from Assistant import Assistant
 from DataLoader import DataLoader
-import tiktoken
-import os
-from prompts import prompt
+from TelegramBot import TelegramBot
+import prompts
 
 def main():
     load_dotenv()
@@ -18,7 +17,8 @@ def main():
 
     data_loader.load_documents()
     retriever = data_loader.vectorstore.as_retriever(search_kwargs={"k":4})
-    assistant = Assistant(retriever)
-    assistant.user_input()
+    assistant = Assistant(retriever, prompts.user_prompt, prompts.qt_prompt)
+    bot = TelegramBot(assistant)
+    bot.run()
 if __name__ == "__main__":
     main()

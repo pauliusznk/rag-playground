@@ -3,17 +3,17 @@ from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
 from langchain_openai import ChatOpenAI
 
-from prompts import prompt
-
 class Assistant:
-    def __init__(self, retriever):
+    def __init__(self, retriever, user_prompt, qt_prompt):
         self.retriever = retriever
+        self.user_prompt = user_prompt
+        self.qt_prompt = qt_prompt
 
     def generate(self, question):
         self.prompt_template = PromptTemplate(
             input_variables=["context", "question"],
             template=(
-                f"{prompt}\n"
+                f"{self.user_prompt}\n"
                 "Context:{context}\n"
                 "Question:{question}"
             )

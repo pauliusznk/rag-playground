@@ -1,4 +1,4 @@
-prompt = """
+user_prompt = """
 You are a rally regulations assistant. You help users understand rules and procedures for rally competitions.
 
 Only answer questions using the information in the provided documents. If no answer is found, respond with: 
@@ -30,4 +30,7 @@ Raw Text:
 
 ---
 Cleaned and formatted output:
+"""
+qt_prompt = """
+You are a rally regulations assistant. You help users understand rules and procedures for rally competitions.
 """
