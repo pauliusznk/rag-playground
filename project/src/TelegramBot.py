@@ -37,7 +37,7 @@ class TelegramBot:
         
         client = OpenAI()
         with open(wav_path, "rb") as audio_file:
-            transcript = client.audio.transcriptions.create(model="gpt-4o-transcribe", file=audio_file)
+            transcript = client.audio.transcriptions.create(model="gpt-4o-mini-transcribe", file=audio_file)
 
         question = transcript.text
         print(f"Transcription: {question}")
@@ -52,7 +52,7 @@ class TelegramBot:
 
     def run(self):
         app = ApplicationBuilder().token(self.telegram_token).build()
-        app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, self.handle_text))
+        app.add_handler(MessageHandler(filters.TEXT, self.handle_text))
         app.add_handler(MessageHandler(filters.VOICE, self.handle_voice))
         print("Bot is running")
         app.run_polling()

@@ -5,7 +5,6 @@ from langchain.prompts import PromptTemplate
 from langchain.schema import Document
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 import os
-import re
 from chromadb import PersistentClient
 from prompts import cleanup_prompt
 
@@ -36,17 +35,18 @@ class DataLoader:
             if not chroma_exists or path not in sources_in_db:
                 loader = PyPDFLoader(path)
                 pages = loader.load()
-                page_text = ""
+                cleaned_text = ""
                 for page in pages:
-                    page_text += page.page_content + "\n"
-                cleaned_text = self.clean_document(page_text)
+                    page_cleaned = self.clean_page(page.page_content)
+                    cleaned_text += page_cleaned + "\n"
                 self.documents.append(
-                    Document(page_content=cleaned_text, metadata={"source": path})
+                    Document(page_content=cleaned_text.strip(), metadata={"source": path})
                 )
         self.upsert_documents_to_chroma()
+        self.save_cleaned_documents_txt()
 
-    def clean_document(self, text):
-        llm = ChatOpenAI(model="o4-mini-2025-04-16")
+    def clean_page(self, text):
+        llm = ChatOpenAI(model="gpt-4.1-mini-2025-04-14")
         prompt = PromptTemplate(input_variables=["text"], template=cleanup_prompt)
         chain = prompt | llm
         cleaned_text = chain.invoke({"text": text})
@@ -54,9 +54,20 @@ class DataLoader:
         return cleaned_text.content
 
     def upsert_documents_to_chroma(self):
-        splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
+        splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=100)
 
         for doc in self.documents:
             chunks = splitter.split_documents([doc])
             self.vectorstore.add_documents(chunks)
             print(f"Inserted document from {doc.metadata.get('source')} into Chroma DB.")
+
+    def save_cleaned_documents_txt(self):
+        for doc in self.documents:
+            original_path = doc.metadata.get("source")
+            filename = os.path.basename(original_path)
+            filename = filename.replace(".pdf", ".txt")
+
+            save_path = os.path.join("../cleaned_documents", filename)
+            
+            with open(save_path, "w", encoding="utf-8") as file:
+                file.write(doc.page_content)

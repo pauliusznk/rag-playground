@@ -13,7 +13,7 @@ def main():
     data_loader = DataLoader(paths)
 
     data_loader.load_documents()
-    retriever = data_loader.vectorstore.as_retriever(search_type="mmr")
+    retriever = data_loader.vectorstore.as_retriever()
     assistant = Assistant(retriever, prompts.user_prompt, prompts.question_cleaning_prompt)
     bot = TelegramBot(assistant)
     bot.run()
