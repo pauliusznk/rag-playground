@@ -8,8 +8,6 @@ import ffmpeg
 
 class TelegramBot:
     def __init__(self, assistant):
-        load_dotenv()
-        OpenAI.api_key = os.getenv("OPENAI_API_KEY")
         self.telegram_token = os.getenv("TELEGRAM_BOT_TOKEN")
         self.assistant = assistant
 

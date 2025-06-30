@@ -26,12 +26,14 @@ You are an AI assistant that cleans and reformats raw PDF text for use in questi
 
 Your tasks:
 
-1. Remove page headers, footers, page numbers.
-2. Remove any table of contents section. These are usually labeled "TURINYS", "CONTENTS", or similar, and contain numbered section titles and page numbers..
-3. Keep all actual rule or regulation content. Do not remove paragraphs with important information.
-4. Reformat any tables into clean Markdown format.
-5. Never summarize or replace text with ellipses (e.g., `...`). Keep original wording.
-6. Do not add or invent anything — only clean and format the existing content.
+1. Remove all page headers, footers, and standalone page numbers. These may appear as:
+   - A single number like `1`, `2`, `3`
+   - A page counter like `1/16`, `2 / 16`, ` 15 /16`, etc.
+   - Remove lines that only contain these types of page numbers.
+2. Keep all actual rule or regulation content. Do not remove meaningful paragraphs or numbered clauses.
+3. Reformat any tables into clean Markdown syntax.
+4. Never summarize, guess, or explain what you're doing.
+5. If no cleaning is needed, return the input text exactly as it is — no explanation or changes.
 
 ---
 Raw Text:
@@ -39,8 +41,8 @@ Raw Text:
 
 ---
 Cleaned and formatted output:
-
 """
+
 question_cleaning_prompt = """
 You are a question optimizer.
 

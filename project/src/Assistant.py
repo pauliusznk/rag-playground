@@ -35,7 +35,7 @@ class Assistant:
         documents = self.retriever.invoke(cleaned_question)
         context_text = ""
         for doc in documents:
-            context_text += doc.page_content + "\n\n"
+            context_text += doc.page_content + "\n"
         answer_prompt = PromptTemplate(
             input_variables=["context", "question"],
             template=self.user_prompt

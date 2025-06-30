@@ -1,603 +1,206 @@
-2025 m.  
-LIETUVOS AUTOMOBILIŲ RALIO  
+LIETUVOS AUTOMOBILIŲ RALIO 
 TAISYKLĖS T – 2025
-PAGRINDINĖS NUOSTATOS
+10
 
+                     PATVIRTINTA:
+           LASF Ralio komiteto, 2025-01-16/17
+                  Protokolo Nr. 2025-02
+
+Šių taisyklių pagrindu paimtos FIA Regioninių ralio čempionatų taisyklės. Taisyklių numeracija atitinka FIA regioninių ralio čempionatų taisyklių numeraciją.
+
+PAGRINDINĖS NUOSTATOS
 1. BENDROSIOS ČEMPIONATO SĄLYGOS
 
+Žodis „čempionatai“ taikytinas Lietuvoje vykdomoms A, B, C lygų čempionato statusą turinčioms varžybų serijoms.
+Čempionatus bei varžybų serijas reglamentuoja FIA tarptautinis automobilių sporto kodeksas ir jo priedai (toliau FIA kodeksas), LASF kodeksas ir jo priedai (toliau kodeksas), šios taisyklės bei atitinkamo čempionato reglamentai.
+„A lyga“ – tai automobilių sporto šakų klasifikuojamos varžybos, kuriuose sportininkai turi nacionalinę A Junior, A ar Tarptautines B, C, R Vairuotojo LASF ar kitos ASF išduotas licencijas, varžybose dalyvauja automobiliais, kurie turi LASF ar kitos ASF išduotus sportinių automobilių techninius pasus ir atitinka FIA ir/ar nacionalinius techninius reikalavimus, dėvi privalomą FIA homologuotą sportininko ekipiruotę (įskaitant ir šalmus), aprašytą tų varžybų reglamente.
+„B lyga“ – tai automobilių sporto šakų klasifikuojamos varžybos, kuriose sportininkai turi nacionalinę B ar aukštesnės kategorijos Vairuotojo LASF ar kitos ASF išduotas licencijas, varžybose dalyvauja automobiliais, kurie turi LASF ar kitos ASF išduotus sportinių automobilių techninius pasus ir kurių techninius reikalavimus nustato Ralio komitetas.
+„C lyga“ – tai automobilių sporto šakų klasifikuojamos varžybos, kuriose sportininkai turi nacionalinę ar individualią C, ar aukštesnės kategorijos Vairuotojo LASF ar kitos ASF išduotas licencijas, arba neklasifikuojamos varžybos, kuriose licencijos neprivalomos, varžybose dalyvauja automobiliais, kurių techninius reikalavimus nustato Ralio komitetas.
+Čempionatų varžybų kalendorius skelbiamas atitinkamų čempionatų reglamentuose.
 1.1. TAIKYMAS
+1.1.1. Visi vairuotojai, pareiškėjai ir oficialūs asmenys, dalyvaujantys čempionatuose įsipareigoja asmeniškai bei savo darbuotojų ar su jais susijusių asmenų vardu, laikytis visų nuostatų kuriomis papildytas ar patikslintas FIA kodeksas, LASF kodeksas, galiojantys Techniniai Reglamentai, šių taisyklių ir visų ralių papildomų nuostatų. Šių taisyklių tikslais, čempionatų partneriai, vykdytojai, padangų gamintojai, kuro tiekėjai ar bet kokie kiti tiekėjai susiję su sportiniais automobiliais yra laikomi varžybų dalyviais pagal FIA Kodekso 1.3 punktą, ir todėl privalo laikytis visų jiems keliamų reikalavimų, taip pat laikytis visų sporto institucijos sprendimų.
+1.1.2. Tik LASF, išimtinais atvejais, gali leisti nesilaikyti šių taisyklių punktų.
+1.1.3. Apie bet kokį šių taisyklių nesilaikymą bus pranešta varžybų komisarams, kurie privalo skirti baudą, kaip nurodyta kodekso 12 straipsnyje. Bet koks atvejis, nenurodytas šiose nuostatose, bus nagrinėjamas sporto komisarų, kurie vieninteliai gali priimti galutinį sprendimą varžybų metu.
+11
 
-1.2. OFICIALI KALBA
+1.1.4. Varžybų vadovas atsakingas už šių taisyklių bei varžybų papildomų nuostatų taikymą prieš varžybas ir varžybų metu. Jis privalo pranešti SKK apie bet kokius įvykusius incidentus, kurių metu buvo pažeistos šios taisyklės, reglamentas ar varžybų papildomi nuostatai.
 
-1.3. AIŠKINIMAS
+1.1.5. Taisyklėse nenumatytus atvejus, apibrėžimus bei papildomus reikalavimus gali papildomai nustatyti Ralio komitetas. Viskas, kas nėra aiškiai leidžiama pagal šias nuostatas, yra draudžiama.
 
-1.4. TAISYKLIŲ ĮSIGALIOJIMO DATA
+1.1.6. Apie bet kokį šių taisyklių pažeidimą bus pranešta sporto komisarams, kurie gali skirti nuobaudą, kaip numatyta reglamentuojančiuose dokumentuose. Bet kokius atvejus, nenumatytus taisyklėse, išnagrinės komisarai, kurie vieni turi teisę priimti sprendimus varžybų metu, kaip numatyta Lietuvos automobilių sporto kodekse.
+
+1.1.7. Visi čempionatuose ir etapuose dalyvaujantys dalyviai (I vairuotojai ir II vairuotojai) privalo pateikdami dalyvio paraišką, ar administracinės komisijos metu, pasirašyti, kad laikysis nurodytų taisyklių.
+
+1.2. OFICIALI KALBA  
+Vykdant tarptautines ar bendras ralio varžybas su kaimyninėmis šalimis įvairūs dokumentai (papildomi nuostatai, priedai ir visi biuleteniai) turi būti parašyti lietuvių ir anglų kalba. Neprivalomi ralio varžybų dokumentai lietuvių kalba, jei ralio varžybos vykdomos ne Lietuvos teritorijoje. Iškilus neaiškumams, oficialus tekstas laikomas tekstas anglų kalba. Visų „A lygos“ čempionato varžybų, kurios organizuojamos Lietuvos teritorijoje, įvairūs dokumentai turi būti parengti lietuvių ir anglų kalbomis.
+
+1.3. AIŠKINIMAS  
+Iškilus bet kokiam neaiškumui dėl šių taisyklių aiškinimo, tik LASF Ralio komitetas turi teisę priimti galutinį sprendimą. Varžybų metu SKK priima sprendimą dėl iškilusių neaiškumų.
+
+1.4. TAISYKLIŲ ĮSIGALIOJIMO DATA  
+Šios taisyklės pradeda galioti nuo 2025 m. sausio mėn. 17 d.
 
 2. APIBRĖŽIMAI
 
-2.1. RALIO PRADŽIA
+2.1. RALIO PRADŽIA  
+Ralis prasideda nuo administracinio tikrinimo ar susipažinimo (kuris iš jų prasideda anksčiau) momento. Ralio sportinė dalis prasideda nuo pirmo laiko kontrolės punkto.
 
-2.2. BIULETENIS
+2.2. BIULETENIS  
+Oficialus raštiškas dokumentas, skirtas keisti, paaiškinti arba užbaigti papildomus ralio nuostatus. Biuletenis negali keisti, taisyti ar tikslinti T-2025 ralio taisyklių.
 
-2.3. KOMUNIKACIJA
+2.3. KOMUNIKACIJA  
+Informatyvaus turinio oficialiai išleisti varžybų vadovo ar komisarų rašytiniai dokumentai.
 
-2.4. KONTROLĖS ZONOS
+2.4. KONTROLĖS ZONOS  
+Zona tarp pirmo geltonos spalvos įspėjamojo ženklo ir paskutinio smėlio spalvos ženklo su trimis skersinėmis juostomis yra laikoma kontrolės zona.
 
-2.5. EKIPAŽAS
+2.5. EKIPAŽAS  
+Ekipažą sudaro du asmenys, esantys kiekviename automobilyje, kurie įvardijami kaip pirmasis vairuotojas ir antrasis vairuotojas. Išskyrus atvejus, kai nurodyta kitaip, ralio metu bet kuris ekipažo narys gali vairuoti automobilį ir jie abu privalo turėti galiojančias LASF ar kitos ASF išduotas vairuotojo licencijas.
+12
 
-2.6. SPRENDIMAS
+leidžiančias dalyvauti atitinkamose varžybose. Ralio metu pirmasis vairuotojas gali paduoti protestą ir apeliaciją, bei sumokėti jam paskirtas baudas.
 
-2.7. LASF RK
+2.6. SPRENDIMAS  
+Komisarų išleistas rašytinis dokumentas, kuriuo jie paskelbia savo išvadas dėl užklausimų, protestų ir kitų jų atliktų svarstymų.
 
-2.8. VARŽYBŲ PABAIGA
+2.7. LASF RK  
+Bet koks LASF RK pavadinimo naudojimas yra užuomina į LASF Ralio komitetą.
 
-2.9. RATAS
+2.8. VARŽYBŲ PABAIGA  
+Varžybos baigiasi paskelbus galutinius oficialius rezultatus. Ralio sportinė dalis baigiasi paskutiniame laiko kontrolės punkte.
 
-2.10. ŽINIASKLAIDOS ZONA
+2.9. RATAS  
+Kiekviena sportinė ralio dalis, atskirta naktiniu pergrupavimu. Jei pirmąją ralio dieną organizuojamas tik „Super“ greičio ruožas, jis yra laikomas pirmo rato pirma sekcija. Lietuvoje naktinis uždaras parkas privalomas 2-jų dienų formato raliuose ir neprivalomas žiemos etapuose (1-os ar 2-jų dienų).
 
-2.11. NEUTRALIZACIJA
+2.10. ŽINIASKLAIDOS ZONA  
+Žiniasklaidos atstovams įrengta zona prieš įvažiavimą į serviso zoną, nuotolinę serviso zoną, pergrupavimo zoną ar už greičio ruožo STOP teisėjų posto.
 
-2.13. UŽDARAS PARKAS (PARC FERMÉ)
+2.11. NEUTRALIZACIJA  
+Laiko tarpas, kurio metu dėl vienokios ar kitos priežasties organizatorius sustabdo ekipažus ir kurio metu taikomos uždaro parko taisyklės.
 
-2.14. DRAUDŽIAMAS SERVISAS
+2.12. PRANEŠIMAS  
+Varžybų vadovo išleistas rašytinis dokumentas, kuriuo jis praneša ir informuoja dalyvį (dalyvius, komandą) apie šių taisyklių, reglamento, papildomų nuostatų ir/ar biuletenio taisyklių pažeidimą ir baudos taikymą.
 
-2.15. SUSIPAŽINIMAS SU TRASA
+2.13. UŽDARAS PARKAS (PARC FERMÉ)  
+Zona, kurioje bet kokios operacijos su sportiniu automobiliu, įskaitant jo tikrinimą, reguliavimą ir taisymą, skysčių papildymą, leidžiamas tik aiškiai apibrėžtais šių taisyklių ir ralio papildomų nuostatų atvejais ir į kurią įleidžiami tik asmenys, nurodyti šių taisyklių 42 str.
 
-2.16. SUSIPAŽINIMO SU TRASA TVARKARAŠTIS
+2.14. DRAUDŽIAMAS SERVISAS  
+Ekipažo naudojimas arba gavimas bet kokių apdirbtų medžiagų (kietų ar skystų, nebent jos pateiktos organizatoriaus), atsarginių dalių, įrankių ar įrangos, išskyrus tuos, kurie vežami sportiniame automobilyje arba komandos personalo pasirodymas neleistinoje vietoje, kaip nurodyta šiose taisyklėse.
+
+2.15. SUSIPAŽINIMAS SU TRASA  
+Ekipažo nario, ketinančio dalyvauti ralyje, pasirodymas greičio ruože kokiu nors būdu bet kuriuo metu po trasos maršruto arba draudžiamųjų zonų paskelbimo. Susipažinimo su trasa metu visas maršrutas, nurodytas kelio knygoje, prilyginamas ralio trasai. Tikslus susipažinimo su trasa vykdymas apibrėžiamas 35 straipsnyje.
+
+2.16. SUSIPAŽINIMO SU TRASA TVARKARAŠTIS  
+Tvarkaraštis, kuris nurodomas ralio varžybų papildomuose nuostatuose ir kuriuo vadovaujantis ekipažai susipažįsta su ralio maršrutu.
 
 2.17. PERGRUPAVIMAS
+13
 
-2.18. KELIO SEKCIJA (PERVAŽIAVIMAS)
+Organizatorių numatytas sustojimas, kurio metu galioja uždaro parko sąlygos ir kurio metu vykdoma atvykimo ir išvykimo laiko kontrolė, kad būtų laikomasi grafiko ir / arba siekiant pergrupuoti ralyje vis dar esančius automobilius. Sustojimo laikas kiekvienam ekipažui gali skirtis.
 
-2.19. RALIO SEKCIJA
+2.18. KELIO SEKCIJA (PERVAŽIAVIMAS)  
+Visas ralio maršrutas, nurodytas kelio knygoje, išskyrus greičio ruožus.
 
-2.20. SERVISAS
+2.19. RALIO SEKCIJA  
+Kiekviena sportinė ralio varžybų dalis, atskirta pergrupavimu.
 
-2.21. GREIČIO RUOŽAS
+2.20. SERVISAS  
+Bet kokie darbai, atliekami dalyvaujančiam automobiliui, išskyrus šiose taisyklėse nurodytus apribojimus.
 
-2.22. „SUPER“ GREIČIO RUOŽAS
+2.21. GREIČIO RUOŽAS  
+Laiku matuojamas greičio testas keliuose, uždarytuose nuo viešo bendro naudojimo, ralio varžybų tikslams.
 
-2.23. KOMANDA
+2.22. „SUPER“ GREIČIO RUOŽAS  
+Bet koks nukrypimas nuo šiose taisyklėse aprašyto greičio ruožo vykdymo ir detalizuotas papildomuose varžybų nuostatuose bei pažymėtas maršrutinėje kortelėje.
 
-2.24. LAIKO KORTELĖ
+2.23. KOMANDA  
+Komanda susideda iš pareiškėjo, ekipažo, aptarnaujančio personalo ir kitų asmenų, kurie yra sietini su ekipažu.
 
-2.25. TECHNINĖ ZONA (taikomas UP režimas)
+2.24. LAIKO KORTELĖ  
+Kortelė, skirta laiko žymoms laiko kontrolės punktuose, numatytuose varžybų maršrute.
 
-2.27. GELTONA KORTELĖ
+2.25. TECHNINĖ ZONA (taikomas UP režimas)  
+Zona, atskirta dviem laiko kontrolės punktais, kurioje tikrintojai atlieka techninius patikrinimus.
 
-2.28. MĖLYNA KORTELĖ
+2.26. TAISYKLIŲ IŠIMTIS  
+Sąmoningas šių taisyklių dalies atleidimas arba išimtis. LASF gali leisti atleisti nuo taikymo taisyklių punkto ypačiais, neišvengiamomis ir individualiomis situacijomis. Tačiau išimtis negali pakeisti bendrosios taisyklių prasmės ir gali būti taikoma tik force majeure aplinkybėmis.
 
-2.29. ĮSKAITINIS ČEMPIONATO, VARŽYBŲ SERIJOS ETAPAS
+2.27. GELTONA KORTELĖ  
+Esant rimtiems saugumo pažeidimams varžybų metu, LASF RK gali skirti už pažeidimus atsakingam varžybų organizatoriui geltoną kortelę. Organizatoriui, gavus geltoną kortelę, LASF RK skiria baudą ir/arba gali priimti sprendimą neįtraukti šių varžybų į sekančių metų ralio kalendorių.
+
+2.28. MĖLYNA KORTELĖ  
+Esant rimtiems taisyklių, reglamentų neatitikimams ir prisiimtų įsipareigojimų (maršrutinė kortelė, organizacinė struktūra, varžybų saugos planas ir kt.) pažeidimams, LASF RK gali skirti už pažeidimus atsakingam varžybų organizatoriui mėlyną kortelę. Organizatoriui, gavus mėlyną kortelę, LASF RK skiria baudą ir/arba gali priimti sprendimą įtraukti šias varžybas į sekančių metų ralio kalendorių tik įvykdžius LASF RK organizatoriui pateiktus nurodymus.
+
+2.29. ĮSKAITINIS ČEMPIONATO, VARŽYBŲ SERIJOS ETAPAS  
+Varžybos, kuriose iškovotų taškų suma naudojama skaičiuojant bendrą čempionato, varžybų serijos taškų sumą.
+14
+
+2.30. FORCE MAJEURE  
+Nenugalima jėga, aplinkybės, kurių asmuo negali kontroliuoti, išvengti ar pašalinti, protingai numatyti ir užkirsti kelią joms ar jų padariniams. Pvz., gamtos reiškiniai (audra, potvynis, žemės drebėjimas, gaisras, sukeltas žaibo ir kita), žmonių veiksmais sukeltos aplinkybės (karo veiksmai, riaušės, streikai ir kita).
+
 3. ČEMPIONATO REIKALAVIMAI IR ČEMPIONATO TAŠKAI
 
 3.1. TAŠKŲ SKAIČIAVIMAS  
+3.1.1. Čempionato taškų skaičiavimas. Čempionate, varžybų serijoje taškai skaičiuojami pagal 2025 m. čempionatų reglamentuose nustatytus kriterijus.  
+3.1.2. Papildomų taškų skaičiavimas. Papildomi taškai skaičiuojami pagal 2025 m. čempionatų, varžybų serijų reglamentuose nustatytus kriterijus.  
+3.1.3. Sumažintų taškų skaičiavimas. Jei vienas iš etapų, įtrauktų į čempionatą, varžybų seriją, negali būti vykdomas pilnai, taškai yra skiriami atsižvelgiant į ralio varžybų galutinius rezultatus:
+
+- visi taškai, jei buvo įvykdyta daugiau nei 75 % numatytų greičio ruožų ilgio (skaičiuojant atstumą);  
+- pusė taškų, jei buvo įvykdyta 50-75 % numatytų greičio ruožų ilgio;  
+- trečdalis taškų, jei buvo įvykdyta 25-50 % numatytų greičio ruožų ilgio;  
+- Taškai nėra skiriami, jei buvo įvykdyta mažiau nei 25 % numatytų greičio ruožų ilgio. Ši taisyklė galioja ir čempionato, varžybų serijos ir papildomų taškų skyrimui.
+
+- Dešimtainiai skaičiai yra suapvalinami iki artimiausio pilno skaičiaus.  
+- Išimtinėmis aplinkybėmis LASF RK gali nuspręsti taikyti kitokį sumažintų taškų priskyrimo principą.
+
+3.1.4. Tam, kad I ir II vairuotojas rinktų čempionatinius taškus, greičio ruožuose ekipažas privalo lenktyniauti tose pozicijoje (I ir II vairuotojo), kaip yra nurodęs dalyvio paraiškoje, išskyrus force majeure situacijas, apie kurias yra pranešta SKK ir jie jas pripažįsta.  
+3.1.5. Jei kuris nors LARČ ralis organizuojamas kartu su Pasaulio ralio čempionato ar Europos ralio čempionato varžybomis, galioja WRC/ERC ralio taisyklės. Tuo atveju, LARČ čempionato taškų skaičiavimas yra pagal 3.1.1. punktą, tačiau taikomas koeficientas 1,5.
+
 3.2. ČEMPIONATO, VARŽYBŲ SERIJOS TAŠKŲ SKAIČIAVIMAS  
+Ralio galutiniai rezultatai skaičiuojami atsižvelgiant į atitinkamų čempionatų reglamentuose numatytas sąlygas. Pirmasis ir antrasis vairuotojas, surinkęs daugiausiai taškų, bus paskelbtas atitinkamo čempionato, varžybų serijos čempionu/nugalėtoju.
+
+4., 5., 6., 7. LIETUVOJE NETAIKOMI
 
 8. LYGIOSIOS ČEMPIONATE, VARŽYBŲ SERIJOJE
 
 8.1. PIRMI IR ANTRI VAIRUOTOJAI  
-8.2. KOMANDOS  
-
-9. PRIORITETINIAI VAIRUOTOJAI  
-
-10. VARŽYBŲ CHARAKTERISTIKOS
-
-10.1. RALIO CHARAKTERISTIKA  
-10.2. RALIO PROGRAMA  
-
-11. OFICIALŪS ASMENYS IR DELEGATAI
-
-11.1. KOMISARAI  
-11.2. LASF DELEGATAI  
-11.3. TEISĖJAS RYŠIAMS SU DALYVIAIS  
-
-AUTOMOBILIAI
-
-12. AUTOMOBILIAI, GALINTYS DALYVAUTI ČEMPIONATE
-
-12.1. APIBENDRINIMAS  
-12.2. AUTOMOBILIŲ KLASĖS  
-
-13. PADANGOS IR RATAI
-
-13.1. GALIOJA VISIEMS AUTOMOBILIAMS IR VISIEMS DALYVIAMS  
-13.1.9. LIETUVOJE NETAIKOMAS  
-13.2. LIETUVOJE NETAIKOMAS  
-13.3. LIETUVOJE NETAIKOMAS  
-13.4. LIETUVOJE NETAIKOMAS  
-13.5. LIETUVOJE NETAIKOMAS  
-13.6. LIETUVOJE NETAIKOMAS  
-13.7. PATIKRINIMAS  
-13.8. PADANGŲ ŽYMĖJIMAS/ KONTROLĖS ZONOS  
-13.9. KELIO SEKCIJOS  
-13.10. PADANGŲ SLĖGIO KOREGAVIMAS  
-13.11. ATSARGINIAI RATAI  
-13.12. PADANGŲ GAMINTOJO ATSTOVAI GR STOP VIETOJE  
-13.13. PADANGŲ PRIEINAMUMAS  
-
-16. MECHANINĖS DALYS
-
-16.1. VARIKLIO KEITIMAS  
-16.2. TURBOKOMPRESORIUS
-16.3. TRANSMISIJA ................................................................................................................................................. 19  
-18. PAPILDOMI REIKALAVIMAI AUTOMOBILIAMS ...................................................................................................... 20  
-18.1. AUTOMOBILIO SALONO KAMEROS ............................................................................................................... 20  
-18.2. GPS SEKIMO SISTEMA ................................................................................................................................... 20  
-18.3. TRIUKŠMO LYGIS GREIČIO RUOŽE ................................................................................................................. 20  
-19. LASF STANDARTIZUOTI DOKUMENTAI ................................................................................................................. 20  
-19.1. BENDRIEJI DOKUMENTAI .............................................................................................................................. 21  
-19.2. KELIO KNYGA ................................................................................................................................................. 21  
-19.3. LAIKO KORTELĖ .............................................................................................................................................. 21  
-21. DRAUDIMO SUTARTIS .......................................................................................................................................... 22  
-21.1. DRAUDIMO APRAŠYMAS ............................................................................................................................... 22  
-21.2. CIVILINĖS ATSAKOMYBĖS RENGINIO DRAUDIMAS .......................................................................................... 22  
-21.3. DRAUDIMAS NEGALIOJA ............................................................................................................................... 23  
-22. PARAIŠKŲ PADAVIMO TVARKA............................................................................................................................. 23  
-22.1. BENDROSIOS NUOSTATOS ........................................................................................................................... 23  
-22.2. PARAIŠKŲ PADAVIMAS .................................................................................................................................. 23  
-22.3. PATAISYMAI PARAIŠKOSE .............................................................................................................................. 23  
-22.4. UŽSIENIO DALYVIAI ....................................................................................................................................... 23  
-22.5. PAREIŠKĖJO IR/ARBA EKIPAŽO NARIO/(–IŲ) PAKEITIMAS ............................................................................... 23  
-22.6. PAREIŠKĖJO IR EKIPAŽO NARIŲ ĮSIPAREIGOJIMAI ......................................................................................... 23  
-23. PARAIŠKŲ PATEIKIMO TERMINAI ......................................................................................................................... 23  
-24. STARTINIAI MOKESČIAI ......................................................................................................................................... 24  
-24.1. PARAIŠKOS PRIĖMIMAS ................................................................................................................................. 24  
-24.2. STARTINIO MOKESČIO GRĄŽINIMAS ............................................................................................................. 24  
-24.3. DALINIS STARTINIO MOKESČIO GRĄŽINIMAS ............................................................................................... 24  
-25. KLASĖS .................................................................................................................................................................. 24  
-25.1. AUTOMOBILIO KLASĖS KEITIMAS .................................................................................................................. 24  
-27.1. BENDROSIOS NUOSTATOS ............................................................................................................................ 24  
-27.2. PRIEKINIŲ DURŲ LIPDUKAI ............................................................................................................................ 24  
-27.3. GALINIO LANGO LIPDUKAS ............................................................................................................................ 25  
-27.4. PRIEKINIO LANGO LIPDUKAI .......................................................................................................................... 25  
-27.5. ŠONINIŲ LANGŲ LIPDUKAI ............................................................................................................................ 25  
-27.6. STOGO LIPDUKAS .......................................................................................................................................... 25  
-27.7. RALIO EMBLEMA ........................................................................................................................................... 25  
-28. VAIRUOTOJO IR ANTRO VAIRUOTOJO VARDAI ..................................................................................................... 25  
-28.1. ŠONINIS GALINIS STIKLAS .............................................................................................................................. 25
-29. REKLAMOS APRIBOJIMAI  
-30. ADMINISTRACINIS PATIKRINIMAS  
-30.1. GRAFIKAS  
-30.2. PRIVALOMI DOKUMENTAI  
-31. TECHNINIS PATIKRINIMAS  
-31.1. BENDRIEJI REIKALAVIMAI  
-31.2. GRAFIKAS  
-32. PATIKRINIMAI RALIO METU  
-32.1. PAPILDOMI PATIKRINIMAI  
-32.2. DALYVIO ATSAKOMYBĖ  
-33. PATIKRINIMAI PO RALIO FINIŠO  
-33.1. UŽDARAS PARKAS RALIO FINIŠE  
-33.2. AUTOMOBILIŲ PATIKRINIMAS  
-33.3. HOMOLOGACIJOS FORMA  
-
-VAIRAVIMO PRINCIPAI  
-
-34. ELGESYS  
-34.1. BENDROSIOS TAISYKLĖS  
-34.2. SUSIPAŽINIMAS SU TRASA  
-34.3. GREIČIO VIRŠIJIMAS RALIO METU  
-34.4. KELIŲ EISMO TAISYKLĖS  
-
-SUSIPAŽINIMAS  
-
-35. SUSIPAŽINIMAS SU TRASA  
-35.1. SUSIPAŽINIMO AUTOMOBILIAI  
-35.2. SUSIPAŽINIMO SU TRASA AUTOMOBILIŲ PADANGOS  
-35.3. SUSIPAŽINIMO SU TRASA APRIBOJIMAI  
-35.4. SUSIPAŽINIMO VYKDYMAS  
-
-TESTINIS GREIČIO RUOŽAS  
-
-36. REIKALAVIMAI TESTINIAM GREIČIO RUOŽUI  
-36.1. BENDRIEJI REIKALAVIMAI  
-36.2. TESTINIO GREIČIO RUOŽO VYKDYMAS  
-36.3. SUTIKIMAS PRISIIMTI ATSAKOMYBĘ  
-36.4. TECHNINIAI REIKALAVIMAI  
-36.5. AUTOMOBILIO GEDIMAS TESTINIO RUOŽO METU  
-36.6. VAIRUOTOJO IR KELEIVIO EKIPIRUOTĖ  
-36.7. SERVISAS TESTINIO RUOŽO METU  
-
-37. LAISVOS TRENIRUOTĖS/KVALIFIKACIJA
-37.1. BENDROS NUOSTATOS  
-37.2. LAISVŲ TRENIRUOČIŲ VYKDYMAS  
-37.3. GEDIMAI IR AVARIJOS LAISVŲJŲ TRENIRUOČIŲ METU  
-37.4. KVALIFIKACIJOS VYKDYMAS  
-37.5. GEDIMAI IR AVARIJOS KVALIFIKACIJOS METU  
-37.6. UŽDARAS PARKAS PO KVALIFIKACIJOS GR  
-37.7. STARTO POZICIJŲ PASIRINKIMAS IR PRISKYRIMAS  
-37.8. VĖLAVIMAS AR ANKSTESNIS ATVYKIMAS  
-37.9. KLAIDINGAS STARTAS  
-37.10. SERVISAS  
-
-38. LIETUVOJE NETAIKOMA  
-
-STARTAS IR PAKARTOTINIS STARTAS  
-
-39. STARTO CEREMONIJA  
-
-40. RALIO STARTAS  
-40.1. STARTO ZONA  
-40.2. DIDŽIAUSIAS VĖLAVIMAS Į STARTĄ  
-
-41. STARTO TVARKA IR INTERVALAI  
-41.1. PATIKSLINTOS STARTO TVARKOS REIKALAVIMAI  
-41.2. DALYVIŲ PERSTATYMAS  
-41.3. 1 RATO STARTO TVARKA  
-41.4. TOLESNIŲ RATŲ STARTO TVARKA  
-41.5. STARTO INTERVALAS  
-
-42. KONTROLĖS PUNKTAI - BENDRIEJI REIKALAVIMAI  
-42.1. KONTROLĖS PUNKTŲ ŽENKLINIMAS  
-42.2. APSAUGINĖS UŽTVAROS  
-42.3. SUSTOJIMO LAIKAS KONTROLĖS ZONOSE  
-42.4. PASIRENGIMAS DARBUI  
-42.5. KONTROLĖS PUNKTŲ SEKA IR KRYPTIS  
-42.6. TEISĖJŲ NURODYMAI  
-42.7. ŽINIASKLAIDOS ZONOS (KAI NAUDOJAMOS)  
-42.8. SALONO VIDEO KAMEROS DUOMENŲ NUSKAITYMO IR KAMEROS APTARNAVIMO PUNKTAI  
-
-43. PRAVAŽIAVIMO KONTROLĖ  
-
-44. LAIKO KONTROLĖ  
-44.1. PROCESAS  
-44.2. ATSIŽYMĖJIMO TVARKA  
-44.3. GREIČIO RUOŽAS PO LAIKO KONTROLĖS PUNKTO
-45. VĖLAVIMAS  
-45.1. MAKSIMALUS VĖLAVIMO LAIKAS  
-45.2. ANKSTYVAS ATVYKIMAS  
-45.3. PRANEŠIMAS APIE PAŠALINIMĄ  
-
-46. PERGRUPAVIMAS  
-46.1. PERGRUPAVIMO PROCEDŪRA  
-46.2. IŠVAŽIAVIMAS IŠ PERGRUPAVIMO ZONOS  
-
-47. GREIČIO RUOŽAI - BENDRIEJI REIKALAVIMAI  
-47.1. LAIKO FIKSAVIMAS  
-
-48. GREIČIO RUOŽO STARTAS  
-48.1. STARTO VIETA  
-48.2. STARTO PROCEDŪRA  
-48.3. RANKINĖ STARTO PROCEDŪRA  
-48.4. DĖL EKIPAŽO KALTĖS ATIDĖTAS STARTAS  
-48.5. GREIČIO RUOŽO STARTO ATIDĖJIMAS  
-48.6. KLAIDINGAS STARTAS  
-
-49. GREIČIO RUOŽO FINIŠAS  
-49.1. FINIŠO LINIJA  
-49.2. SUSTOJIMO VIETA  
-
-50. “POWER STAGE” GREIČIO RUOŽAS  
-50.1. “POWER STAGE” YPATYBĖS  
-50.2. CHARAKTERISTIKA  
-50.3. “POWER STAGE” VYKDYMAS  
-50.4. TAŠKAI  
-50.4.1. Taškai ekipažams skiriami pagal:  
-50.4.2. Jei „Power Stage“ yra sustabdytas  
-
-51. “SUPER” GREIČIO RUOŽAI  
-51.1. “SUPER” GREIČIO RUOŽO YPATYBĖS  
-51.2. “SUPER” GREIČIO RUOŽO VYKDYMAS  
-51.3. SAUGOS PLANAS  
-
-52. GREIČIO RUOŽO NUTRAUKIMAS  
-
-53. DALYVIŲ SAUGUMAS  
-53.1. EKIPAŽŲ SAUGOS ĮRANGA  
-53.2. AUTOMOBILIŲ SAUGOS ĮRANGA  
-53.3. ĮVYKIS GREIČIO RUOŽE  
-53.4. ĮVYKIS GREIČIO RUOŽE SU NUKENTĖJUSIAIS PAŠALINIAIS ASMENIMIS
-53.5. RAUDONŲ VĖLIAVŲ NAUDOJIMAS  
-54. PAKARTOTINIS STARTAS PO PASITRAUKIMO/RALLY 2  
-55. TAISYMAS IR TECHNINIS TIKRINIMAS PAKARTOTINIAM STARTUI  
-
-SERVISAS  
-56. SERVISAS - BENDRIEJI REIKALAVIMAI  
-56.1. SERVISO ATLIKIMAS  
-56.2. KOMANDOS PERSONALAS IR SERVISO APRIBOJIMAI  
-57. SERVISO PARKAI  
-57.1. BENDRIEJI REIKALAVIMAI  
-58. KURO BAKO IŠTUŠTINIMAS IR/ARBA PAPILDYMAS SERVISO PARKE  
-59. LANKSTUSIS SERVISAS (FLEXI SERVICE) – 45'  
-59.1. BENDROSIOS NUOSTATOS  
-59.2. LANKSČIOJO SERVISO VYKDYMAS IR LAIKO GRAFIKAS  
-60. NUOTOLINIO SERVISO ZONOS (NSZ)  
-60.1. BENDROSIOS NUOSTATOS  
-60.2. EKIPAŽĄ APTARNAUJANČIO PERSONALO SKAIČIUS  
-60.3. NAUDOJAMA ĮRANGA IR ĮRANKIAI  
-60.4. NUOTOLINĖS SERVISO ZONOS AUTOMOBILIO LEIDIMAS  
-60.5. PADANGŲ KEITIMO ZONA (PKZ)  
-
-KURAS – PAPILDYMAS  
-61. KURO PAPILDYMAS IR TVARKA  
-61.1. VIETA  
-61.2. TVARKA  
-61.3. UŽPYLIMAS KOMERCINĖSE DEGALINĖSE  
-62. LIETUVOJE NETAIKOMAS  
-
-UŽDARAS PARKAS  
-63. UŽDARO PARKO TAISYKLĖS  
-63.1. PRITAIKYMAS  
-63.2. ASMENYS, GALINTYS PATEKTI Į UŽDARĄ PARKĄ  
-63.3. AUTOMOBILIO STŪMIMAS UŽDARAME PARKE  
-63.4. AUTOMOBILIŲ APDANGALAI  
-63.5. TECHNINIAI PATIKRINIMAI  
-63.6. REMONTO DARBAI UŽDARAME PARKE  
-63.7. UŽDARAS PARKAS PO RALIO FINIŠO  
-
-REZULTATAI IR KITI DOKUMENTAI PO VARŽYBŲ  
-64. RALIO REZULTATAI
-64.1. REZULTATŲ APSKAIČIAVIMAS  
-64.2. REZULTATŲ PASKELBIMAS  
-64.3. LYGIOSIOS RALIO RATE ARBA ČEMPIONATO RALYJE  
-64.4. NEŠALIŠKAS IR GARBINGAS VARŽYBŲ NUŠVIETIMAS  
-
-66. RALIO APDOVANOJIMAI  
-66.1. FINIŠO PODIUMAS  
-66.2. APDOVANOJIMAS  
-
-67. METINIS LASF APDOVANOJIMAS  
-67.1. DALYVAVIMO REIKALAVIMAI  
-67.2. NEDALYVAVIMAS  
-
-68. LIETUVOJE NETAIKOMAS  
-
-PRIEDAI  
-1. Ralio ženklai – 3 lapai  
-2. Standartiniai dokumentai – 16 lapų  
-3. Stabdymo zonos – 2 lapai
-PATVIRTINTA:  
-LASF Ralio komiteto, 2025-01-16/17  
-Protokolo Nr. 2025-02  
-
-Šių taisyklių pagrindu paimtos FIA Regioninių ralio čempionatų taisyklės. Taisyklių numeracija atitinka  
-FIA regioninių ralio čempionatų taisyklių numeraciją.  
-
-# PAGRINDINĖS NUOSTATOS
-
-## 1. BENDROSIOS ČEMPIONATO SĄLYGOS
-
-Žodis „čempionatai“ taikytinas Lietuvoje vykdomoms A, B, C lygų čempionato statusą turinčioms  
-varžybų serijoms.  
-Čempionatus bei varžybų serijas reglamentuoja FIA tarptautinis automobilių sporto kodeksas ir jo priedai  
-(toliau FIA kodeksas), LASF kodeksas ir jo priedai (toliau kodeksas), šios taisyklės bei atitinkamo  
-čempionato reglamentai.  
-
-- **„A lyga“** – tai automobilių sporto šakų klasifikuojamos varžybos, kuriuose sportininkai turi nacionalinę  
-  A Junior, A ar Tarptautines B, C, R Vairuotojo LASF ar kitos ASF išduotas licencijas, varžybose dalyvauja  
-  automobiliais, kurie turi LASF ar kitos ASF išduotus sportinių automobilių techninius pasus ir atitinka  
-  FIA ir/ar nacionalinius techninius reikalavimus, dėvi privalomą FIA homologuotą sportininko ekipiruotę  
-  (įskaitant ir šalmus), aprašytą tų varžybų reglamente.  
-
-- **„B lyga“** – tai automobilių sporto šakų klasifikuojamos varžybos, kuriose sportininkai turi nacionalinę  
-  B ar aukštesnės kategorijos Vairuotojo LASF ar kitos ASF išduotas licencijas, varžybose dalyvauja  
-  automobiliais, kurie turi LASF ar kitos ASF išduotus sportinių automobilių techninius pasus ir kurių  
-  techninius reikalavimus nustato Ralio komitetas.  
-
-- **„C lyga“** – tai automobilių sporto šakų klasifikuojamos varžybos, kuriose sportininkai turi nacionalinę  
-  ar individualią C, ar aukštesnės kategorijos Vairuotojo LASF ar kitos ASF išduotas licencijas, arba  
-  neklasifikuojamos varžybos, kuriose licencijos neprivalomos, varžybose dalyvauja automobiliais, kurių  
-  techninius reikalavimus nustato Ralio komitetas.  
-
-Čempionatų varžybų kalendorius skelbiamas atitinkamų čempionatų reglamentuose.  
-
-### 1.1. TAIKYMAS
-
-#### 1.1.1.  
-Visi vairuotojai, pareiškėjai ir oficialūs asmenys, dalyvaujantys čempionatuose įsipareigoja  
-asmeniškai bei savo darbuotojų ar su jais susijusių asmenų vardu, laikytis visų nuostatų kuriomis  
-papildytas ar patikslintas FIA kodeksas, LASF kodeksas, galiojantys Techniniai Reglamentai, šių taisyklių ir  
-visų ralių papildomų nuostatų. Šių taisyklių tikslais, čempionatų partneriai, vykdytojai, padangų  
-gamintojai, kuro tiekėjai ar bet kokie kiti tiekėjai susiję su sportiniais automobiliais yra laikomi varžybų  
-dalyviais pagal FIA Kodekso 1.3 punktą, ir todėl privalo laikytis visų jiems keliamų reikalavimų, taip pat  
-laikytis visų sporto institucijos sprendimų.  
-
-#### 1.1.2.  
-Tik LASF, išimtinais atvejais, gali leisti nesilaikyti šių taisyklių punktų.  
-
-#### 1.1.3.  
-Apie bet kokį šių taisyklių nesilaikymą bus pranešta varžybų komisarams, kurie privalo skirti baudą,  
-kaip nurodyta kodekso 12 straipsnyje. Bet koks atvejis, nenurodytas šiose nuostatose, bus nagrinėjamas  
-sporto komisarų, kurie vieninteliai gali priimti galutinį sprendimą varžybų metu.
-1.1.4. Varžybų vadovas atsakingas už šių taisyklių bei varžybų papildomų nuostatų taikymą prieš varžybas ir varžybų metu. Jis privalo pranešti SKK apie bet kokius įvykusius incidentus, kurių metu buvo pažeistos šios taisyklės, reglamentas ar varžybų papildomi nuostatai.  
-1.1.5. Taisyklėse nenumatytus atvejus, apibrėžimus bei papildomus reikalavimus gali papildomai nustatyti Ralio komitetas. Viskas, kas nėra aiškiai leidžiama pagal šias nuostatas, yra draudžiama.  
-1.1.6. Apie bet kokį šių taisyklių pažeidimą bus pranešta sporto komisarams, kurie gali skirti nuobaudą, kaip numatyta reglamentuojančiuose dokumentuose. Bet kokius atvejus, nenumatytus taisyklėse, išnagrinės komisarai, kurie vieni turi teisę priimti sprendimus varžybų metu, kaip numatyta Lietuvos automobilių sporto kodekse.  
-1.1.7. Visi čempionatuose ir etapuose dalyvaujantys dalyviai (I vairuotojai ir II vairuotojai) privalo pateikdami dalyvio paraišką, ar administracinės komisijos metu, pasirašyti, kad laikysis nurodytų taisyklių.  
-
-1.2. OFICIALI KALBA  
-Vykdant tarptautines ar bendras ralio varžybas su kaimyninėmis šalimis įvairūs dokumentai (papildomi nuostatai, priedai ir visi biuleteniai) turi būti parašyti lietuvių ir anglų kalba. Neprivalomi ralio varžybų dokumentai lietuvių kalba, jei ralio varžybos vykdomos ne Lietuvos teritorijoje. Iškilus neaiškumams, oficialus tekstas laikomas tekstas anglų kalba. Visų „A lygos“ čempionato varžybų, kurios organizuojamos Lietuvos teritorijoje, įvairūs dokumentai turi būti parengti lietuvių ir anglų kalbomis.  
-
-1.3. AIŠKINIMAS  
-Iškilus bet kokiam neaiškumui dėl šių taisyklių aiškinimo, tik LASF Ralio komitetas turi teisę priimti galutinį sprendimą. Varžybų metu SKK priima sprendimą dėl iškilusių neaiškumų.  
-
-1.4. TAISYKLIŲ ĮSIGALIOJIMO DATA  
-Šios taisyklės pradeda galioti nuo 2025 m. sausio mėn. 17 d.  
-
----
-
-2. APIBRĖŽIMAI  
-
-2.1. RALIO PRADŽIA  
-Ralis prasideda nuo administracinio tikrinimo ar susipažinimo (kuris iš jų prasideda anksčiau) momento. Ralio sportinė dalis prasideda nuo pirmo laiko kontrolės punkto.  
-
-2.2. BIULETENIS  
-Oficialus raštiškas dokumentas, skirtas keisti, paaiškinti arba užbaigti papildomus ralio nuostatus. Biuletenis negali keisti, taisyti ar tikslinti T-2025 ralio taisyklių.  
-
-2.3. KOMUNIKACIJA  
-Informatyvaus turinio oficialiai išleisti varžybų vadovo ar komisarų rašytiniai dokumentai.  
-
-2.4. KONTROLĖS ZONOS  
-Zona tarp pirmo geltonos spalvos įspėjamojo ženklo ir paskutinio smėlio spalvos ženklo su trimis skersinėmis juostomis yra laikoma kontrolės zona.  
-
-2.5. EKIPAŽAS  
-Ekipažą sudaro du asmenys, esantys kiekviename automobilyje, kurie įvardijami kaip pirmasis vairuotojas ir antrasis vairuotojas. Išskyrus atvejus, kai nurodyta kitaip, ralio metu bet kuris ekipažo narys gali vairuoti automobilį ir jie abu privalo turėti galiojančias LASF ar kitos ASF išduotas vairuotojo licencijas.
-leidžiančias dalyvauti atitinkamose varžybose. Ralio metu pirmasis vairuotojas gali paduoti protestą ir  
-apeliaciją, bei sumokėti jam paskirtas baudas.  
-
-2.6. SPRENDIMAS  
-Komisarų išleistas rašytinis dokumentas, kuriuo jie paskelbia savo išvadas dėl užklausimų, protestų ir  
-kitų jų atliktų svarstymų.  
-
-2.7. LASF RK  
-Bet koks LASF RK pavadinimo naudojimas yra užuomina į LASF Ralio komitetą.  
-
-2.8. VARŽYBŲ PABAIGA  
-Varžybos baigiasi paskelbus galutinius oficialius rezultatus. Ralio sportinė dalis baigiasi paskutiniame  
-laiko kontrolės punkte.  
-
-2.9. RATAS  
-Kiekviena sportinė ralio dalis, atskirta naktiniu pergrupavimu. Jei pirmąją ralio dieną organizuojamas  
-tik „Super“ greičio ruožas, jis yra laikomas pirmo rato pirma sekcija. Lietuvoje naktinis uždaras parkas  
-privalomas 2-jų dienų formato raliuose ir neprivalomas žiemos etapuose (1-os ar 2-jų dienų).  
-
-2.10. ŽINIASKLAIDOS ZONA  
-Žiniasklaidos atstovams įrengta zona prieš įvažiavimą į serviso zoną, nuotolinę serviso zoną, pergrupavimo  
-zoną ar už greičio ruožo STOP teisėjų posto.  
-
-2.11. NEUTRALIZACIJA  
-Laiko tarpas, kurio metu dėl vienokios ar kitokios priežasties organizatorius sustabdo ekipažus ir kurio  
-metu taikomos uždaro parko taisyklės.  
-
-2.12. PRANEŠIMAS  
-Varžybų vadovo išleistas rašytinis dokumentas, kuriuo jis praneša ir informuoja dalyvį (dalyvius, komandą)  
-apie šių taisyklių, reglamento, papildomų nuostatų ir/ar biuletenio taisyklių pažeidimą ir baudos taikymą.  
-
-2.13. UŽDARAS PARKAS (PARC FERMÉ)  
-Zona, kurioje bet kokios operacijos su sportiniu automobiliu, įskaitant jo tikrinimą, reguliavimą ir  
-taisymą, skysčių papildymą, leidžiamas tik aiškiai apibrėžtais šių taisyklių ir ralio papildomų nuostatų  
-atvejais ir į kurią įleidžiami tik asmenys, nurodyti šių taisyklių 42 str.  
-
-2.14. DRAUDŽIAMAS SERVISAS  
-Ekipažo naudojimas arba gavimas bet kokių apdirbtų medžiagų (kietų ar skystų, nebent jos pateiktos  
-organizatoriaus), atsarginių dalių, įrankių ar įrangos, išskyrus tuos, kurie vežami sportiniame  
-automobilyje arba komandos personalo pasirodymas neleistinoje vietoje, kaip nurodyta šiose  
-taisyklėse.  
-
-2.15. SUSIPAŽINIMAS SU TRASA  
-Ekipažo nario, ketinančio dalyvauti ralyje, pasirodymas greičio ruože kokiu nors būdu bet kuriuo metu  
-po trasos maršruto arba draudžiamųjų zonų paskelbimo. Susipažinimo su trasa metu visas maršrutas,  
-nurodytas kelio knygoje, prilyginamas ralio trasai. Tikslus susipažinimo su trasa vykdymas apibrėžiamas  
-35 straipsnyje.  
-
-2.16. SUSIPAŽINIMO SU TRASA TVARKARAŠTIS  
-Tvarkaraštis, kuris nurodomas ralio varžybų papildomuose nuostatuose ir kuriuo vadovaujantis ekipažai  
-susipažįsta su ralio maršrutu.  
-
-2.17. PERGRUPAVIMAS
-Organizatorių numatytas sustojimas, kurio metu galioja uždaro parko sąlygos ir kurio metu vykdoma atvykimo ir išvykimo laiko kontrolė, kad būtų laikomasi grafiko ir / arba siekiant pergrupuoti ralyje vis dar esančius automobilius. Sustojimo laikas kiekvienam ekipažui gali skirtis.
-
-**2.18. KELIO SEKCIJA (PERVAŽIAVIMAS)**  
-Visas ralio maršrutas, nurodytas kelio knygoje, išskyrus greičio ruožus.
-
-**2.19. RALIO SEKCIJA**  
-Kiekviena sportinė ralio varžybų dalis, atskirta pergrupavimu.
-
-**2.20. SERVISAS**  
-Bet kokie darbai, atliekami dalyvaujančiam automobiliui, išskyrus šiose taisyklėse nurodytus apribojimus.
-
-**2.21. GREIČIO RUOŽAS**  
-Laiku matuojamas greičio testas keliuose, uždarytuose nuo viešo bendro naudojimo, ralio varžybų tikslams.
-
-**2.22. „SUPER“ GREIČIO RUOŽAS**  
-Bet koks nukrypimas nuo šiose taisyklėse aprašyto greičio ruožo vykdymo ir detalizuotas papildomuose varžybų nuostatuose bei pažymėtas maršrutinėje kortelėje.
-
-**2.23. KOMANDA**  
-Komanda susideda iš pareiškėjo, ekipažo, aptarnaujančio personalo ir kitų asmenų, kurie yra sietini su ekipažu.
-
-**2.24. LAIKO KORTELĖ**  
-Kortelė, skirta laiko žymoms laiko kontrolės punktuose, numatytuose varžybų maršrute.
-
-**2.25. TECHNINĖ ZONA (taikomas UP režimas)**  
-Zona, atskirta dviem laiko kontrolės punktais, kurioje tikrintojai atlieka techninius patikrinimus.
-
-**2.26. TAISYKLIŲ IŠIMTIS**  
-Sąmoningas šių taisyklių dalies atleidimas arba išimtis. LASF gali leisti atleisti nuo taikymo taisyklių punkto ypatingomis, neišvengiamomis ir individualiomis situacijos. Tačiau išimtis negali pakeisti bendrosios taisyklių prasmės ir gali būti taikoma tik force majeure aplinkybėmis.
-
-**2.27. GELTONA KORTELĖ**  
-Esant rimtiems saugumo pažeidimams varžybų metu, LASF RK gali skirti už pažeidimus atsakingam varžybų organizatoriui geltoną kortelę. Organizatoriui, gavus geltoną kortelę, LASF RK skiria baudą ir/arba gali priimti sprendimą neįtraukti šių varžybų į sekančių metų ralio kalendorių.
-
-**2.28. MĖLYNA KORTELĖ**  
-Esant rimtiems taisyklių, reglamentų neatitikimams ir prisiimtų įsipareigojimų (maršrutinė kortelė, organizacinė struktūra, varžybų saugos planas ir kt.) pažeidimams, LASF RK gali skirti už pažeidimus atsakingam varžybų organizatoriui mėlyną kortelę. Organizatoriui, gavus mėlyną kortelę, LASF RK skiria baudą ir/arba gali priimti sprendimą įtraukti šias varžybas į sekančių metų ralio kalendorių tik įvykdžius LASF RK organizatoriui pateiktus nurodymus.
-
-**2.29. ĮSKAITINIS ČEMPIONATO, VARŽYBŲ SERIJOS ETAPAS**  
-Varžybos, kuriose iškovotų taškų suma naudojama skaičiuojant bendrą čempionato, varžybų serijos taškų sumą.
-2.30. FORCE MAJEURE  
-Nenugalima jėga, aplinkybės, kurių asmuo negali kontroliuoti, išvengti ar pašalinti, protingai numatyti ir užkirsti kelią joms ar jų padariniams. Pvz., gamtos reiškiniai (audra, potvynis, žemės drebėjimas, gaisras, sukeltas žaibo ir kita), žmonių veiksmais sukeltos aplinkybės (karo veiksmai, riaušės, streikai ir kita).
-
----
-
-3. ČEMPIONATO REIKALAVIMAI IR ČEMPIONATO TAŠKAI
-
-### 3.1. TAŠKŲ SKAIČIAVIMAS
-
-**3.1.1. Čempionato taškų skaičiavimas.**  
-Čempionate, varžybų serijoje taškai skaičiuojami pagal 2025 m. čempionatų reglamentuose nustatytus kriterijus.
-
-**3.1.2. Papildomų taškų skaičiavimas.**  
-Papildomi taškai skaičiuojami pagal 2025 m. čempionatų, varžybų serijų reglamentuose nustatytus kriterijus.
-
-**3.1.3. Sumažintų taškų skaičiavimas.**  
-Jei vienas iš etapų, įtrauktų į čempionatą, varžybų seriją, negali būti vykdomas pilnai, taškai yra skiriami atsižvelgiant į ralio varžybų galutinius rezultatus:  
-- visi taškai, jei buvo įvykdyta daugiau nei 75 % numatytų greičio ruožų ilgio (skaičiuojant atstumą);  
-- pusė taškų, jei buvo įvykdyta 50-75 % numatytų greičio ruožų ilgio;  
-- trečdalis taškų, jei buvo įvykdyta 25-50 % numatytų greičio ruožų ilgio;  
-- taškai nėra skiriami, jei buvo įvykdyta mažiau nei 25 % numatytų greičio ruožų ilgio. Ši taisyklė galioja ir čempionato, varžybų serijos ir papildomų taškų skyrimui.  
-- dešimtainiai skaičiai yra suapvalinami iki artimiausio pilno skaičiaus.  
-- išimtinėmis aplinkybėmis LASF RK gali nuspręsti taikyti kitokį sumažintų taškų priskyrimo principą.
-
-**3.1.4.**  
-Tam, kad I ir II vairuotojas rinktų čempionatinius taškus, greičio ruožuose ekipažas privalo lenktyniauti tose pozicijoje (I ir II vairuotojo), kaip yra nurodęs dalyvio paraiškoje, išskyrus force majeure situacijas, apie kurias yra pranešta SKK ir jie jas pripažįsta.
-
-**3.1.5.**  
-Jei kuris nors LARČ ralis organizuojamas kartu su Pasaulio ralio čempionato ar Europos ralio čempionato varžybomis, galioja WRC/ERC ralio taisyklės. Tuo atveju, LARČ čempionato taškų skaičiavimas yra pagal 3.1.1. punktą, tačiau taikomas koeficientas 1,5.
-
----
-
-### 3.2. ČEMPIONATO, VARŽYBŲ SERIJOS TAŠKŲ SKAIČIAVIMAS
-
-Ralio galutiniai rezultatai skaičiuojami atsižvelgiant į atitinkamų čempionatų reglamentuose numatytas sąlygas. Pirmasis ir antrasis vairuotojas, surinkęs daugiausiai taškų, bus paskelbtas atitinkamo čempionato, varžybų serijoje čempionu/nugalėtoju.
-
----
-
-4., 5., 6., 7. LIETUVOJE NETAIKOMI
-
----
-
-8. LYGIOSIOS ČEMPIONATE, VARŽYBŲ SERIJOJE
-
-### 8.1. PIRMI IR ANTRI VAIRUOTOJAI  
 Sudarant galutinę čempionato, varžybų serijos rezultatų suvestinę ir norint nustatyti nugalėtoją tarp pirmų ir antrų vairuotojų, kurie iškovojo vienodą taškų skaičių, turi būti taikoma ši taisyklė:  
 - Pagal bendruosiuose įskaitinių ralių rezultatuose iškovotą didesnį skaičių pirmųjų vietų, tada antrųjų, trečiųjų ir t.t.;
-- Pagal visų ralių, kuriuose dalyvavo vienodą taškų skaičių turintys pirmi ir antri vairuotojai bendruosiuose rezultatuose iškovotą didesnį aukštesnių vietų skaičių, viena 11–a vieta verta daugiau nei bet koks kiekis 12–ų vietų, viena 12–a vieta verta daugiau nei bet koks kiekis 13–ų vietų ir t.t.  
-- Esant tolimesnėms lygiosioms, laimi lenktynininkas ir (arba) šturmanas, surinkęs daugiausiai taškų paskutiniame čempionato etape. Jei nėra klasifikuotų šių vairuotojų /šturmanų paskutiniame čempionato etape, jų užimtos vietos nustatomos pagal priešpaskutiniame etape užimtas vietas ir t.t.
+15
 
-### 8.2. KOMANDOS
+- Pagal visų ralių, kuriuose dalyvavo vienodą taškų skaičių turintys pirmi ir antri vairuotojai bendruosiuose rezultatuose iškovotą didesnį aukštesnių vietų skaičių, viena 11 –a vieta verta daugiau nei bet koks kiekis 12–ų vietų, viena 12–a vieta verta daugiau nei bet koks kiekis 13–ų vietų ir t.t.
+- Esant tolimesnėms lygiosioms, laimi lenktynininkas ir (arba) šturmanas, surinkęs daugiausiai taškų paskutiniame čempionato etape. Jei nėra klasifikuotų šių vairuotojų / šturmanų paskutiniame čempionato etape, jų užimtos vietos nustatomos pagal priešpaskutiniame etape užimtas vietas ir t.t.
 
-Apsisprendžiant dėl komandų, kurios iškovojo vienodą taškų skaičių, turi būti taikoma ši taisyklė:  
-Pagal bendruosiuose įskaitinių ralių rezultatuose komandų iškovotą didesnį aukštesnių vietų skaičių, skaičiuojant tik aukščiausią iškovotą vietą kiekviename ralyje atskirai komandai.  
-Pagal iškovotų devintų, dešimtų ir t.t. vietų skaičių. Viena devinta vieta verta daugiau nei bet koks skaičius dešimtų vietų ir t.t.  
-Tolesnės lygybės komandoms, surinkus vienodai taškų, jų užimtos vietos nustatomos pagal paskutiniame čempionato etape „Etapo komandinėje įskaitoje“ užimtą vietą. Komandoms čempionato komandinėje įskaitoje surinkus vienodai taškų ir nedalyvavus paskutiniame čempionato etape, jų užimtos vietos nustatomos pagal priešpaskutiniame etape užimtas vietas ir t.t.
+8.2. KOMANDOS
 
-### 9. PRIORITETINIAI VAIRUOTOJAI
+Apsisprendžiant dėl komandų, kurios iškovojo vienodą taškų skaičių, turi būti taikoma ši taisyklė:
+
+- Pagal bendruosiuose įskaitinių ralių rezultatuose komandų iškovotą didesnį aukštesnių vietų skaičių, skaičiuojant tik aukščiausią iškovotą vietą kiekviename ralyje atskirai komandai.
+- Pagal iškovotų devintų, dešimtų ir t.t. vietų skaičių. Viena devinta vieta verta daugiau nei bet koks skaičius dešimtų vietų ir t.t.
+
+Tolesnės lygybės komandoms, surinkus vienodai taškų, jų užimtos vietos nustatomos pagal paskutiniame čempionato etape **„Etapo komandinėje įskaitoje“** užimtą vietą. Komandoms čempionato komandinėje įskaitoje surinkus vienodai taškų ir nedalyvavus paskutiniame čempionato etape, jų užimtos vietos nustatomos pagal priešpaskutiniame etape užimtas vietas ir t.t.
+
+9. PRIORITETINIAI VAIRUOTOJAI
 
 Prioritetiniai vairuotojai ir jų įgyjimo sąlygos aprašomi atskirų čempionatų reglamentuose. Prioritetinių vairuotojų sąrašas skelbiamas kartu su atitinkamo čempionato reglamentu. SKK gali perstatyti prioritetinį vairuotoją starto tvarkoje, jei jis, SKK nuomone, varžybose dalyvauja automobiliu, kuris neatitinka prioriteto įgyjimo sąlygų.
 
-### 10. VARŽYBŲ CHARAKTERISTIKOS
+10. VARŽYBŲ CHARAKTERISTIKOS
 
-#### 10.1. RALIO CHARAKTERISTIKA
+10.1. RALIO CHARAKTERISTIKA
 
 Ralio trukmė gali skirtis atskiruose čempionatuose, varžybų serijose. Tinkama ralio trukmė nurodoma atitinkamo čempionato, varžybų serijos reglamente ir papildomuose nuostatuose.
 
-#### 10.2. RALIO PROGRAMA
+10.2. RALIO PROGRAMA
 
 Organizatorius privalo pateikti savo ralio programą/tvarkaraštį/maršrutinę kortelę.
 
-##### 10.2.1. Ralio tvarkaraštis turi būti tokios tvarkos:  
-- Susipažinimas su trasa  
-- Administracinis patikrinimas (gali būti vykdomas prieš susipažinimą)  
-- Techninė komisija  
-- Laisvosios treniruotės/kvalifikacinis greičio ruožas (jei vykdoma)  
-- Testinis ruožas (jei vykdomas)  
-- Starto ceremonija  
+10.2.1. Ralio tvarkaraštis turi būti tokios tvarkos:
+- Susipažinimas su trasa
+- Administracinis patikrinimas (gali būti vykdomas prieš susipažinimą)
+- Techninė komisija
+- Laisvosios treniruotės/kvalifikacinis greičio ruožas (jei vykdoma)
+- Testinis ruožas (jei vykdomas)
+- Starto ceremonija
 - Ralio sportinė dalis
 • Apdovanojimo ceremonija  
 10.2.2. Ralio varžybos gali trukti 2 arba 3 dienas, skaičiuojant nuo administracinės komisijos pradžios iki apdovanojimų ceremonijos pabaigos.  
@@ -613,139 +216,99 @@ Organizatorius privalo pateikti savo ralio programą/tvarkaraštį/maršrutinę 
 Jei atitinkamuose čempionato nuostatuose nenurodyta kitaip, visi LASF čempionatinių ralio varžybų organizatoriai privalo laikytis FIA aplinkosaugos akreditavimo programos.  
 Vienos žvaigždės lygis yra privalomas visiems, Dviejų žvaigždžių lygis bus privalomas nuo 2027 m., o Trijų žvaigždžių lygis bus privalomas nuo 2029 m.  
 
----
+# OFICIALŪS ASMENYS  
+## 11. OFICIALŪS ASMENYS IR DELEGATAI  
+### 11.1. KOMISARAI  
+Komisarų kolegiją visada sudaro trys nariai. SKK Pirmininką ir antrą narį skiria LASF RK, trečią narį pasirenka organizatorius iš patvirtinto Teisėjų sąrašo. Tarp komisarų ir varžybų vadovo turi būti nuolatinis ryšys ir konsultacija. Ralio metu bent vienas komisaras turi būti netoli ralio štabo.  
 
-## OFICIALŪS ASMENYS
-
-11. OFICIALŪS ASMENYS IR DELEGATAI  
-
-11.1. KOMISARAI  
-Komisarų kolegiją visada sudaro trys nariai. SKK Pirmininką ir antrą narį skiria LASF RK, trečią narį pasirenka organizatorius iš patvirtinto Teisėjų sąrašo. Tarp komisarų ir varžybų vadovo turi būti palaikomas nuolatinis ryšys ir konsultacija. Ralio metu bent vienas komisaras turi būti netoli ralio štabo.  
-
-11.2. LASF DELEGATAI  
+### 11.2. LASF DELEGATAI  
 LASF gali paskirti šiuos delegatus (LASVOVT 27 str. 2 p. 11-13):  
 
-11.2.1. LASF techninis delegatas. LASF techninis delegatas palaiko ryšį su varžybų vadovu ir yra atsakingas už visus techninius klausimus, susijusius su Lietuvos automobilių ralio čempionatais.  
+#### 11.2.1. LASF techninis delegatas  
+LASF techninis delegatas palaiko ryšį su varžybų vadovu ir yra atsakingas už visus techninius klausimus, susijusius su Lietuvos automobilių ralio čempionatais.  
 
-11.2.2. LASF stebėtojas (–ai). LASF stebėtojas (–ai) stebi visus ralio aspektus ir užpildo atitinkamą LASF ataskaitos formą, kurią pateikia ir pristato LASF RK posėdžio metu.  
+#### 11.2.2. LASF stebėtojas (–ai)  
+LASF stebėtojas (–ai) stebi visus ralio aspektus ir užpildo atitinkamą LASF ataskaitos formą, kurią pateikia ir pristato LASF RK posėdžio metu.  
 
-11.2.3. LASF saugaus varžybų organizavimo delegatas. LASF saugaus varžybų organizavimo delegatas stebi kaip laikomasi SVO reglamente nustatytų varžybų saugumo reikalavimų.  
-Saugus varžybų organizavimo delegatas yra ypač atsakingas už visuomenės ir žiniasklaidos saugumo taisyklių laikimąsi. Jis turi teisę atidėti greičio ruožo startą ne daugiau kaip 30 minučių, jei mano, kad saugumo sąlygos nėra patenkinamos.  
-Jei per šį laikotarpį negalima įvykdyti visų reikalingų saugos sąlygų arba jei nustatoma, kad greičio ruožas neįgyvendintas pagal trasos priėmimo aktą bei LASF Saugos eksperto patvirtintą saugos planą ir tai sukelia didelį pavojų, LASF saugos delegatas arba LASF stebėtojas rekomenduos varžybų vadovui atšaukti greičio ruožą.  
-Jei varžybų vadovas nusprendžia nepaisyti LASF saugos delegato arba LASF stebėtojo prašymo atšaukti greičio ruožą, LASF saugos delegatas arba LASF stebėtojas gali pranešti apie situaciją SKK. LASF
-Saugos delegatas arba LASF stebėtojas pasilieka teisę pranešti LASF RK apie situaciją ralio metu dėl saugumo, dėl kurio organizatoriui gali būti suteikta geltona kortelė.
+#### 11.2.3. LASF saugaus varžybų organizavimo delegatas  
+LASF saugaus varžybų organizavimo delegatas stebi kaip laikomasi SVO reglamente nustatytų varžybų saugumo reikalavimų. Saugos varžybų organizavimo delegatas yra ypač atsakingas už visuomenės ir žiniasklaidos saugumo taisyklių laikymąsi. Jis turi teisę atidėti greičio ruožo startą ne daugiau kaip 30 minučių, jei mano, kad saugumo sąlygos nėra patenkinamos.  
 
-11.2.4. LASF Media delegatas  
-LASF žiniasklaidos atstovas, kuris atsakingas už visus žiniasklaidos atstovus ralio metu ir rūpinasi informacine klaida bei atstovauja LASF.
+Jei per šį laikotarpį negalima įvykdyti visų reikalingų saugos sąlygų arba jei nustatoma, kad greičio ruožas neįgyvendintas pagal trasos priėmimo aktą bei LASF Saugos eksperto patvirtintą saugos planą ir tai sukelia didelį pavojų, LASF saugos delegatas arba LASF stebėtojas rekomenduos varžybų vadovui atšaukti greičio ruožą. Jei varžybų vadovas nusprendžia nepaisyti LASF saugos delegato arba LASF stebėtojas prašymo atšaukti greičio ruožą, LASF saugos delegatas arba LASF stebėtojas gali pranešti apie situaciją SKK. LASF
+17
 
-11.2.5. LASF Medicinos delegatas  
-LASF medicinos atstovas, kuris palaiko ryšį su (ralio) vyriausiuoju gydytoju dėl visų medicininių aspektų, įskaitant bet kokius prieš ralį rengiamus instruktažus bei medicinos darbo koordinavimą ralio metu.
-
+Saugos delegatas arba LASF stebėtojas pasilieka teisę pranešti LASF RK apie situaciją ralio metu dėl saugumo, dėl kurio organizatoriui gali būti suteikta geltona kortelė.  
+11.2.4. LASF Media delegatas. LASF žiniasklaidos atstovas, kuris atsakingas už visus žiniasklaidos atstovus ralio metu ir rūpinasi informacine klaida bei atstovauja LASF.  
+11.2.5. LASF Medicinos delegatas. LASF medicinos atstovas, kuris palaiko ryšį su (ralio) vyriausiuoju gydytoju dėl visų medicininių aspektų, įskaitant bet kokius prieš ralį rengiamus instruktažus bei medicinos darbo koordinavimą ralio metu.  
 11.3. TEISĖJAS RYŠIAMS SU DALYVIAIS  
-Pagrindinė teisėjo ryšiams su dalyviais užduotis – dalyviams/ekipažams suteikti informaciją arba paaiškinimus, susijusius su šiomis taisyklėmis ir ralio vykdymu. Kiekviename ralyje turi būti bent vienas teisėjas ryšiams su dalyviais, kurį dalyviai/ekipažai galėtų lengvai atpažinti ir kuris dirbtų vietose, numatytose jo darbo plane.
+Pagrindinė teisėjo ryšiams su dalyviais užduotis – dalyviams/ekipažams suteikti informaciją arba paaiškinimus, susijusius su šiomis taisyklėmis ir ralio vykdymu. Kiekviename ralyje turi būti bent vienas teisėjas ryšiams su dalyviais, kurį dalyviai/ekipažai galėtų lengvai atpažinti ir kuris dirbtų vietose, numatytose jo darbo plane.  
 
-# AUTOMOBILIAI
-
-## 12. AUTOMOBILIAI, GALINTYS DALYVAUTI ČEMPIONATE
-
-### 12.1. APIBENDRINIMAS  
-Automobiliams keliami reikalavimai nurodomi 2025 m. čempionatų, varžybų serijų reglamentuose.
-
-### 12.2. AUTOMOBILIŲ KLASĖS  
-Automobilių skirstymas į klases, nurodytas 2025 m. čempionatų, varžybų serijų reglamentuose ir varžybų papildomuose nuostatuose.
-
-### 12.3. NACIONALINĖS KLASĖS
-
+AUTOMOBILIAI  
+12. AUTOMOBILIAI, GALINTYS DALYVAUTI ČEMPIONATE  
+12.1. APIBENDRINIMAS  
+Automobiliams keliami reikalavimai nurodomi 2025 m. čempionatų, varžybų serijų reglamentuose.  
+12.2. AUTOMOBILIŲ KLASĖS  
+Automobilių skirstymas į klases, nurodytas 2025 m. čempionatų, varžybų serijų reglamentuose ir varžybų papildomuose nuostatuose.  
+12.3. NACIONALINĖS KLASĖS  
 12.3.1. Leidžiami automobiliai, kurie atitinka nacionalinius techninius reikalavimus, kuriuos parengė LASF RK ir yra nurodyti čempionatų reglamentų klasifikacijose.  
 12.3.2. LIETUVOJE NETAIKOMA.  
 12.3.3. Šie automobiliai:  
-- Turi atitikti saugos reikalavimus, nurodytus FIA J 253 priedo saugos reikalavimus.  
-- Turi būti patvirtinti LASF, dalyviui pateikus čempionato etapo elektroninę dalyvio paraiškos formą ne vėliau kaip iki varžybų registracijos pabaigos.  
-- Varžybų metu automobilis turi atitikti ir būti išlaikomos visos elektroninėje dalyvio paraiškoje pateiktos techninės automobilio savybės.
+• Turi atitikti saugos reikalavimus, nurodytus FIA J 253 priedo saugos reikalavimus.  
+• Turi būti patvirtinti LASF, dalyviui pateikus čempionato etapo elektroninę dalyvio paraiškos formą ne vėliau kaip iki varžybų registracijos pabaigos.  
+• Varžybų metu automobilis turi atitikti ir būti išlaikomos visos elektroninėje dalyvio paraiškoje pateiktos techninės automobilio savybės.  
 
-## 13. PADANGOS IR RATAI
-
-### 13.1. GALIOJA VISIEMS AUTOMOBILIAMS IR VISIEMS DALYVIAMS
-
+13. PADANGOS IR RATAI  
+13.1. GALIOJA VISIEMS AUTOMOBILIAMS IR VISIEMS DALYVIAMS  
 13.1.1. Atitikimas. Visos padangos turi atitikti šio straipsnio reikalavimus.  
-13.1.2. Lietos padangos. Lietuvoje nenaudojamos.  
-13.1.3. Padangų apdorojimas. Draudžiamas bet koks cheminis ir/ar mechaninis padangų apdorojimas. Bet kuriuo metu bet koks prietaisas, skirtas padangoms ir (arba) ratlankiams šildyti aukštesne nei 35°C temperatūra, yra draudžiamas. Nepriklausomai nuo to, ar padangos sumontuotos su rat lankiais, ar ne, padangas leidžiama laikyti dirbtinėje šildomoje aplinkoje, kurios temperatūra žemesnė nei 35°C.  
-13.1.4. Brūkšniniai kodai. Padanga gali turėti įlietą FIA patvirtinto brūkšninio kodo tiekėjo brūkšninį kodą. Šie kodai padeda nustatyti ar tarp padangų keitimo punktų ant atitinkamo automobilio išliko tos.
-pačios padangos ir ar dalyvis neviršija maksimalaus leistino naudojamų padangų kiekio. Brūkšninis padangų kodas turi būti bet kuriuo metu matomas iš išorės. Brūkšniniai kodai varžybų metu naudojami siekiant patikrinti ar ekipažas neviršija didžiausių leistinų padangų kiekio, jei jis numatytas Papildomuose Nuostatuose.
-
-13.1.5. Padangų skaičius.  
-Visi vairuotojai gali naudoti tik tokį maksimalų padangų kiekį koks nurodytas varžybų papildomuose nuostatuose ar čempionato reglamente.
-
-13.1.6. Įranga palaikanti padangos eksploatacines savybes.  
-Bet kokios įrangos, palaikančios padangos eksploatacines savybes naudojant vidinį slėgį lygų ar mažesnį nei atmosferinis slėgis, naudojimas yra draudžiamas. Vidinė padangos dalis (tūris tarp ratlankio ir vidinės padangos dalies) gali būti pildoma tik oru. Kamerų naudojimas leidžiamas.
-
-13.1.7. Ratlankiai.  
-Bet kokio įtaiso prispaudžiančio padangą prie ratlankio naudojimas draudžiamas.
-
-13.1.8. Padangos montavimas.  
-Didžiausias slėgis padangos montavimui ant ratlankio yra 8 barai, esant 20°C temperatūrai. Šis slėgis turi leisti padangai priglusti prie išorinių ratlankio sienelių.
-
-13.1.9. LIETUVOJE NETAIKOMAS
-
-13.1.10. Žieminės asfaltinės padangos.  
-Jei leidžiama naudoti dygliuotas padangas, dyglių aprašymas ir jų tikrinimo metodas turi būti skelbiamas papildomuose nuostatuose.
-
-13.1.11. Žvyrinės padangos.  
-Padangų reikalavimai yra apibrėžiami 2025 m. čempionatų, varžybų serijų reglamentuose.
-
-13.1.12. Dygliuotos žieminės padangos.  
-Jei leidžiama naudoti dygliuotas padangas, dyglių aprašymas ir jų tikrinimo metodas turi būti skelbiamas papildomuose nuostatuose.
-
-13.1.13. Naudojamų padangų tipai.  
-Padangų reikalavimai yra apibrėžiami 2025 m. čempionatų, varžybų serijų reglamentuose.
-
-13.2. LIETUVOJE NETAIKOMAS
-
-13.3. LIETUVOJE NETAIKOMAS
-
-13.4. LIETUVOJE NETAIKOMAS
-
-13.5. LIETUVOJE NETAIKOMAS
-
-13.6. LIETUVOJE NETAIKOMAS
-
+13.1.2. Lieto padangos. Lietuvoje nenaudojamos.  
+13.1.3. Padangų apdorojimas. Draudžiamas bet koks cheminis ir/ar mechaninis padangų apdorojimas.  
+Bet koks prietaisas, skirtas padangoms ir (arba) ratlankiams šildyti aukštesne nei 35°C temperatūra, yra draudžiamas. Nepriklausomai nuo to, ar padangos sumontuotos su ratlankiais, ar ne, padangas leidžiama laikyti dirbtinėje šildomoje aplinkoje, kurios temperatūra žemesnė nei 35°C.  
+13.1.4. Brūkšniniai kodai. Padanga gali turėti įlietą FIA patvirtinto brūkšninio kodo tiekėjo brūkšninį kodą. Šie kodai padeda nustatyti ar tarp padangų keitimo punktų ant atitinkamo automobilio išliko tos
+pačios padangas ir ar dalyvis neviršija maksimalaus leistino naudojamų padangų kiekio. Brūkšninis padangų kodas turi būti bet kokiu metu matomas iš išorės. Brūkšniniai kodai varžybų metu naudojami siekiant patikrinti ar ekipažas neviršija didžiausių leistinų padangų kiekio, jei jis numatytas Papildomuose Nuostatuose.  
+13.1.5. Padangų skaičius. Visi vairuotojai gali naudoti tik tokį maksimalų padangų kiekį, koks nurodytas varžybų papildomuose nuostatuose ar čempionato reglamente.  
+13.1.6. Įranga palaikanti padangos eksploatacines savybes. Bet kokios įrangos, palaikančios padangos eksploatacines savybes naudojant vidinį slėgį lygų ar mažesnį nei atmosferinis slėgis, naudojimas yra draudžiamas. Vidinė padangos dalis (tūris tarp ratlankio ir vidinės padangos dalies) gali būti pildoma tik oru. Kamerų naudojimas leidžiamas.  
+13.1.7. Ratlankiai. Bet kokio įtaiso prispaudžiančio padangą prie ratlankio naudojimas draudžiamas.  
+13.1.8. Padangos montavimas. Didžiausias slėgis padangos montavimui ant ratlankio yra 8 barai, esant 20°C temperatūrai. Šis slėgis turi leisti padangai priglusti prie išorinių ratlankio sienelių.  
+13.1.9. LIETUVOJE NETAIKOMAS  
+13.1.10. Žieminės asfaltinės padangos. Jei leidžiama naudoti dygliuotas padangas, dyglių aprašymas ir jų tikrinimo metodas turi būti skelbiamas papildomuose nuostatuose.  
+13.1.11. Žvyrinės padangos. Padangų reikalavimai yra apibrėžiami 2025 m. čempionatų, varžybų serijų reglamentuose.  
+13.1.12. Dygliuotos žieminės padangos. Jei leidžiama naudoti dygliuotas padangas, dyglių aprašymas ir jų tikrinimo metodas turi būti skelbiamas papildomuose nuostatuose.  
+13.1.13. Naudojamų padangų tipai. Padangų reikalavimai yra apibrėžiami 2025 m. čempionatų, varžybų serijų reglamentuose.  
+13.2. LIETUVOJE NETAIKOMAS  
+13.3. LIETUVOJE NETAIKOMAS  
+13.4. LIETUVOJE NETAIKOMAS  
+13.5. LIETUVOJE NETAIKOMAS  
+13.6. LIETUVOJE NETAIKOMAS  
 13.7. PATIKRINIMAS  
-Bet kuriuo varžybų metu gali būti atliekami patikrinimai, siekiant patikrinti padangų atitikimą reikalavimams. Reikalavimų neatitinkanti padanga bus pažymėta specialiu antspaudu ir negalės būti naudojama varžybose.
-
+Bet kuriuo varžybų metu gali būti atliekami patikrinimai, siekiant patikrinti padangų atitikimą reikalavimams. Reikalavimų neatitinkanti padanga bus pažymėta specialiu antspaudu ir negalės būti naudojama varžybose.  
 13.8. PADANGŲ ŽYMĖJIMAS/ KONTROLĖS ZONOS  
-Padangų žymėjimo zona gali būti įrengta išvažiavimuose iš serviso parkų ir/ar nuotolinio serviso zonų, taip pat prieš priešstartinę zoną arba ralio rato startą. Į šias zonas vienas ekipažo komandos narys gali patekti tik vienam tikslui – pagalbai žymint padangas.  
-Ekipažas turi sustabdyti automobilį ir laukti tikrintojų ir/arba teisėjų nurodymų. Padangų žymėjimo tikrinimo zona gali būti įkurta įvažiavime į numatytą serviso parką arba nuotolinio serviso zoną.
-
+Padangų žymėjimo zona gali būti įrengta išvažiavimuose iš serviso parkų ir / ar nuotolinio serviso zonų, taip pat prieš priešstartinę zoną arba ralio rato startą. Į šias zonas vienas ekipažo komandos narys gali patekti tik vienam tikslui – pagalbai žymint padangas.  
+Ekipažas turi sustabdyti automobilį ir laukti tikrintojų ir/arba teisėjų nurodymų. Padangų žymėjimo tikrinimo zona gali būti įkurta įvažiavime į numatytą serviso parką arba nuotolinio serviso zoną.  
 13.9. KELIO SEKCIJOS  
-Lietuvoje nenaudojama.
-
+Lietuvoje nenaudojama.  
 13.10. PADANGŲ SLĖGIO KOREGAVIMAS  
 Padangų slėgio koregavimus galima daryti:
-– kai greičio ruožo startas atidedamas daugiau nei 13 minučių kuriam nors dalyviui;  
-– pergrupavimo zonose, po kurių vyksta greičio ruožas, jei jose kuris nors dalyvis pergrupavime užtrunka daugiau, nei 10 min.
-
-### 13.11. ATSARGINIAI RATAI  
+13.11. ATSARGINIAI RATAI  
 Automobiliuose gali būti vežami daugiausiai du atsarginiai ratai.  
-Bet koks ratas su padanga, sumontuotas ant automobilio arba įdėtas į automobilį serviso metu turi pasiekti kitą serviso parką arba kitą serviso zoną, kur leidžiama keisti padangas. Papildomų ratų su padangomis negalima įdėti ir/ar sumontuoti ant automobilio kitose vietose, nei serviso parkai arba serviso zonos, kuriose leidžiama keisti padangas.
+Bet koks ratas su padanga, sumontuotas ant automobilio arba įdėtas į automobilį serviso metu, turi pasiekti kitą serviso parką arba kitą serviso zoną, kur leidžiama keisti padangas. Papildomų ratų su padangomis negalima įdėti ir/ar sumontuoti ant automobilio kitose vietose, nei serviso parkai arba serviso zonos, kuriose leidžiama keisti padangas.
 
-### 13.12. PADANGŲ GAMINTOJO ATSTOVAI GR STOP VIETOJE  
+13.12. PADANGŲ GAMINTOJO ATSTOVAI GR STOP VIETOJE  
 Lietuvoje nenaudojamas.
 
-### 13.13. PADANGŲ PRIEINAMUMAS  
+13.13. PADANGŲ PRIEINAMUMAS  
 Visas padangas, naudojamas čempionatuose ar varžybų serijose, turi būti galima laisvai įsigyti prekyboje.
 
-### 14. LIETUVOJE NETAIKOMI
+14. LIETUVOJE NETAIKOMI
 
-### 15. LEISTINAS PADANGŲ KIEKIS  
+15. LEISTINAS PADANGŲ KIEKIS  
 15.1. Numatomas čempionato reglamente ir/arba prieduose.
 
-### 16. MECHANINĖS DALYS
+16. MECHANINĖS DALys
 
-#### 16.1. VARIKLIO KEITIMAS  
+16.1. VARIKLIO KEITIMAS  
 16.1.1. Sugedus varikliui tarp techninio patikrinimo ir pirmojo laiko kontrolės punkto leidžiama pakeisti variklį, tačiau varžybų vadovas skirs 5 min. baudą.  
 16.1.2. Išskyrus anksčiau paminėtas sąlygas, tas pats variklio blokas turi būti naudojamas nuo techninio patikrinimo iki ralio finišo.
 
-#### 16.2. TURBOKOMPRESORIUS  
+16.2. TURBOKOMPRESORIUS  
 16.2.1. Turbokompresorius ir kompresorius toliau bus vadinamas kompresoriumi.  
 16.2.2. Su oro ribotuvu susijęs galiojantis reglamentas ir žymėjimas turi būti galiojantys (FIA reglamento J priedo 254–6.1 str. ir 255–5.1.8.3 str.).  
 16.2.3. Automobilyje sumontuotas kompresorius ir atsarginis kompresorius bus patikrinti ir užplombuoti prieš varžybas vykstančiame techniniame patikrinime (negalioja C lygai).  
@@ -753,106 +316,128 @@ Visas padangas, naudojamas čempionatuose ar varžybų serijose, turi būti gali
 16.2.5. Visi panaudoti kompresoriai privalo likti užplombuoti iki ralio pabaigos, kad tikrintojai galėtų patikrinti jų atitikimą.  
 16.2.6. Anksčiau paminėtos taisyklės yra taip pat privalomos visiems automobiliams, kurių kompresoriuose nėra įrengto oro ribotuvo. Šiuo atveju kompresoriai turi būti pažymėti tik tam tikslui, kad būtų galima juos suskaičiuoti.
 
-#### 16.3. TRANSMISIJA  
+16.3. TRANSMISIJA  
 16.3.1. Kiekvienam ekipažui kiekviename ralyje galima naudoti vieną atsarginę greičių dėžę ir vieną porą
-16.3.1. Ženklinimas/plombavimas leis dalyviui pakeisti sankabą ir susijusias dalis.  
-16.3.2. Visos dalys bus identifikuojamos pagal dalyvio automobilio numerį (pvz.: automobilio nr. 1 – greičių dėžė, atsarginė greičių dėžė 1R).  
-16.3.3. Visi ženklinimai/plombavimai bus atliekami pagal FIA paskelbtas sąlygas skirtingiems automobilių modeliams.  
-16.3.4. Greičių dėžes ir diferencialus gali pakeisti bet kuriame serviso parke, jei tikrintojai apie tai buvo iš anksto informuoti.  
-16.3.5. Jei išardytos greičių dėžės/diferencialo (–ų) plombos ir žymėjimai lieka nepažeisti, dalys gali būti pakartotinai panaudojamos tame pačiame automobilyje.  
-16.3.6. Žymėjimas/plombavimas turi išlikti nepažeistas viso ralio metu. Tikrintojai bet kuriuo metu gali patikrinti ženklinimą/plombas, o ralio pabaigoje gali išmontuoti dalis, kad būtų galima patikrinti jų atitikimą.  
-
-16.4. RANKINIAI GESINTUVAI  
-Kilus gaisrui kito dalyvio automobiliui, kitas dalyvis gali duoti savo gesintuvą kitam ekipažui, jog padėti užgesinti ugnį, tačiau ekipažas turi pasipildyti savo automobilį nauju gesintuvu artimiausio serviso zonos/pergrupavimo/uždaro parko metu.  
-
-17. LIETUVOJE NETAIKOMA.  
-
-18. PAPILDOMI REIKALAVIMAI AUTOMOBILIAMS  
-
-18.1. AUTOMOBILIO SALONO KAMEROS  
-18.1.1. Jei to reikalauja organizatorius ar čempionato rėmėjas (jei taikoma), dalyvio automobilis turi vežti salono kamerą arba kitą įrašantį prietaisą. Jis turi būti įrengiamas čempionato organizatorių ar rėmėjo lėšomis ir šio prietaiso įrengimas automobilyje turi būti patikrintas per techninę komisiją.  
-18.1.2. Automobilyje, kuriame yra sumontuota salono kamera, dalyvis turi gauti techninės komisijos sutikimą ir kamera privalo būti sumontuota automobilyje techninės komisijos metu atliekant automobilio techninę apžiūrą.  
-18.1.3. Siekiant išvengti ginčytinų situacijų ralio varžybų metu, rekomenduojama ekipažams naudoti automobilio salono kameras.  
-
-18.2. GPS SEKIMO SISTEMA  
-Jei numatyta čempionato reglamente, visuose automobiliuose turi būti sumontuota GPS sekimo sistema. Sistemos sumontavimas bus patikrintas prieš testinį ar kvalifikacinį greičio ruožą ir / ar pirmą laiko kontrolės punktą. Įrangos naudojimo ir montavimo instrukcijas pateikia organizatorius arba organizatoriaus samdytas paslaugos teikėjas. Apie bet kokius ekipažo bandymus slopinti ar įtakoti GPS saugos ir stebėjimo įrangos signalus ar veikimą susipažinimo su trasa ir varžybų metu, bus pranešama varžybų komisarams, kurie skirs baudas ar spręs dėl ekipažo pašalinimo iš varžybų.  
-
-18.3. TRIUKŠMO LYGIS GREIČIO RUOŽE  
-Saugumo sumetimais, tik greičio ruožuose rekomenduojama išmetamųjų dujų duslintuvo aplenkimo kanalo naudojimas, jei išmetamųjų dujų išėjimas atitinka FIA reglamento J priedą, ir, automobiliams su įrengtais kataliziniais konverteriais, jei išmetamosios dujos pačios pereina per šį katalizinį konverterį. Kelio sekcijose bet kuriuo metu triukšmo lygis turi atitikti FIA reglamento J priedą.  
-
+20 
+ 
+atsarginių diferencialų (priekinio ir/arba centrinio ir/arba centrinio ir/arba galinio). 
+16.3.1. Ženklinimas/plombavimas leis dalyviui pakeisti sankabą ir susijusias dalyis. 
+16.3.2. Visos dalys bus identifikuojamos pagal dalyvio automobilio numerį (pvz.: automobilio nr. 1 
+– greičių dėžė, atsarginė greičių dėžė 1R). 
+16.3.3. Visi ženklinimai/plombavimai bus atliekami pagal FIA paskelbtas sąlygas skirtingiems 
+automobilių modeliams. 
+16.3.4. Greičių dėžes ir diferencialus gali pakeisti bet kuriame serviso parke, jei tikrintojai apie tai 
+buvo iš anksto informuoti. 
+16.3.5. Jei išardytos greičių dėžės/diferencialo (–ų) plombos ir žymėjimai lieka nepažeisti, dalys gali būti 
+pakartotinai panaudojamos tame pačiame automobilyje. 
+16.3.6. Žymėjimas/plombavimas turi išlikti nepažeistas viso ralio metu. Tikrintojai bet kuriuo metu gali 
+patikrinti ženklinimą/plombas, o ralio pabaigoje gali išmontuoti dalis, kad būtų galima patikrinti jų 
+atitikimą. 
+16.4. RANKINIAI GESINTUVAI 
+Kilus gaisrui kito dalyvio automobiliui, kitas dalyvis gali duoti savo gesintuvą kitam ekipažui, jog padėti 
+užgesinti ugnį, tačiau ekipažas turi pasipildyti savo automobilį nauju gesintuvu artimiausio serviso 
+zonos/pergrupavimo/uždaro parko metu. 
+ 
+17. LIETUVOJE NETAIKOMA. 
+18. PAPILDOMI REIKALAVIMAI AUTOMOBILIAMS 
+ 
+18.1. AUTOMOBILIO SALONO KAMEROS 
+18.1.1. Jei to reikalauja organizatorius ar čempionato rėmėjas (jei taikoma), dalyvio automobilis turi 
+vežti salono kamerą arba kitą įrašantį prietaisą. Jis turi būti įrengiamas čempionato organizatorių 
+ar rėmėjo lėšomis ir šio prietaiso įrengimas automobilyje turi būti patikrintas per techninę komisiją. 
+18.1.2. Automobilyje, kuriame yra sumontuota salono kamera, dalyvis turi gauti techninės komisijos 
+sutikimą ir kamera privalo būti sumontuota automobilyje techninės komisijos metu atliekant automobilio 
+techninę apžiūrą. 
+18.1.3. Siekiant išvengti ginčytinų situacijų ralio varžybų metu, rekomenduojama ekipažams naudoti 
+automobilio salono kameras. 
+18.2. GPS SEKIMO SISTEMA 
+Jei numatyta čempionato reglamente, visuose automobiliuose turi būti sumontuota GPS sekimo 
+sistema. Sistemos sumontavimas bus patikrintas prieš testinį ar kvalifikacinį greičio ruožą ir / ar pirmą 
+laiko kontrolės punktą. Įrangos naudojimo ir montavimo instrukcijas pateikia organizatorius arba 
+organizatoriaus samdytas paslaugos teikėjas. Apie bet kokius ekipažo bandymus slopinti ar įtakoti GPS 
+saugos ir stebėjimo įrangos signalus ar veikimą susipažinimo su trasa ir varžybų metu, bus pranešama 
+varžybų komisarams, kurie skirs baudas ar spręs dėl ekipažo pašalinimo iš varžybų. 
+18.3. TRIUKŠMO LYGIS GREIČIO RUOŽE 
+Saugumo sumetimais, tik greičio ruožuose rekomenduojama išmetamųjų dujų duslintuvo aplenkimo  
+kanalo naudojimas, jei išmetamųjų dujų išėjimas atitinka FIA reglamento J priedą, ir, automobiliams su 
+įrengtais kataliziniais konverteriais, jei išmetamosios dujos pačios pereina per šį katalizinį konverterį. 
+Kelio sekcijose bet kuriuo metu triukšmo lygis turi atitikti FIA reglamento J priedą. 
+ 
 19. LASF STANDARTIZUOTI DOKUMENTAI
 19.1. BENDRIEJI DOKUMENTAI  
 Turi būti laikomasi šių dokumentų formato ir tvarkos, kaip nurodyta priede Nr. 2:  
-- papildomi nuostatai ir jų priedai (elektroninis ir spausdintas formatas);  
-- biuleteniai (elektroninis ir/ar spausdintas formatas);  
-- ralio gidas 1 ir/ar 2 (elektroninis formatas);  
-- maršrutinė kortelė (elektroninis ir/ar spausdintas formatas);  
-- kelio knyga (spausdintas formatas);  
-- laiko kortelė (spausdintas formatas);  
-- Dalyvio paraiška (elektroninis ir/ar spausdintas formatas);  
-- paraiškų sąrašas (elektroninis);  
-- starto sąrašai ir rezultatai ralyje (elektroninis ir/ar spausdintas formatas).  
+• papildomi nuostatai ir jų priedai (elektroninis ir spausdintas formatas);  
+• biuleteniai (elektroninis ir/ar spausdintas formatas);  
+• ralio gidas 1 ir/ar 2 (elektroninis formatas);  
+• maršrutinė kortelė (elektroninis ir/ar spausdintas formatas);  
+• kelio knyga (spausdintas formatas);  
+• laiko kortelė (spausdintas formatas);  
+• Dalyvio paraiška (elektroninis ir/ar spausdintas formatas);  
+• paraiškų sąrašas (elektroninis)  
+• starto sąrašai ir rezultatai ralyje (elektroninis ir/ar spausdintas formatas).  
 
-Visi oficialūs dokumentai tokie, kaip preliminarūs ir oficialūs rezultatai, biuleteniai ir sprendimai, turi būti paskelbti elektroninėje varžybų lentoje ir/arba iškabinti tradicinėje oficialioje skelbimų lentoje. Taip pat turi būti nurodytas laikas, kada dokumentai yra paskelbti.  
+Visi oficialūs dokumentai tokie, kaip preliminarūs ir oficialūs rezultatai, biuleteniai ir sprendimai, turi būti paskelbti elektroninėje varžybų lentoje ir/arba iškabinti tradicinėje oficialioje skelbimų lentoje. Taip pat turi būti nurodytas laikas kada dokumentai yra paskelbti.  
 
 Paskelbus elektroninio formato dokumentus organizatorių internetinėje svetainėje, jie negali būti keičiami, išskyrus tuos atvejus, kai visi oficialūs asmenys ir dalyviai yra supažindinami su pakeitimais ir pakeitimai yra išryškinti. Visi dokumentai, kuriems reikia LASF patvirtinimo prieš paskelbimą, negali būti taisomi be LASF raštiško patvirtinimo.  
 
 19.2. KELIO KNYGA  
 Kiekvienam ekipažui išduodama kelio knyga, kurioje pateiktas privalomo tvarkaraščio smulkus aprašymas. Būtina laikytis tvarkaraščio ir kelio rodyklių diagramų. Apie bet kokį nukrypimą bus pranešta komisarams.  
 
-19.3. LAIKO KORTELĖ  
+19.3. LAIKO KORTELĖ
 
 19.3.1. Kiekvienas ekipažas yra atsakingas už:  
-- savo laiko kortelę;  
-- laiko kortelės pateikimą kontrolės punktuose ir už įrašų tikslumą;  
-- bet kokius įrašus laiko kortelėje.  
+• savo laiko kortelę;  
+• laiko kortelės pateikimą kontrolės punktuose ir už įrašų tikslumą;  
+• bet kokius įrašus laiko kortelėje.  
 
 19.3.2. Atitinkamas teisėjas yra vienintelis asmuo, kuris gali daryti įrašus laiko kortelėje, išskyrus laukelius “dalyvio dispozicijoje”.  
 
-19.3.3. Jei ekipažo laiko kortelėje trūksta teisėjo žymos ar parašo iš bet kokio kontrolės punkto arba jei ekipažui nepavyksta pateikti laiko kortelės kuriame nors kontrolės punkte, toks ekipažas bus šalinamas iš varžybų. Varžybų vadovas siekdamas ištirti atvejį gali: apklausti ekipažą, pasinaudoti GPS duomenimis, ištirti oficialius teisėjų protokolus ir (arba) kitais turimais ištekliais. Jeigu varžybų vadovas mano, kad atitinkamas ekipažas vis dėl to teisingai įveikė laiko kontrolės punktą, varžybų vadovas vis tiek taikys 1 minutės baudą už neteisingai įvykdytą procedūrą. Ši informacija skelbiama varžybų vadovo pranešimu ralio sekcijos pabaigoje.  
+19.3.3. Jei ekipažo laiko kortelėje trūksta teisėjo žymos ar parašo iš bet kokio kontrolės punkto arba jei ekipažui nepavyksta pateikti laiko kortelės kuriame nors kontrolės punkte, toks ekipažas bus šalinamas iš varžybų. Varžybų vadovas siekdamas ištirti atvejį gali: apklausti ekipažą, pasinaudoti GPS duomenimis, ištirti oficialius teisėjų protokolus ir (arba) kitais turimais ištekliais. Jeigu varžybų vadovas mano, kad atitinkamas ekipažas vis dėlto teisingai įveikė laiko kontrolės punktą, varžybų vadovas vis tiek taikys 1 minutės baudą už neteisingai įvykdytą procedūrą. Ši informacija skelbiama varžybų vadovo pranešimu ralio sekcijos pabaigoje.  
 
 Arba, kilus neaiškumams dėl aplinkybių, varžybų vadovas praneš apie atvejį SKK, kad išnagrinėtų esamą situaciją.  
 
-19.3.4. Bet kokie neatitikimai tarp laiko įrašų ekipažo laiko kortelėje ir teisėjų protokoluose bus nagrinėjami varžybų vadovo.
-19.3.5. Dalyviams laiko kortelės išduodamos administracinio tikrinimo metu, kartu su visu dalyvio paketu.  
-Tikslus laiko kortelių skaičius privalo būti nurodytas Papildomuose nuostatuose, nurodomoje dalyvio paketo lentelėje. Šis reikalavimas nėra privalomas C lygos varžybose.
+19.3.4. Bet kokie neatitikimai tarp laiko įrašų ekipažo laiko kortelėje ir teisėjų protokolų bus nagrinėjami varžybų vadovo.
+19.3.5. Dalyviams laiko kortelės išduodamos administracinio tikrinimo metu, kartu su visu dalyvio paketu. Tikslus laiko kortelių skaičius privalo būti nurodytas Papildomuose nuostatuose, nurodomoje dalyvio paketo lentelėje. Šis reikalavimas nėra privalomas C lygos varžybose.
 
-19.4. STANDARTINIS PAKETAS DALYVIAMS  
+19.4. STANDARTINIS PAKETAS DALYVIAMS
 
-| Pozicija (min. kiekiai)            | LARČ | LARSČ | LMRČ |
-|-----------------------------------|:----:|:-----:|:----:|
-| Kelio knyga                      |  1   |   1   |  1   |
-| Serviso knyga (jei yra nuotolinių kuro zonų/nuotolinių serviso zonų) |  1   |   1   |  1   |
-| Testinio GR knyga (jei vykdoms kvalifikacinis GR arba du testiniai GR) |      |   1   |  0   |
-| Lipdukų komplektai               |      |       |      |
-| Serviso automobilio lipdukas    |  1   |   1   |  1   |
-| Susipažinimo automobilio lipdukai |  2   |   2   |  1   |
+| Pozicija (min. kiekiai) | LARČ | LARSČ | LMRČ |
+|-------------------------|-------|-------|-------|
+| Kelio knyga             | 1     | 1     | 1     |
+| Serviso knyga           |       |       |       |
+| (jei yra nuotolinių kuro zonų/nuotolinių serviso zonų) | 1 | 1 | 1 |
+| Testinio GR knyga       |       |       |       |
+| (jei vykdoms kvalifikacinis GR arba du testiniai GR) | 1 | 1 | 0 |
+| Lipdukų komplektai     |       |       |       |
+| Serviso automobilio lipdukas | 1 | 1 | 1 |
+| Susipažinimo automobilio lipdukai | 2 | 2 | 1 |
 | Sportinio automobilio lipdukų komplektas | 1 | 1 | 1 |
-| Leidimai / bilietai             |      |       |      |
-| Ralio bilietai                 |  4   |   2   |  2   |
-| VIP identifikavimo kortelės (jei vykdoma) |  2  |   2   |  2   |
-| Serviso zonai                  |      |       |      |
-| Įvažiavimas į serviso zoną    | Taip |  Taip | Taip |
-| Serviso zonos plotas           | 60 m² vienam automobiliui | 48 m² vienam automobiliui | 40 m² vienam automobiliui |
+| Leidimai / bilietai     |       |       |       |
+| Ralio bilietai          | 4     | 2     | 2     |
+| VIP identifikavimo kortelės (jei vykdoma) | 2 | 2 | 2 |
+| Serviso zonai           |       |       |       |
+| Įvažiavimas į serviso zoną | Taip | Taip | Taip |
+| Serviso zonos plotas    | 60 m² vienam automobiliui | 48 m² vienam automobiliui | 40 m² vienam automobiliui |
 | Papildomo serviso ploto kaina | 15 Eur/m² | 7 Eur/m² | 5 Eur/m² |
-| Maksimalaus galimas įsigyti plotas (jeigu organizatorius dar turi papildomo plotą) | 20 m² | 15 m² | 10 m² |
+| Maksimalus galimas įsigyti plotas (jeigu organizatorius turi papildomo plotą) | 20 m² | 15 m² | 10 m² |
 
 20. LIETUVOJE NETAIKOMAS.
 
 21. DRAUDIMO SUTARTIS
 
-21.1. DRAUDIMO APRAŠYMAS  
+21.1. DRAUDIMO APRAŠYMAS
+
 Papildomuose nuostatuose turi būti pateiktas smulkus aprašymas apie draudimą, kurį prisiima organizatorius.
 
 21.2. CIVILINĖS ATSAKOMYBĖS RENGINIO DRAUDIMAS
 
-21.1.1. Draudimo įmoka, kuri turi būti įskaičiuota į startinį mokestį, turi garantuoti tinkamą civilinės atsakomybės draudimą trečiosioms šalims (civilinė atsakomybė).
+21.2.1. Draudimo įmoka, kuri turi būti įskaičiuota į startinį mokestį, turi garantuoti tinkamą civilinės atsakomybės draudimą trečiosioms šalims (civilinė atsakomybė).
 
-21.2.1. Civilinės atsakomybės draudimas turi būti naudojamas papildomai ir negali pažeisti bet kokio kito varžybose dalyvaujančio dalyvio, kito asmens ar juridinio asmens turimo asmeninio draudimo poliso.
+21.2.2. Civilinės atsakomybės draudimas turi būti naudojamas papildomai ir negali pažeisti bet kokio kito varžybose dalyvaujančio dalyvio, kito asmens ar juridinio asmens turimo asmeninio draudimo poliso.
 21.2.2. Draudimas turi galioti nuo testinio greičio ruožo ar laisvųjų treniruočių ir kvalifikacinio greičio ruožo pradžios (jei jie vykdomi), o taip pat ekipažams važiuojant ralio maršrutu (išskyrus atvejus, aprašytus 21.3 p.) nuo pirmos varžybų dalies starto iki finišo arba iki to momento, kai ekipažas pasitraukia arba yra pašalinamas iš varžybų. Ekipažai, pasitraukę ir pradėję varžybas iš naujo, neturi būti laikomi pasitraukę iš visų varžybų.
 
 21.3. DRAUDIMAS NEGALIOJA  
-Ralio draudimo polisas negalioja serviso ir susipažinimo automobiliams, netgi jei jie pažymėti specialiais organizatorių išduotais ženklais. Draudimas negalioja pervažiavimuose tarp greičio ruožų, susipažinimo su trasa metu kur dalyvis privalo laikytis KET ir prisiima civilinę atsakomybę už savo veiksmus.
+Ralio draudimo polisas negalioja serviso ir susipažinimo automobiliams, netgi jei jie pažymėti specialiais organizatorių išduotais ženklais. Draudimas negalioja pervažiavimuose tarp greičio ruožų, susipažinimo su trasa metu, kur dalyvis privalo laikytis KET ir prisiima civilinę atsakomybę už savo veiksmus.
 
 22. PARAIŠKŲ PADAVIMO TVARKA
 
@@ -868,10 +453,13 @@ Dalyvis paraiškos formoje nurodytą automobilį gali laisvai pakeisti kitu tos 
 22.4. UŽSIENIO DALYVIAI  
 Užsienio pareiškėjai, pirmieji vairuotojai ir antrieji vairuotojai priimami dalyvauti varžybose laikantis LASK 2.3. straipsnio ir LASVOVT reikalavimų.
 
-22.5. PAREIŠKĖJO IR/ARBA EKIPAŽO NARIO/(–IŲ) PAKEITIMAS  
-22.5.1. Pareiškėjui leidžiama atšaukti savo dalyvio parašką iki paraiškų pateikimo termino pabaigos. Po paraiškų pateikimo termino pabaigos vienas ekipažo narys gali būti pakeistas, susitarus su:  
+22.5. PAREIŠKĖJO IR/ARBA EKIPAŽO NARIO/(–IŲ) PAKEITIMAS
+
+22.5.1. Pareiškėjui leidžiama atšaukti savo dalyvio parašką iki paraiškų pateikimo termino pabaigos.  
+Po paraiškų pateikimo termino pabaigos vienas ekipažo narys gali būti pakeistas, susitarus su:
+
 22.5.2. Organizatorium, prieš administracinių patikrinimų pradžią;  
-22.5.3. Komisarais, po šių patikrinimų pradžios, bet prieš paskelbiant startuoti galinčių ekipažų sąrašą.  
+22.5.3. Komisaru, po šių patikrinimų pradžios, bet prieš paskelbiant startuoti galinčių ekipažų sąrašą.  
 22.5.4. Tik LASF gali leisti pakeisti abu ekipažo narius ir pareiškėją iki administracinio patikrinimo pradžios.
 
 22.6. PAREIŠKĖJO IR EKIPAŽO NARIŲ ĮSIPAREIGOJIMAI  
@@ -880,145 +468,149 @@ Pasirašydami paraiškos formą pareiškėjas ir ekipažas įsipareigoja laikyti
 23. PARAIŠKŲ PATEIKIMO TERMINAI
 
 Paraiškų priėmimo pabaiga turi baigtis ne vėliau kaip 12 kalendorinių dienų iki ralio starto dienos. Organizatorius gali nustatyti papildomą paraiškų pateikimo terminą su padidintu starto mokesčiu.
+24
+
 24. STARTINIAI MOKESČIAI
 
-24.1. PARAIŠKOS PRIĖMIMAS  
+24.1. PARAIŠKOS PRIĖMIMAS
 Dalyvio paraiška laikoma priimta tik sumokėjus visą startinio mokesčio sumą. Jeigu Lietuvoje vykstantis etapas yra bendras su kitų šalių etapais, dalyvis moka vieną starto mokestį (didesnįjį), atitinkantį įskaitą jo čempionate.
 
-24.2. STARTINIO MOKESČIO GRĄŽINIMAS  
-Visa startinio mokesčio suma grąžinama:  
-- kandidatams, kurių paraiškos formos nebuvo priimtos;  
-- neįvykus raliui;  
+24.2. STARTINIO MOKESČIO GRĄŽINIMAS
+Visa startinio mokesčio suma grąžinama:
+- kandidatams, kurių paraiškos formos nebuvo priimtos;
+- neįvykus raliui;
 - dalyviui atsitikus force majeure situacijai, kai tai patvirtina SKK.
 
-24.3. DALINIS STARTINIO MOKESČIO GRĄŽINIMAS  
+24.3. DALINIS STARTINIO MOKESČIO GRĄŽINIMAS
 Startiniai mokesčiai gali būti grąžinti iš dalies pagal sąlygas, nurodytas papildomuose nuostatuose.
 
 25. KLASĖS
 
-25.1. AUTOMOBILIO KLASĖS KEITIMAS  
+25.1. AUTOMOBILIO KLASĖS KEITIMAS
 Techninio patikrinimo metu, jei automobilis neatitinka pateiktos grupės ir / arba klasės, į kurią jis yra priskirtas, komisarai gali jį perkelti į atitinkamą grupę ir / arba klasę, pagal techninio komisaro rekomendaciją. Esant starto mokesčio skirtumui, jis sumokamas Organizatoriui iki pirmo automobilio starto pirmame LK punkte.
 
 26. LIETUVOJE NETAIKOMA
 
 27. STARTINIAI NUMERIAI IR REKLAMA
 
-27.1. BENDROSIOS NUOSTATOS  
-27.1.1. Organizatorius kiekvienam ekipažui išduoda identifikacinius numerius, kurie turi būti pritvirtinti prie automobilio reglamentų (ne čempionato, varžybų serijos varžybose – papildomų nuostatų) priede Nr. 1 nurodytose vietose prieš techninį patikrinimą.  
+27.1. BENDROSIOS NUOSTATOS
+27.1.1. Organizatorius kiekvienam ekipažui išduoda identifikacinius numerius, kurie turi būti pritvirtinti prie automobilio reglamentų (ne čempionato, varžybų serijos varžybose – papildomų nuostatų) priede Nr. 1 nurodytose vietose prieš techninį patikrinimą.
 27.1.2. Visa reklama, nurodyta reglamentų (ne čempionato, varžybų serijos varžybose – papildomų nuostatų) priede Nr. 1, yra privaloma ir varžybų dalyviai jos atsisakyti negali. Identifikacijos ir reklamos lipdukų modifikacija draudžiama.
 
-27.2. PRIEKINIŲ DURŲ LIPDUKAI  
-27.2.1. Tai yra du, po 67 cm pločio ir 17 cm aukščio, įskaitant 1 cm baltą apvadą, lipdukai. Lipdukas turi talpinti matinės juodos spalvos startinio numerio langelį, kuris visuomet turi būti lipduko priekyje automobilio atžvilgiu. Skaičiai turi būti fluorescentinės geltonos spalvos (PMS 803), 14 cm aukščio ir 2 cm linijos pločio. Likęs šio lipduko plotas rezervuojamas organizatoriui.  
+27.2. PRIEKINIŲ DURŲ LIPDUKAI
+27.2.1. Tai yra du, po 67 cm pločio ir 17 cm aukščio, įskaitant 1 cm baltą apvadą, lipdukai. Lipdukas turi talpinti matinės juodos spalvos startinio numerio langelį, kuris visuomet turi būti lipduko priekyje automobiliui. Skaičiai turi būti fluorescuotos geltonos spalvos (PMS 803), 14 cm aukščio ir 2 cm linijos pločio. Likęs šio lipduko plotas rezervuojamas organizatoriui.
 27.2.2. Kiekvienas lipdukas turi būti priklijuotas horizontaliai prie priekinių durelių priekinio krašto su startiniais numeriais nukreiptais į automobilio priekį. Lipduko viršus turi būti klijuojamas žemiau apatinės lango linijos.
 27.3. GALINIO LANGO LIPDUKAS  
 Vienas identifikacinis numeris gali būti klijuojamas galinio lango viršuje, dešinėje pusėje (jeigu numatyta papildomuose nuostatuose (šis lipdukas nėra privalomas). Tai 15 cm² plote fluorescentinės oranžinės spalvos (PMS 804) 14 cm aukščio startinis numeris ant permatomo fono. Šis numeris gali būti atspindintis šviesą ir turi matytis iš galo akių lygyje.  
-LASF pateikta papildoma reklama gali būti klijuojama galinio lango viršuje, viduryje (jeigu numatyta papildomuose nuostatuose). Tai 30 cm pločio ir 10 cm aukščio lipdukas.
-
+LASF pateikta papildoma reklama gali būti klijuojama galinio lango viršuje, viduryje (jeigu numatyta papildomuose nuostatuose). Tai 30 cm pločio ir 10 cm aukščio lipdukas.  
+  
 27.4. PRIEKINIO LANGO LIPDUKAI  
-Priekinio lango išorinės pusės apklijavimas aprašytas reglamentų priede Nr. 1. Čia galima tik LASF pateikta reklama, bet kokia kita reklama ant priekinio automobilio stiklo arba apsauginėje šio lipduko zonoje (10 cm į visas puses) draudžiama. Lipdukas privalo būti klijuojamas nuo priekinio stiklo viršutinės briaunos. Iš vidinės pusės galima klijuoti bet kokio aukščio tik tamsinančios plėvelės juostą. Ant šios plėvelės negali būti jokios iš išorės matomos reklamos. Kitų šalių ralio čempionato dalyviams, kurių etapai vyksta Lietuvoje, taikoma šio taisyklių punkto išimtis.
-
+Priekinio lango išorinės pusės apklijavimas aprašytas reglamentų priede Nr. 1. Čia galima tik LASF pateikta reklama, bet kokia kita reklama ant priekinio automobilio stiklo arba apsauginėje šio lipduko zonoje (10 cm į visas puses) draudžiama. Lipdukas privalo būti klijuojamas nuo priekinio stiklo viršutinės briaunos. Iš vidinės pusės galima klijuoti bet kokio aukščio tik tamsinančios plėvelės juostą. Ant šios plėvelės negali būti jokios iš išorės matomos reklamos. Kitų šalių ralio čempionato dalyviams, kurių etapai vyksta Lietuvoje, taikoma šio taisyklių punkto išimtis.  
+  
 27.5. ŠONINIŲ LANGŲ LIPDUKAI  
-Du startiniai numeriai kiekvienam galiniam šoniniam langui, kurių skaitmenys 20 cm aukščio, o skaitmens linijos plotis ne mažesnis kaip 25 mm, skaitmenys fluorescentinės oranžinės spalvos (PMS 804) ir gali būti atspindintys šviesą. Šie numeriai klijuojami ant galinio šoninio lango šalia vairuotojų pavardžių. Jeigu startinis numeris netelpa ant galinio šoninio lango, jis gali būti dalinai užklijuotas ant kėbulo.
-
+Du startiniai numeriai kiekvienam galiniam šoniniam langui, kurių skaitmenys 20 cm aukščio, o skaitmens linijos plotis ne mažesnis kaip 25 mm, skaitmenys fluorescentinės oranžinės spalvos (PMS 804) ir gali būti atspindintys šviesą. Šie numeriai klijuojami ant galinio šoninio lango šalia vairuotojų pavardžių. Jeigu startinis numeris netelpa ant galinio šoninio lango, jis gali būti dalinai užklijuotas ant kėbulo.  
+  
 27.6. STOGO LIPDUKAS  
-Lietuvoje nenaudojamas.
-
+Lietuvoje nenaudojamas.  
+  
 27.7. RALIO EMBLEMA  
-Vienas lipdukas telpantis į 43 cm pločio ir 21,5 cm aukščio stačiakampį, kuriame yra pilnas ralio pavadinimas klijuojamas ant automobilio variklio dangčio.
-
----
-
-28. VAIRUOTOJO IR ANTRO VAIRUOTOJO VARDAI
-
+Vienas lipdukas, telpantis į 43 cm pločio ir 21,5 cm aukščio stačiakampį, kuriame yra pilnas ralio pavadinimas, klijuojamas ant automobilio variklio dangčio.  
+  
+28. VAIRUOTOJO IR ANTRO VAIRUOTOJO VARDAS  
 28.1. ŠONINIS GALINIS STIKLAS  
-Pirmo ir antro vairuotojų vardų pirmosios raidės ir pilnos pavardės, kartu su tos šalies vėliavomis, kurių ASF išdavė jų licencijas, turi būti pavaizduotos ant automobilio abiejų galinių šoninių langų, šalia dalyvio numerių. Šių lipdukų užklijavimo schema ir reikalavimai pateikiami reglamentų (ne čempionato, varžybų serijos varžybose – papildomų nuostatų) priede nr. 1.
-
----
-
-29. REKLAMOS APRIBOJIMAI
-
+Pirmo ir antro vairuotojų vardų pirmosios raidės ir pilnos pavardės, kartu su tos šalies vėliavomis, kurių ASF išdavė jų licencijas, turi būti pavaizduotos ant automobilio abiejų galinių šoninių langų, šalia dalyvio numerių. Šių lipdukų užklijavimo schema ir reikalavimai pateikiami reglamentų (ne čempionato, varžybų serijos varžybose – papildomų nuostatų) priede Nr. 1.  
+  
+29. REKLAMOS APRIBOJIMAI  
 29.1. Dalyviams ant savo automobilių leidžiama tvirtinti bet kokią reklamą su sąlyga, kad:  
 - ji atitinka nacionalinius teisės aktus ir LASF nuostatas;  
 - ji nėra įžeidžianti;  
-- ji nėra politinio arba religinio pobūdžio;
-• ji atitinka, 27.1.–27.7. punktų reikalavimus.  
-• ji netrukdo ekipažo matomumui pro langus  
+- ji nėra politinio arba religinio pobūdžio.
+26 
+ 
+• ji atitinka, 27.1.–27.7. punktų reikalavimus. 
+• ji netrukdo ekipažo matomumui pro langus 
+Bet koks privalomos reklamos tekstas arba lipduko maketas turi būti aiškiai įvardintas papildomuose nuostatuose arba pavaizduotas papildomų nuostatų priede, prieš dalyvių paraiškų teikimo pradžią. 
 
-Bet koks privalomos reklamos tekstas arba lipduko maketas turi būti aiškiai įvardintas papildomuose nuostatuose arba pavaizduotas papildomų nuostatų priede, prieš dalyvių paraiškų teikimo pradžią.  
-
-**29.2. ORGANIZATORIŲ PAPILDOMA REKLAMA**  
+29.2. ORGANIZATORIŲ PAPILDOMA REKLAMA  
 Organizatorius gali pateikti ekipažams užsiklijuoti papildomą reklamą, kuri yra neprivaloma.  
 
----
+30. ADMINISTRACINIS PATIKRINIMAS 
 
-### 30. ADMINISTRACINIS PATIKRINIMAS
+30.1. GRAFIKAS  
+I-i ir II -i vairuotojai dalyvaujantys varžybose privalo atvykti į administracinį patikrinimą varžybų papildomuose nuostatuose arba varžybų biuletenyje nurodytu grafiku (jei toks yra). Baudos už vėlavimą atvykti grafike nurodytu laiku gali būti skiriamos pagal varžybų papildomus nuostatus. Į administracinį patikrinimą privalo atvykti bent vienas iš ekipažo narių asmeniškai. 
 
-**30.1. GRAFIKAS**  
-I-i ir II -i vairuotojai dalyvaujantys varžybose privalo atvykti į administracinį patikrinimą varžybų papildomuose nuostatuose arba varžybų biuletenyje nurodytu grafiku (jei toks yra). Baudos už vėlavimą atvykti grafike nurodytu laiku gali būti skiriamos pagal varžybų papildomus nuostatus. Į administracinį patikrinimą privalo atvykti bent vienas iš ekipažo narių asmeniškai.  
-
-**30.2. PRIVALOMI DOKUMENTAI**  
-Atvykus į administracinį patikrinimą privaloma pateikti orginalius (spausdintus arba elektronine forma) galiojančius dokumentus:  
+30.2. PRIVALOMI DOKUMENTAI  
+Atvykus į administracinį patikrinimą privaloma pateikti originalius (spausdintus arba elektronine forma) galiojančius dokumentus:  
 - Pareiškėjo licenciją;  
 - I ir II vairuotojų licencijas;  
 - I ir II vairuotojų pažymėjimus;  
-- ASF leidimas (tik ekipažams su kitos šalies licencijomis);  
+- ASF leidimą (tik ekipažams su kitos šalies licencijomis);  
 - Pilnai užpildytą varžybų dalyvio paraišką;  
-- Medicinines pažymas;  
+- Medicininės pažymas;  
 - Automobilio registracijos dokumentus;  
 
-Taip pat organizatorius gali reikalauti pateikti ir kitus dokumentus (transporto priemonės civilinės atsakomybės draudimo polisas ir kt.) jei tai nurodyta papildomuose nuostatuose. Dėl COVID-19, organizatorius ir Administracinės Komisijos teisėjai, gali prašyti pateikti originalių dokumentų skanuotas kopijas el.paštu ar kitomis priemonėmis iki administracinės komisijos pradžios, jog pagreitinti administracinio tikrinimo laiką.
+Taip pat organizatorius gali reikalauti pateikti ir kitus dokumentus (transporto priemonės civilinės atsakomybės draudimo polisas ir kt.) jei tai nurodyta papildomuose nuostatuose. Dėl COVID-19, organizatorius ir Administracinės Komisijos teisėjai gali prašyti pateikti originalių dokumentų skenuotas kopijas el.paštu ar kitomis priemonėmis iki administracinės komisijos pradžios, jog pagreitinti administracinio tikrinimo laiką.  
 
----
+31. TECHNINIS PATIKRINIMAS 
 
-### 31. TECHNINIS PATIKRINIMAS
+31.1. BENDRIEJI REIKALAVIMAI  
+31.1.1. Automobilius techniniam patikrinimui gali pristatyti komandos atstovas, nebent varžybų papildomuose nuostatuose numatyta kitaip.  
+31.1.2. Techninio patikrinimo metu dalyviai turi parodyti visą aprangą, saugumo įrangą ir pateikti dokumentus, nurodytus čempionatų ar varžybų serijų reglamentuose.  
+31.1.3. Techninio patikrinimo metu atliekami reikalingi agregatų plombavimai. Tik techninio patikrinimo metu plombuoti agregatai gali būti naudojami varžybų metu ir agregatų plombos turi išlikti nepažeistos.  
+31.1.4. Po techninio patikrinimo, jei nustatoma, kad automobilis neatitinka techninių ir/arba saugumo reikalavimų, komisarai gali nustatyti terminą, iki kurio pabaigos automobilis turi atitikti šiuos.
+27
 
-**31.1. BENDRIEJI REIKALAVIMAI**  
-**31.1.1.** Automobilius techniniam patikrinimui gali pristatyti komandos atstovas, nebent varžybų papildomuose nuostatuose numatyta kitaip.  
-**31.1.2.** Techninio patikrinimo metu dalyviai turi parodyti visą aprangą, saugumo įrangą ir pateikti dokumentus, nurodytus čempionatų ar varžybų serijų reglamentuose.  
-**31.1.3.** Techninio patikrinimo metu atliekami reikalingi agregatų plombavimai. Tik techninio patikrinimo metu plombuoti agregatai gali būti naudojami varžybų metu ir agregatų plombos turi išlikti nepažeistos.  
-**31.1.4.** Po techninio patikrinimo, jei nustatoma, kad automobilis neatitinka techninių ir/arba saugumo reikalavimų, komisarai gali nustatyti terminą, iki kurio pabaigos automobilis turi atitikti šiuos reikalavimus.
+reikalavimus, arba uždrausti automobiliui startuoti.  
 31.2. GRAFIKAS  
-Atvykimo laikas į techninį patikrinimą ekipažams turi būti nurodytas papildomuose nuostatuose arba biuletenyje.
-
-32. PATIKRINIMAI RALIO METU
-
+Atvykimo laikas į techninį patikrinimą ekipažams turi būti nurodytas papildomuose nuostatuose arba biuletenyje.  
+  
+32. PATIKRINIMAI RALIO METU  
+  
 32.1. PAPILDOMI PATIKRINIMAI  
-Papildomas saugos elementų, įskaitant aprangų ir automobilio, jo mazgų ir naudojamų skysčių patikrinimas, kontrolinių mėginių paėmimas gali būti atliekamas bet kuriuo metu, taip pat ir testiniame greičio ruože ir laisvųjų/kvalifikacinių važiavimų metu.
-
+Papildomas saugos elementų, įskaitant aprangų ir automobilio, jo mazgų ir naudojamų skysčių patikrinimas, kontrolinių mėginių paėmimas gali būti atliekamas bet kuriuo metu, taip pat ir testiniame greičio ruože ir laisvųjų/kvalifikacinių važiavimų metu.  
+  
 32.2. DALYVIO ATSAKOMYBĖ  
 32.2.1. Ekipažas viso ralio metu yra atsakingas už tai, kad automobilis, apranga ir saugumo įranga atitiktų reikalavimus.  
 32.2.2. Ekipažas atsako už tai, kad pritvirtinti identifikavimo ženklai liktų nepakitę nuo techninio patikrinimo iki ralio pabaigos arba iki to momento, kai pagal šias taisykles juos galima nuimti. Jei jų trūks, apie tai bus pranešta komisarams.  
 32.2.3. Ekipažas taip pat atsako už tai, kad bet kuri automobilio detalė, buvusi patikrinime, yra atitinkamai teisingai naudojama.  
 32.2.4. Apie bet kokius sukčiavimus ir identifikavimo ženklų nebuvimus, kurie privalomi kaip originalūs ir kurie buvo suklastoti, bus pranešta komisarams.  
-32.2.5. Ekipažui patyrus avariją ralio metu, jo nariai arba Pareiškėjo atstovas, privalo apie tai informuoti techninės komisijos pirmininką ir, jam pareikalavus, pateikti automobilį techniniam patikrinimui. Už šios taisyklės nesilaikymą skiriama 150 EUR piniginė bauda, o vėliausiai per 1 d. d. pristatyti automobilį LASF techniniam patikrinimui.
-
-33. PATIKRINIMAI PO RALIO FINIŠO
-
+32.2.5. Ekipažui patyrus avariją ralio metu, jo nariai arba Pareiškėjo atstovas, privalo apie tai informuoti techninės komisijos pirmininką ir, jam pareikalavus, pateikti automobilį techniniam patikrinimui. Už šios taisyklės nesilaikymą skiriama 150 EUR piniginė bauda, o vėliausiai per 1 d. d. pristatyti automobilį LASF techniniam patikrinimui.  
+  
+33. PATIKRINIMAI PO RALIO FINIŠO  
+  
 33.1. UŽDARAS PARKAS RALIO FINIŠE  
-Po ralio varžybų dalies finišo arba po apdovanojimo ceremonijos pagal preliminarius rezultatus, jeigu tai numatyta papildomuose nuostatuose, automobiliai turi būti pastatyti uždarame parke, kuriame turi likti tol, kol jis bus atidarytas komisarų nurodymu, išskyrus varžybų papildomuose nuostatuose numatytus atvejus, kai nugalėtojų automobiliai eksponuojami vykdant iškilmingą finišo ar apdovanojimų ceremoniją. Tokiais atvejais automobiliai turi būti aptverti nuo pašalinių asmenų, ir tokiai zonai taikomas uždaro parko režimas.
-
+Po ralio varžybų dalies finišo arba po apdovanojimo ceremonijos pagal preliminarius rezultatus, jeigu tai numatyta papildomuose nuostatuose, automobiliai turi būti pastatyti uždarame parke, kuriame turi likti tol, kol jis bus atidarytas komisarų nurodymu, išskyrus varžybų papildomuose nuostatuose numatytus atvejus, kai nugalėtojų automobiliai eksponuojami vykdant iškilmingą finišo ar apdovanojimų ceremoniją. Tokiais atvejais automobiliai turi būti aptverti nuo pašalinių asmenų, ir tokiai zonai taikomas uždaro parko režimas.  
+  
 33.2. AUTOMOBILIŲ PATIKRINIMAS  
-Po varžybų vykstantis patikrinimas, įskaitant automobilio išardymą, gali būti atliekamas komisarų nutarimu, po protesto pateikimo arba komisarams gavus rekomendacijas iš varžybų vadovo.
-
+Po varžybų vykstantis patikrinimas, įskaitant automobilio išardymą, gali būti atliekamas komisarų nutarimu, po protesto pateikimo arba komisarams gavus rekomendacijas iš varžybų vadovo.  
+  
 33.3. HOMOLOGACIJOS FORMA  
 Užpildyta sertifikuota homologacijos forma ir kiti reikalingi sertifikatai turi būti pateikti galutiniam patikrinimui. Nacionalinių klasių automobiliams turi būti pateikti LASF išduotų dokumentų originalai.
+28
+
 VAIRAVIMO PRINCIPAI
 
 34. ELGESYS
 
-34.1. BENDROSIOS TAISYKLĖS  
-34.1.1. Ekipažai visada privalo laikytis sportinės etikos.  
-34.1.2. Kai automobiliams yra taikoma uždaro parko taisyklė (63.1 p.), juos gali stumti/tempti tik ekipažas ir teisėjai, visais kitais atvejais automobilis gali būti stumiamas/tempiamas rankomis bet kokio asmens. Automobilis gali judėti tik savo variklio arba rankų jėgos dėka. Bet koks kitas automobilio judėjimo būdas yra draudžiamas. Išimtis taikoma automobiliams esant greičio ruožuose, kur juos leidžiama stumti/tempti siekiant sugrąžinti į ralio trasą arba pašalinti iš ralio trasos.  
-34.1.3. Parodomasis važiavimas gali būti atliekamas tik tais atvejais, kai tai leidžia papildomi ralio nuostatai.  
-34.1.4. Ekipažai turi važiuoti greičio ruože nurodyta kryptimi (išskyrus atvejus, kai reikia apsisukti).  
-34.1.5. Kelio sekcijose (pervažiavimuose), sutampančiose su viešo naudojimo keliu, automobilis privalo važiuoti tik savo variklio arba rankų jėgos dėka ant laisvai besisukančių ratų ir padangų. Bet koks šio punkto pažeidimas bus laikomas kaip pasitraukimas iš varžybų pagal taisyklių 54 str., taip pat komisarai gali skirti papildomą baudą už šį pažeidimą.  
-34.1.6. Bet koks važiavimas varžybų metu su stipriai pažeistu priekiniu stiklu, kuris aiškiai trukdo vairuotojo matomumui, yra draudžiamas. Ekipažui gali būti neleista toliau tęsti varžybų komisarų sprendimu. Po priekinio stiklo pakeitimo, ekipažui leidžiama startuoti varžybose tik remiantis taisyklių 54 str.  
-Bet koks važiavimas varžybų metu be priekinio stiklo yra leidžiamas tik tokiu atveju, jeigu abu ekipažo nariai dėvi apsauginius akinius atitinkančius EN1938 specifikaciją arba pilnai uždarus šalmus su nuleistais stikliukais.  
-Nepaisant šių aukščiau išvardintų atvejų, policija sustabdžiusi ekipažą gali neleisti tokiam automobiliui toliau dalyvauti eisme pagal galiojančias Kelių eismo taisykles ar remiantis kitais teisės aktais.  
-34.1.7. Ekipažas, kuris buvo pasivytas vėliau startavusio arba greitesnio ekipažo, turi praleisti ir sudaryti sąlygas būti saugiai aplenktas. Tai ypač pabrėžtina, jei lenkiantysis ekipažas prarado laiko dėl techninio gedimo arba buvo nuvažiavęs nuo kelio prieš jį pasivyjant. Pasirengimą lenkti turi parodyti atitinkami mirksintys indikatoriai (pvz., kairysis posūkio signalas reiškia, kad aplenktas automobilis liks kairėje kelio pusėje). Aplenkiamas ekipažas turi dėti visas pastangas, kad palengvintų lenkimo manevrą, įskaitant sustojimą saugioje vietoje. Ekipažai yra atsakingi už tai, kad dėl lenkimo metu nekiltų pavojus.  
-34.1.8. Ekipažas, siekiantis laiko kompensavimo, turi pateikti Varžybų vadovui ar pavaduotojui arba teisėjui ryšiams su dalyviais šią medžiagą:  
-- Prašymą išnagrinėti situaciją, kuris turi būti pasirašytas I arba II vairuotojo, komandos vadovo arba pareiškėjo (spausdintine arba elektronine versija);  
-- Visos situacijos vaizdinę medžiagą: salono kameros (on-board) vaizdo įrašą ir/arba vaizdinę medžiagą užfiksuotą iš žiūrovų ar kitų žmonių. Dalinė situacijos vaizdinė medžiaga pripažįstama netinkama, nes nėra galimybės įvertinti pilnos situacijos;
+34.1. BENDROSIOS TAISYKLĖS
+
+34.1.1. Ekipažai visada privalo laikytis sportinės etikos.
+
+34.1.2. Kai automobiliams yra taikoma uždaro parko taisyklė (63.1 p.), juos gali stumti/tempti tik ekipažas ir teisėjai, visais kitais atvejais automobilis gali būti stumiamas/tempiamas rankomis bet kokio asmens. Automobilis gali judėti tik savo variklio arba rankų jėgos dėka. Bet koks kitas automobilio judėjimo būdas yra draudžiamas. Išimtis taikoma automobiliams esant greičio ruožuose, kur juos leidžiama stumti/tempti siekiant sugrąžinti į ralio trasą arba pašalinti iš ralio trasos.
+
+34.1.3. Parodomasis važiavimas gali būti atliekamas tik tais atvejais, kai tai leidžia papildomi ralio nuostatai.
+
+34.1.4. Ekipažai turi važiuoti greičio ruože nurodyta kryptimi (išskyrus atvejus, kai reikia apsisukti).
+
+34.1.5. Kelio sekcijose (pervažiavimuose), sutampančiose su viešo naudojimo kelias, automobilis privalo važiuoti tik savo variklio arba rankų jėgos dėka ant laisvai besisukančių ratų ir padangų. Bet koks šio punkto pažeidimas bus laikomas kaip pasitraukimas iš varžybų pagal taisyklių 54 str., taip komisarai gali skirti papildomą baudą už šį pažeidimą.
+
+34.1.6. Bet koks važiavimas varžybų metu su stipriai pažeistu priekiniu stiklu, kuris aiškiai trukdo vairuotojo matomumui, yra draudžiamas. Ekipažui gali būti neleista toliau tęsti varžybų komisarų sprendimu. Po priekinio stiklo pakeitimo, ekipažui leidžiama startuoti varžybose tik remiantis taisyklės 54 str. Bet koks važiavimas be priekinio stiklo leidžiamas tik jei abu ekipažo nariai dėvi apsauginius akinius atitinkančius EN1938 specifikaciją arba pilnai uždarus šalmus su nuleistais stikliukais. Nepaisant šių sąlygų, policija sustabdžiusi ekipažą gali neleisti tolimesnio dalyvavimo pagal galiojančias Kelių eismo taisykles ar kitus teisės aktus.
+
+34.1.7. Ekipažas, kuris buvo pasivytas vėliau startavusio arba greitesnio ekipažo, turi praleisti ir sudaryti sąlygas būti saugiai aplenktas. Tai ypač pabrėžtina, jei lenkiantysis ekipažas prarado laiko dėl techninio gedimo arba buvo nuvažiavęs nuo kelio prieš jį pasivyjant. Pasirengimą lenkti turi parodyti atitinkami mirksintys indikatoriai (pvz., kairysis posūkio signalas reiškia, kad aplenktas automobilis liks kairėje kelio pusėje). Aplenkiamas ekipažas turi dėti visas pastangas, kad palengvintų lenkimo manevrą, įskaitant sustojimą saugioje vietoje. Ekipažai yra atsakingi už tai, kad dėl lenkimo metu nekiltų pavojus.
+
+34.1.8. Ekipažas, siekiantis laiko kompensavimo, turi pateikti Varžybų vadovui ar pavaduotojui arba teisėjui ryšiams su dalyviams šią medžiagą:
+- Prašymą išnagrinėti situaciją, kuris turi būti pasirašytas I arba II vairuotojo, komandos vadovo arba pareiškėjo (spausdintine arba elektronine versija);
+- Visos situacijos vaizdinę medžiagą: salono kameros (on-board) vaizdo įrašą ir/arba vaizdinę medžiagą užfiksuotą iš žiūrovų ar kitų žmonių. Dalinė situacijos vaizdinė medžiaga pripažįstama netinkama, nes nėra galimybės įvertinti pilnos situacijos.
 • Prašyme turi būti išdėstyta pilna situacija, kurioje aprašomi argumentuoti paaiškinimai bei nurodoma kodėl nepavyko išvengti situacijos (aplenkti/pravažiuoti ar kt.) bei skaičiavimais įrodytas kompensuojamas laikas.
 
 34.2. SUSIPAŽINIMAS SU TRASA  
@@ -1033,159 +625,157 @@ Nepaisant šių aukščiau išvardintų atvejų, policija sustabdžiusi ekipaž�
   - už kiekvieną ne greičio viršijimo pažeidimą baudą taikys Sporto komisarų kolegija.  
 - trečias fiksuotas pažeidimas susipažinimo metu arba greičio viršijimas daugiau nei 40 km/h – Varžybų vadovas skiria 5 minučių baudą.  
 - ketvirtas fiksuotas pažeidimas susipažinimo metu – diskvalifikacija, kurią taiko Sporto komisarų kolegija.  
-
 Baudų už pažeidimus susipažinimo su trasa metu sistema aprašyta LASVOVT 39 str.  
-
 34.2.3. Už kitus kelių eismo taisyklių pažeidimus susipažinimo su trasa metu varžybų komisarai skirs baudą pagal 34.4.4.–34.4.6. str.  
 34.2.4. Šių baudų dydžio nesumažina jokia kelių policijos skirta bauda.  
-
 34.3. GREIČIO VIRŠIJIMAS RALIO METU  
 Už greičio viršijimą varžybų metu kelio sekcijoje (pervažiavime) varžybų vadovas skirs baudą pagal šias sąlygas:  
 – už kiekvieną viršytą kilometrą nuo 10 km/h visiems vairuotojams skiriama 15 EUR bauda.  
-
 Šios baudos dydžio nesumažina jokia kelių policijos skirta bauda.  
-
 34.4. KELIŲ EISMO TAISYKLĖS  
 34.4.1. Ralio metu abu ekipažo nariai turi turėti galiojančius vairuotojo pažymėjimus ir turi laikytis šalies, kurioje vyksta ralis, kelių eismo taisyklių, išskyrus atvejus, kai vairuotojas dėl savo amžiaus dar neturi galiojančio vairuotojo pažymėjimo. Tokiais atvejais vairuoti neuždarytais bendro naudojimo keliais turi teisę tik ekipažo narys, turintis galiojantį vairuotojo pažymėjimą. Apie pažeidimus bus pranešta varžybų vadovui.  
 34.4.2. Ralyje dalyvaujančiam ekipažui pažeidus kelių eismo taisykles, policijos pareigūnai arba varžybų pareigūnai, pastebėję pažeidimą, turi informuoti pažeidėją tokiu pačiu būdu, kaip ir bet kurį kitą eismo dalyvį.
-34.4.3. Jei policijos pareigūnas arba varžybų teisėjas nusprendžia nestabdyti kelių eismo taisykles pažeidusio vairuotojo, jie bet kokiu atveju gali prašyti skirti baudas, nurodytas papildomuose nuostatuose, jei įvykdomos šios sąlygos:  
-- jei pateikiamas oficialus raštiškas pranešimas apie pažeidimą prieš preliminarių rezultatų paskelbimą;  
-- jei pareiškimai yra pakankamai aiškiai išdėstyti, siekiant be jokių abejonių nustatyti vairuotojo tapatybę ir jei tiksliai nurodyta pažeidimo vieta ir laikas;  
-- jei faktų negalima kitaip interpretuoti.  
+34.4.3. Jei policijos pareigūnas arba varžybų teisėjas nusprendžia nestabdyti kelių eismo taisykles pažeidusio vairuotojo, jie bet kokiu atveju gali prašyti skirti baudas, nurodytas papildomuose nuostatuose, jei įvykdomos šios sąlygos:
+- jei pateikiamas oficialus raštiškas pranešimas apie pažeidimą prieš preliminarių rezultatų paskelbimą;
+- jei pareiškimai yra pakankamai aiškiai išdėstyti, siekiant be jokių abejonių nustatyti vairuotojo tapatybę ir jei tiksliai nurodyta pažeidimo vieta ir laikas;
+- jei faktų negalima kitaip interpretuoti.
 
-34.4.4. Už kitus, ne greičio, pirmą ir antrą kartą padarytus KET pažeidimus piniginė bauda gali būti skiriama varžybų komisarų sprendimu.  
+34.4.4. Už kitus, ne greičio, pirmą ir antrą kartą padarytus KET pažeidimus piniginė bauda gali būti skiriama varžybų komisarų sprendimu.
 
-34.4.5. Trečią kartą pažeidus KET: Varžybų vadovo skiriama mažiausiai 5 minučių bauda. Varžybų vadovas, apie tai, kad taiko taisykles, išleidžia rašytinį Pranešimą.  
+34.4.5. Trečią kartą pažeidus KET: Varžybų vadovo skiriama mažiausiai 5 minučių bauda. Varžybų vadovas, apie tai, kad taiko taisykles, išleidžia rašytinį Pranešimą.
 
-34.4.6. Ketvirtą kartą pažeidus KET: Komisarai gali šalinti ekipažą iš varžybų.  
+34.4.6. Ketvirtą kartą pažeidus KET: Komisarai gali šalinti ekipažą iš varžybų.
 
-34.4.7. Baudos, nurodytos 34.2. ir 34.3 punktuose netrukdo komisarams skirti papildomas baudas, jei jie mano, kad tai būtina.  
-
----
+34.4.7. Baudos, nurodytos 34.2. ir 34.3 punktuose netrukdo komisarams skirti papildomas baudas, jei jie mano, kad tai būtina.
 
 ## SUSIPAŽINIMAS
 
-### 35. SUSIPAŽINIMAS SU TRASA
+35. SUSIPAŽINIMAS SU TRASA
 
-**35.1. SUSIPAŽINIMO AUTOMOBILIAI**  
+35.1. SUSIPAŽINIMO AUTOMOBILIAI  
 Susipažinimas su trasa leidžiamas tik automobiliais, kurių išmetimo sistema, jos skleidžiamas triukšmo lygis bei kiti parametrai atitinka KET bei organizatoriaus reikalavimus.
 
-**35.2. SUSIPAŽINIMO SU TRASA AUTOMOBILIŲ PADANGOS**  
+35.2. SUSIPAŽINIMO SU TRASA AUTOMOBILIŲ PADANGOS  
 Susipažinimo su trasa metu naudojamos padangos: sertifikuotos, važiavimui viešaisiais keliais skirtos padangos atitinkančios LR KET.
 
-**35.3. SUSIPAŽINIMO SU TRASA APRIBOJIMAI**  
+35.3. SUSIPAŽINIMO SU TRASA APRIBOJIMAI  
 Jei paskelbus ralio papildomus nuostatus bet koks pirmasis vairuotojas, antrasis vairuotojas ar bet koks kitas pareiškėjo komandos narys, kuris dalyvauja ar tik ketina dalyvauti ralyje ir kuris nori važiuoti keliais, kurie priklauso ralio lokalinei zonai, privalo gauti raštišką organizatoriaus leidimą ir organizatorius privalo informuoti LASF RK. Apie šių taisyklių pažeidimą pranešama varžybų sporto komisarams.
 
-**35.4. SUSIPAŽINIMO VYKDYMAS**  
+35.4. SUSIPAŽINIMAS VYKDYMAS  
+35.4.1. Grafikas. Susipažinimas su trasa turi vykti pagal tvarkaraštį, kurį nustato organizatorius. Dalyvavimas susipažinime su trasa privalomas (netaikoma C lygai).
 
-**35.4.1. Grafikas.**  
-Susipažinimas su trasa turi vykti pagal tvarkaraštį, kurį nustato organizatorius. Dalyvavimas susipažinime su trasa privalomas (netaikoma C lygai).
+35.4.2. Susipažinimo su trasa tvarkaraščio laikymasis. Po papildomų nuostatų paskelbimo momento iki greičio ruožo starto, bet kuris asmuo, susijęs su pateikusiu paraišką ekipažu, gali važiuoti greičio ruožo dalimis ir per jį (išskyrus pėsčiomis) tik gavus oficialų varžybų vadovo leidimą. Tačiau privaloma laikytis 35.3. punkto.
 
-**35.4.2. Susipažinimo su trasa tvarkaraščio laikymasis.**  
-Po papildomų nuostatų paskelbimo momento iki greičio ruožo starto, bet kuris asmuo, susijęs su pateikusiu paraišką ekipažu, gali važiuoti greičio ruožo dalimis ir per jį (išskyrus pėsčiomis) tik gavus oficialų varžybų vadovo leidimą. Tačiau privaloma laikytis 35.3. punkto.
+35.4.3. Susipažinimo skaičius. Kiekvienas ekipažas gali susipažinti su greičio ruožais arba sekcijomis (jei taikoma) po du kartus (pasikartojantys greičio ruožai yra laikomi vienu greičio ruožu). Susipažinimo su
+35.4.4. Greitis susipažinimo su trasa metu. Organizatorius gali nustatyti greičio apribojimus greičio ruožuose. Tokie apribojimai turi būti nurodyti kelio knygoje ir gali būti patikrinti bet kuriuo metu, susipažįstant su trasa. Organizatorius gali aprūpinti GPS saugos ir kontrolės įranga, kuri turi būti sumontuota ekipažo susipažinimo su trasa automobilyje. Apie bet kokį naudojamos įrangos trikdymą ar blokavimą susipažinimo su trasa metu bus pranešta komisarams.
 
-**35.4.3. Susipažinimo skaičius.**  
-Kiekvienas ekipažas gali susipažinti su greičio ruožais arba sekcijomis (jei taikoma) po du kartus (pasikartojantys greičio ruožai yra laikomi vienu greičio ruožu).
-trasa metu, jeigu nenaudojama GPS sekimo sistema, kiekvieno greičio ruožo pradžios ir/arba pabaigos taškuose turi būti kontroliuojantys teisėjai, kurie fiksuoja pravažiavimų skaičių. Ekipažai gali įvažiuoti ir išvažiuoti į/iš greičio ruožų tik pro starto ir finišo kontrolės punktus. Jei ralyje susipažinimui stebėti naudojama GPS sekimo sistema, trasoje turi būti bent vienas teisėjų mobilus ekipažas, tikrinantis susipažinimo su trasa tvarką.  
-35.4.4. Greitis susipažinimo su trasa metu. Organizatorius gali nustatyti greičio apribojimus greičio ruožuose. Tokie apribojimai turi būti nurodyti kelio knygoje ir gali būti patikrinti bet kuriuo metu, susipažįstant su trasa. Organizatorius gali aprūpinti GPS saugos ir kontrolės įranga, kuri turi būti sumontuota ekipažo susipažinimo su trasa automobilyje. Apie bet kokį naudojamos įrangos trikdymą ar blokavimą susipažinimo su trasa metu bus pranešta komisarams.  
-35.4.5. Testinis greičio ruožas. Neprivaloma įtraukti testinio greičio ruožo į susipažinimo su trasa grafiką.  
-35.4.6. Asmenų skaičius. Kiekvieno susipažinimo metu važiuojamo greičio ruožo pravažiavimo metu automobilyje gali būti tik du ekipažo nariai. Papildomas asmuo automobilyje gali būti tik leidus varžybų vadovui. Papildomas ekipažo narys privalo turėti LASF ar kitos ASF išduotą vairuotojo licenciją.  
+36. REIKALAVIMAI TESTINIAM GREIČIO RUOŽUI
 
-# TESTINIS GREIČIO RUOŽAS  
+36.1. BENDRIEJI REIKALAVIMAI
+Vykdant testinį greičio ruožą, organizatorius privalo jį įtraukti į ralio programą.
 
-## 36. REIKALAVIMAI TESTINIAM GREIČIO RUOŽUI  
+36.2. TESTINIO GREIČIO RUOŽO VYKDYMAS
+36.2.1. Testinis greičio ruožas turi būti vykdomas kaip ralio greičio ruožas, taikant visas reikalingas saugumo priemones.
+36.2.2. Testiniam greičio ruožui taikomi tie patys reikalavimai, nurodyti šių taisyklių 34.2 punkte ir jis yra dalis susipažinimo.
+36.2.3. Rekomenduojama, kad testinio ruožo kelio danga būtų tokia pati kaip ir daugumos greičio ruožų.
 
-### 36.1. BENDRIEJI REIKALAVIMAI  
-Vykdant testinį greičio ruožą, organizatorius privalo jį įtraukti į ralio programą.  
+36.3. SUTIKIMAS PRISIIMTI ATSAKOMYBĘ
+Testinio ruožo metu bet koks automobilyje esantis asmuo, atliekantis antrojo vairuotojo pareigas, kuris nėra pareiškęs noro dalyvauti ralyje, turi būti pasirašęs organizatoriaus pateiktą sutikimo prisiimti atsakomybę formą.
 
-### 36.2. TESTINIO GREIČIO RUOŽO VYKDYMAS  
-36.2.1. Testinis greičio ruožas turi būti vykdomas kaip ralio greičio ruožas, taikant visas reikalingas saugumo priemones.  
-36.2.2. Testiniam greičio ruožui taikomi tie patys reikalavimai, nurodyti šių taisyklių 34.2 punkte ir jis yra dalis susipažinimo.  
-36.2.3. Rekomenduojama, kad testinio ruožo kelio danga būtų tokia pati kaip ir daugumos greičio ruožų.  
+36.4. TECHNINIAI REIKALAVIMAI
+Prieš testinį ruožą automobiliai turi būti perėję techninį patikrinimą.
 
-### 36.3. SUTIKIMAS PRISIIMTI ATSAKOMYBĘ  
-Testinio ruožo metu bet koks automobilyje esantis asmuo, atliekantis antrojo vairuotojo pareigas, kuris nėra pareiškęs noro dalyvauti ralyje, turi būti pasirašęs organizatoriaus pateiktą sutikimo prisiimti atsakomybę formą.  
+36.5. AUTOMOBILIO GEDIMAS TESTINIO RUOŽO METU
+Lietuvoje netaikoma
 
-### 36.4. TECHNINIAI REIKALAVIMAI  
-Prieš testinį ruožą automobiliai turi būti perėję techninį patikrinimą.  
+36.6. VAIRUOTOJO IR KELEIVIO EKIPIRUOTĖ
+Testinio ruožo metu visi asmenys, esantys automobilyje, privalo dėvėti saugos reikalavimus atitinkančius šalmus, nurodytus rūbus bei naudoti saugumo įrangą, remiantis čempionatų ar varžybų serijų reglamentuose (ne čempionato, varžybų serijos varžybose – papildomuose nuostatuose). Už bet kokius pastebėtus pažeidimus bus skiriamos baudos.
 
-### 36.5. AUTOMOBILIO GEDIMAS TESTINIO RUOŽO METU  
-Lietuvoje netaikoma  
+36.7. SERVISAS TESTINIO RUOŽO METU
+32
 
-### 36.6. VAIRUOTOJO IR KELEIVIO EKIPIRUOTĖ  
-Testinio ruožo metu visi asmenys, esantys automobilyje privalo dėvėti saugos reikalavimus atitinkančius čempionatų ar varžybų serijų reglamentuose (ne čempionato, varžybų serijos varžybose – papildomuose nuostatuose) šalmus, nurodytus rūbus bei naudoti saugumo įrangą. Už bet kokius pastebėtus pažeidimus bus skiriamos baudos.  
-
-### 36.7. SERVISAS TESTINIO RUOŽO METU
-Servisas ir kuro užpylimas testinio ruožo metu gali būti atliekamas tik pagrindiniame serviso parke, nebent papildomuose nuostatuose numatyta kitaip.
+Servisas ir kuro užpylimas testinio ruožo metu gali būti atliekamas tik pagrindiniame serviso parke, 
+nebent papildomuose nuostatuose numatyta kitaip.
 
 37. LAISVOS TRENIRUOTĖS/KVALIFIKACIJA
 
-37.1. BENDROS NUOSTATOS  
-37.1.1. Laisvų treniruočių/kvalifikacijos organizavimas nėra privalomas. Laisvosios treniruotės/kvalifikacija organizuojamos dalyviams nustatant jų starto tvarką iki pirmo pergrupavimo. Po kvalifikacijos tame pačiame greičio ruože gali būti vykdomas testinis greičio ruožas.  
-37.1.2. Ekipažai, kurie privalo dalyvauti kvalifikaciniame greičio ruože, privalo būti nurodyti varžybų papildomuose nuostatuose.  
-37.1.3. Laisvosios treniruotės/kvalifikacija bus:  
-- Vykdomos kaip bet koks kitas ralio greičio ruožas naudojant atitinkamas saugos priemones;  
-- Ralio programos, bet ne ralio rezultatų dalis;  
-- Ralio reprezentacinė dalis;  
-- Idealiu atveju, nuo 3 km iki 5 km ilgio.  
-37.1.4. Ekipažas, kurio automobilis sugenda laisvų treniruočių/kvalifikacijos metu, vis tiek turi dalyvauti iškilmingame starte.
+37.1. BENDROS NUOSTATOS
+37.1.1. Laisvų treniruočių/kvalifikacijos organizavimas nėra privalomas. Laisvosios treniruotės/ 
+kvalifikacija organizuojamos dalyviams nustatant jų starto tvarką iki pirmo pergrupavimo. Po kvalifikacijos 
+tame pačiame greičio ruože gali būti vykdomas testinis greičio ruožas.
+37.1.2. Ekipažai, kurie privalo dalyvauti kvalifikaciniame greičio ruože, privalo būtų nurodyti varžybų 
+papildomuose nuostatuose.
+37.1.3. Laisvosios treniruotės/kvalifikacija bus:
+• Vykdomos kaip bet koks kitas ralio greičio ruožas naudojant atitinkamas saugos priemones;
+• Ralio programos, bet ne ralio rezultatų dalis;
+• Ralio reprezentacinė dalis;
+• Idealiu atveju, nuo 3 km iki 5 km ilgio.
+37.1.4. Ekipažas, kurio automobilis sugenda laisvų treniruočių/kvalifikacijos metu, vis tiek turi dalyvauti 
+iškilmingame starte.
 
-37.2. LAISVŲ TRENIRUOČIŲ VYKDYMAS  
-37.2.1. Laisvosios treniruotės organizuojamos kaip galimybė dalyviams išbandyti ir sureguliuoti savo automobilius.  
-37.2.2. Dalyvaujantys ekipažai gali įveikti greičio ruožą ne daugiau nei 2 kartus, laikantis organizatoriaus numatyto grafiko.
+37.2. LAISVŲ TRENIRUOČIŲ VYKDYMAS
+37.2.1. Laisvosios treniruotės organizuojamas kaip galimybė dalyviams išbandyti ir sureguliuoti savo 
+automobilius.
+37.2.2. Dalyvaujantys ekipažai gali įveikti greičio ruožą ne daugiau nei 2 kartus, laikantis organizatoriaus 
+numatyto grafiko.
 
-37.3. GEDIMAI IR AVARIJOS LAISVŲJŲ TRENIRUOČIŲ METU  
-37.3.1. Ekipažas, kurio automobilis nesugeba įveikti laisvųjų treniruočių greičio ruožą, turi laukti, kol organizatorius, pasibaigus laisvų treniruočių sesijai, evakuos jo automobilį iš greičio ruožo.
+37.3. GEDIMAI IR AVARIJOS LAISVŲJŲ TRENIRUOČIŲ METU
+37.3.1. Ekipažas, kurio automobilis nesugeba įveikti laisvųjų treniruočių greičio ruožą, turi laukti kol 
+organizatorius, pasibaigus laisvų treniruočių sesijai, evakuos jo automobilį iš greičio ruožo.
 
-37.4. KVALIFIKACIJOS VYKDYMAS  
-37.4.1. Po dviejų laisvųjų treniruočių važiavimų, dalyvaujantys ekipažai startuos kvalifikacijoje pagal čempionato reglamente numatytus starto tvarkos sudarymo kriterijus. Intervalas tarp automobilių: 2 minutės.  
-37.4.2. Viso kvalifikacijos greičio ruožo metu automobilyje turi būti abu paraiškoje nurodyti vairuotojai.  
-37.4.3. Jei dalyvaujančių kvalifikacijoje grupėje yra užsienio sportininkų, jų starto pozicijos kvalifikacijoje nustatomos komisarų sprendimu.  
-37.4.4. Kvalifikacijos starto tvarka paskelbiama papildomuose nuostatuose numatytu laiku. Starto procedūra turi atitikti papildomuose nuostatuose aprašytą procedūrą. Dalyvaujantys kvalifikacijoje sportininkai nebegali dalyvauti testiniame greičio ruože.
+37.4. KVALIFIKACIJOS VYKDYMAS
+37.4.1. Po dviejų laisvųjų treniruočių važiavimų, dalyvaujantys ekipažai startuos kvalifikacijoje 
+pagal čempionato reglamente numatytus starto tvarkos sudarymo kriterijus. Intervalas tarp 
+automobilių: 2 minutės.
+37.4.2. Viso kvalifikacijos greičio ruožo metu automobilyje turi būti abu paraiškoje nurodyti vairuotojai.
+37.4.3. Jei dalyvaujančių kvalifikacijoje grupėje yra užsienio sportininkų, jų starto pozicijos 
+kvalifikacijoje nustatomos komisarų sprendimu.
+37.4.4. Kvalifikacijos starto tvarka paskelbiama papildomuose nuostatuose numatytu laiku. Starto 
+procedūra turi atitikt papildomuose nuostatuose aprašytą procedūrą. Dalyvaujantys kvalifikacijoje 
+sportininkai nebegali dalyvauti testiniame greičio ruože.
 
-37.5. GEDIMAI IR AVARIJOS KVALIFIKACIJOS METU  
-37.5.1. Bet koks automobilis, patyręs avariją ar gedimą kvalifikacijos greičio ruožo ar kelio sekcijos po jo metu, turi būti organizatorių nugabentas į UP po to, kai kvalifikacijos greičio ruožas baigiasi.
-37.5.2. Bet koks vairuotojas nedalyvavęs ar neįveikęs kvalifikacijos GR renkasi starto poziciją paskutinis.  
-Jei daugiau nei vienas vairuotojas neįveikia kvalifikacijos GR, jie renkasi starto pozicijas tokiu eiliškumu, kokiu nurodytas kvalifikacijos GR starto tvarkoje.  
+37.5. GEDIMAI IR AVARIJOS KVALIFIKACIJOS METU
+37.5.1. Bet koks automobilis, patyręs avariją ar gedimą kvalifikacijos greičio ruože ar kelio sekcijos po jo metu, turi 
+būti organizatorių nugabentas į UP po to, kai kvalifikacijos greičio ruožas baigiasi.
+37.5.2. Bet koks vairuotojas nedalyvavęs ar neįveikęs kvalifikacijos GR renkasi starto poziciją paskutinis. Jei daugiau nei vienas vairuotojas neįveikia kvalifikacijos GR, jie renkasi starto pozicijas tokiu eiliškumu, kokiu nurodytas kvalifikacijos GR starto tvarkoje. 
 
 37.6. UŽDARAS PARKAS PO KVALIFIKACIJOS GR  
-Bet koks sportinio automobilio servisas po to, kai jis startavo kvalifikacijos GR, yra draudžiamas. Visi automobiliai, dalyvavę kvalifikacijos GR, turi būti pastatyti į organizatoriaus nurodytą uždarą parką.  
-Automobiliai lieka uždarame parke iki SKK pranešimo. Ekipažui ar ekipažo atstovams leidžiama pasiimti GPS saugos ir varžybų kontrolės įrangą, prižiūrint techninės komisijos atstovams.  
+Bet koks sportinio automobilio servisas po to, kai jis startavo kvalifikacijos GR, yra draudžiamas. Visi automobiliai, dalyvavę kvalifikacijos GR, turi būti pastatyti į organizatoriaus nurodytą uždarą parką. Automobiliai lieka uždarame parke iki SKK pranešimo. Ekipažui ar ekipažo atstovams leidžiama pasiimti GPS saugos ir varžybų kontrolės įrangą, prižiūrint techninės komisijos atstovams.
 
 37.7. STARTO POZICIJŲ PASIRINKIMAS IR PRISKYRIMAS  
 37.7.1. Dalyviai pasirinks starto pozicijas pagal kvalifikacijos rezultatus.  
 37.7.2. Greičiausias ekipažas rinksis starto poziciją pirmas.  
 37.7.3. Šios procedūros vieta ir laikas turi būti aprašyti papildomuose nuostatuose.  
-37.7.4. Bet koks vairuotojas laiku neatvykęs į šią procedūrą rinksis starto poziciją paskutinis.  
+37.7.4. Bet koks vairuotojas laiku neatvykęs į šią procedūrą rinksis starto poziciją paskutinis.
 
 37.8. VĖLAVIMAS AR ANKSTESNIS ATVYKIMAS  
-37.8.1. Bet koks ankstyvas ar vėlyvas atvykimas į LK prieš kvalifikacijos GR, bus laikomas kvalifikacijos GR neįveikimu. Šiuo atveju taikomos 37.5.2 punkto nuostatos.  
+37.8.1. Bet koks ankstyvas ar vėlyvas atvykimas į LK prieš kvalifikacijos GR, bus laikomas kvalifikacijos GR neįveikimu. Šiuo atveju taikomos 37.5.2 punkto nuostatos.
 
 37.9. KLAIDINGAS STARTAS  
-37.9.1. Bet koks klaidingas startas kvalifikacijos GR bus laikomas kvalifikacijos GR neįveikimu. Šiuo atveju taikomos 37.5.2 punkto nuostatos.  
+37.9.1. Bet koks klaidingas startas kvalifikacijos GR bus laikomas kvalifikacijos GR neįveikimu. Šiuo atveju taikomos 37.5.2 punkto nuostatos.
 
 37.10. SERVISAS  
-Nuo laisvųjų treniruočių sesijos pradžios iki individualaus starto kvalifikacijos GR servisas ir kuro užpylimas gali būti atliekamas tik papildomuose nuostatuose numatytose zonose.  
+Nuo laisvųjų treniruočių sesijos pradžios iki individualaus starto kvalifikacijos GR servisas ir kuro užpylimas gali būti atliekamas tik papildomuose nuostatuose numatytose zonose.
 
 37.11. TECHNINIAI REIKALAVIMAI  
-Kvalifikacijoje dalyvaujantiems automobiliams, techniniai komisarai privalo užplombuoti turbinas bei techniniai komisarai, savo įsitikinimu, gali pažymėti kitus automobilius techninius komponentus.  
+Kvalifikacijoje dalyvaujantiems automobiliams, techniniai komisarai privalo užplombuoti turbinas bei techniniai komisarai, savo įsitikinimu, gali pažymėti kitus automobilius techninius komponentus.
 
-38. LIETUVOJE NETAIKOMA  
+38. LIETUVOJE NETAIKOMA
 
-STARTAS IR PAKARTOTINIS STARTAS  
+STARTAS IR PAKARTOTINIS STARTAS
 
 39. STARTO CEREMONIJA  
-Iškilmingo starto intervalai ir tvarka yra nustatoma papildomuose nuostatuose. Jei ekipažas su savo automobiliu negali dalyvauti iškilmingame starte, jam leidžiama startuoti ralyje savo paskirtu starto laiku, jei komisarams apie tai pranešama jų pirmame posėdyje ir jei ekipažas yra įvykdęs visus administracinius ir techninius patikrinimus. Tokio ekipažo nariai vis tiek savo laiku privalo dalyvauti iškilmingame starte, vilkėdami sportinius kombinezonus.  
+Iškilmingo starto intervalai ir tvarka yra nustatoma papildomuose nuostatuose. Jei ekipažas su savo automobiliu negali dalyvauti iškilmingame starte, jam leidžiama startuoti ralyje savo paskirtu starto laiku, jei komisarams apie tai pranešama jų pirmame posėdyje ir jei ekipažas yra įvykdęs visus administracinius ir techninius patikrinimus. Tokio ekipažo nariai vis tiek savo laiku privalo dalyvauti iškilmingame starte, vilkėdami sportinius kombinezonus.
 
-40. RALIO STARTAS  
+40. RALIO STARTAS
 
 40.1. STARTO ZONA
+34
+
 Prieš startą organizatorius gali surikiuoti visų ekipažų automobilius starto zonoje, į kurią automobiliai turi būti pastatyti laiku, nurodytu ralio papildomuose nuostatuose. Papildomuose nuostatuose gali būti nurodytos tik piniginės baudos už vėlavimą pastatyti automobilį į startinę zoną. Starto zonoje negalima atlikti remonto darbų.
 
 40.2. DIDŽIAUSIAS VĖLAVIMAS Į STARTĄ  
 Ekipažui, vėluojančiam daugiau nei 15 min. į ralio pirmos sekcijos startą, neleidžiama startuoti toje sekcijoje.
-
----
 
 41. STARTO TVARKA IR INTERVALAI
 
@@ -1202,14 +792,13 @@ Aprašoma atskirų varžybų atitinkamuose reglamentuose.
 Aprašoma atskirų varžybų atitinkamuose reglamentuose.
 
 41.5. STARTO INTERVALAS  
-Visi ekipažai startuoja vienos minutės intervalais, jei papildomuose nuostatuose nenurodyta kitaip. Varžybų vadovas, esant force majeure aplinkybėms, gali pakeisti ekipažų startavimo intervalus.
-
----
+Visi ekipažai startuoja vienos minutės intervalais, jei papildomuose nuostatuose nenurodyta kitaip.  
+Varžybų vadovas, esant force majeure aplinkybėms, gali pakeisti ekipažų startavimo intervalus.
 
 42. KONTROLĖS PUNKTAI - BENDRIEJI REIKALAVIMAI
 
 42.1. KONTROLĖS PUNKTŲ ŽENKLINIMAS  
-Visi kontrolės punktai ir zonos, taip pat pravažiavimo ir laiko kontrolės punktai, greičio ruožų starto ir finišo punktai, pergrupavimo ir neutralizavimo kontrolės zonos turi būti paženklintos LASF patvirtintais standartizuotais ženklais, atitinkančiais šių taisyklių priede Nr. 1 nurodytus brėžinius ir atstumus.
+Visi kontrolės punktai ir zonos, taip pat pravažiavimo ir laiko kontrolės punktai, greičio ruožų starto ir finišo punktai, pergrupavimo ir neutralizavimo kontrolės zonos turi būti paženklintos LASF patvirtintais standartizuotais ženklais, atitinkančiais šių taisyklių priedo Nr. 1 nurodytus brėžinius ir atstumus.
 
 42.2. APSAUGINĖS UŽTVAROS  
 Mažiausiai 5 m ilgio ruožas prieš kontrolės punktą ir už jo, bei pats kontrolės punktas turi būti apsaugotas užtvaromis abiejose kelio pusėse, kad būtų galima netrukdomai atlikti kontrolę.
@@ -1222,26 +811,24 @@ Sustojimo laikas visose kontrolės zonose yra apribojamas iki laiko, kurio reiki
 42.4.2. Jei varžybų vadovas nenusprendžia kitaip, kontrolės punktai baigs darbą praėjus 15 min. plius maksimalus galimo vėlavimo laikas po paskutinio ekipažo idealaus atvykimo laiko.
 42.5. KONTROLĖS PUNKTŲ SEKA IR KRYPTIS  
 42.5.1. Ekipažai privalo atsižymėti teisinga kontrolės punktų seka ir ralio maršruto kryptimi.  
-42.5.2. Draudžiama pakartotinai patekti į kontrolės punkto zoną.  
+42.5.2. Draudžiama pakartotinai patekti į kontrolės punkto zoną.
 
 42.6. TEISĖJŲ NURODYMAI  
 42.6.1. Ekipažai privalo vykdyti kontrolės punktų teisėjų nurodymus. Apie jų nevykdymą bus pranešta komisarams.  
 42.6.2. Visi kontrolės punktų teisėjai turi būti lengvai atpažįstami ir vilkėti skiriamąsias liemenes.  
-42.6.3. Kiekviename kontrolės punkte vyr. teisėjas turi vilkėti skiriamąją kitos spalvos liemenę.  
+42.6.3. Kiekviename kontrolės punkte vyr. teisėjas turi vilkėti skiriamąją kitos spalvos liemenę.
 
 42.7. ŽINIASKLAIDOS ZONOS (KAI NAUDOJAMOS)  
-Aptverta žiniasklaidos zona gali būti įkurta serviso parkuose, nuotoliniuose servisuose ar pergrupavimo parkuose prieš geltoną laiko kontrolės ženklą, prieš apdovanojimų ceremoniją finiše. Į žiniasklaidos zoną bus įleidžiami tik atitinkamus leidimus turintys asmenys. Organizatoriai gali planuoti maršrutinę kortelę ir tvarkaraštį taip, jog ekipažai galėtų praleisti 15 min. ar daugiau tokioje zonoje. Tokios žiniasklaidos zonos turi būti aiškiai pažymėtos kelio knygoje.  
+Aptverta žiniasklaidos zona gali būti įkurta serviso parkuose, nuotoliniuose servisuose ar pergrupavimo parkuose prieš geltoną laiko kontrolės ženklą, prieš apdovanojimų ceremoniją finiše. Į žiniasklaidos zoną bus įleidžiami tik atitinkamus leidimus turintys asmenys. Organizatoriai gali planuoti maršrutinę kortelę ir tvarkaraštį taip, jog ekipažai galėtų praleisti 15 min. ar daugiau tokioje zonoje. Tokios žiniasklaidos zonos turi būti aiškiai pažymėtos kelio knygoje.
 
 42.8. SALONO VIDEO KAMEROS DUOMENŲ NUSKAITYMO IR KAMEROS APTARNAVIMO PUNKTAI  
-Organizatorius ralio maršrute gali įrengti salono video kameros duomenų nuskaitymo ir sumontavimo punktus. Tokie punktai turi būti pažymėti biuletenyje (kurį gali išleisti varžybų vadovas) ir yra skirti tik video duomenų nuskaitymui ir kamerų reguliavimui, aptarnavimui ir sumontavimui.  
-Video duomenys taip pat gali būti nuskaitomi žiniasklaidos zonoje, pergrupavimo arba uždaruose parkuose ir išvažiavimuose iš nuotolinių kuro papildymo zonų su varžybų vadovo sutikimu. Jei pageidaujama, kad šie darbai būtų atliekami dalyvaujant komandos atstovui, komanda apie tai turi pranešti varžybų vadovui prieš ralio startą.  
-Visi tokie darbai bus atliekami prižiūrint teisėjui arba ralio oficialiam asmeniui.  
+Organizatorius ralio maršrute gali įrengti salono video kameros duomenų nuskaitymo ir sumontavimo punktus. Tokie punktai turi būti pažymėti biuletenyje (kurį gali išleisti varžybų vadovas) ir yra skirti tik video duomenų nuskaitymui ir kamerų reguliavimui, aptarnavimui bei sumontavimui. Video duomenys taip pat gali būti nuskaitomi žiniasklaidos zonoje, pergrupavimo arba uždaruose parkuose ir išvažiavimuose iš nuotolinių kuro papildymo zonų su varžybų vadovo sutikimu. Jei pageidaujama, kad šie darbai būtų atliekami dalyvaujant komandos atsovui, komanda turi apie tai pranešti varžybų vadovui prieš ralio startą.  
+Visi tokie darbai atliekami prižiūrint teisėjui arba ralio oficialiam asmeniui.
 
 43. PRAVAŽIAVIMO KONTROLĖ  
-Šiuose kontrolės punktuose, pažymėtuose šių taisyklių priede Nr. 1 nurodytais skiriamaisiais ženklais, ekipažui padavus laiko kortelę, teisėjai privalo paprasčiausiai uždėti antspaudą ir/arba pasirašyti ją, neminint atsižymėjimo laiko.  
+Šiuose kontrolės punktuose, pažymėtuose šių taisyklių priede Nr. 1 nurodytais skiriamaisiais ženklais, ekipažui padavus laiko kortelę, teisėjai privalo paprasčiausiai uždėti antspaudą ir/arba pasirašyti ją, neminint atsižymėjimo laiko.
 
 44. LAIKO KONTROLĖ  
-
 44.1. PROCESAS  
 Šiuose kontrolės punktuose laiko kortelėje teisėjai privalo pažymėti laiką, kada kortelė buvo jiems pateikta. Laikas fiksuojamas pilnos minutės tikslumu.  
 
@@ -1249,18 +836,18 @@ Visi tokie darbai bus atliekami prižiūrint teisėjui arba ralio oficialiam asm
 44.2.1. Atsižymėjimo procedūra prasideda tuo momentu, kai automobilis pravažiuoja laiko kontrolės zonos pradžios ženklą.  
 44.2.2. Atkarpoje tarp laiko kontrolės zonos pradžios ženklo ir kontrolės punkto automobiliams draudžiama sustoti dėl bet kokios priežasties arba važiuoti neįprastai lėtai.
 44.2.3. Faktinis laiko užfiksavimas ir laiko įrašas laiko kortelėje gali būti daromas tik tada, kai abu ekipažo nariai ir automobilis yra kontrolės zonoje, šalia kontrolės punkto.  
-44.2.4. Atsižymėjimo laikas turi atitikti tikslų momentą, kai vienas iš ekipažo narių laiko kortelę paduoda atitinkamam teisėjui.  
+44.2.4. Atsižymėjimo laikas turi atitikti tikslų momentą, kai vienas iš ekipažo narių laiko kortelę paduoda atitinkančiam teisėjui.  
 44.2.5. Tada atitinkamas teisėjas laiko kortelėje pažymi faktinį laiką, kada kortelė buvo paduota ir nieko daugiau.  
-44.2.6. Idealus atsižymėjimo laikas yra laikas, gaunamas prie starto laiko arba prieš tai buvusio LK laiko pridedant laiko normą. Šie laikai skaičiuojami minutės tikslumu.  
+44.2.6. Idealus atsižymėjimo laikas yra laikas, gaunamas prie starto laiko arba prieš tai buvusio LK laiko pridėjus laiko normą. Šie laikai skaičiuojami minutės tikslumu.  
 44.2.7. Tik ekipažo nariai atsako už idealų atsižymėjimo laiką. Laiką galima pasitikslinti kontrolės punkte esančiame oficialiame laikrodyje. Teisėjai gali neteikti informacijos apie atsižymėjimo laiką.  
-44.2.8. Ekipažui nebus skiriama bauda už priešlaikinį atsižymėjimą, jei automobilis įvažiuoja į kontrolės zoną laiku arba viena minute ankščiau.  
+44.2.8. Ekipažui nebus skiriama bauda už priešlaikinį atsižymėjimą, jei automobilis įvažiuoja į kontrolės zoną laiku arba viena minutė ankščiau.  
 44.2.9. Ekipažui nebus skiriama bauda už vėlavimą, jei laiko kortelė teisėjui paduodama idealaus laiko minutę.  
 44.2.10. Už bet kokį neatitikimą tarp faktinio atsižymėjimo laiko ir idealaus atsižymėjimo laiko bus skiriama bauda pagal šias sąlygas:  
 a. už vėlavimą: 10 sekundžių už pavėluotą minutę arba minutės dalį;  
 b. už skubėjimą: 1 minutė už paskubėtą minutę arba minutės dalį.  
 44.2.11. Organizatorius gali leisti ekipažams atsižymėti anksčiau laiko, neskiriant jokios baudos, su sąlyga, kad tai nurodyta ralio papildomuose nuostatuose arba vėliau išleistame biuletenyje.  
 44.2.12. Jei nustatoma, kad ekipažas nesilaikė atsižymėjimo tvarkos taisyklių, vyresnysis kontrolės punkto teisėjas privalo parengti raštišką pranešimą ir nedelsiant jį nusiųsti varžybų vadovui.  
-44.2.13. Varžybų vadovo sprendimu, už skubėjimą nubaustam ekipažui skubėjimo laikas gali būti neutralizuotas laiku, reikalingu šį ekipažą atstatyti į idealų jo grafiką.
+44.2.13. Varžybų vadovo sprendimu, už skubėjimą nubaustam ekipažui skubėjimo laikas gali būti neutralizuotas laiku, reikalingu šį ekipažą atstatyti į idealų jo grafiką.  
 
 44.3. GREIČIO RUOŽAS PO LAIKO KONTROLĖS PUNKTO  
 Kai po laiko kontrolės seka greičio ruožas, reikia laikytis tokios tvarkos:  
@@ -1271,7 +858,8 @@ Kai po laiko kontrolės seka greičio ruožas, reikia laikytis tokios tvarkos:
 44.3.5. Tokiu atveju, greituminio ruožo faktinis starto laikas taip pat bus ir starto laikas, skaičiuojant atsižymėjimo laiką į sekantį LK.  
 44.3.6. Laiko kortelė turi būti atiduota ekipažui likus 30 s. iki starto.
 44.4. PADANGŲ ŠILDYMO ZONA  
-44.4.1. Padangų šildymo zona gali būti numatoma tarp laiko kontrolės ir greičio ruožo starto vietos. Padangų šildymo zona yra neprivaloma organizatoriui. Kad būtų galima naudoti kaip PŠZ, atkarpai keliami saugos reikalavimai turi būti pažymėti saugos plane, išskyrus gelbėjimo automobilius, kurie liks vietoje ir po greičio ruožo pradžios.  
+44.4.1. Padangų šildymo zona gali būti numatoma tarp laiko kontrolės ir greičio ruožo starto vietos.  
+Padangų šildymo zona yra neprivaloma organizatoriui. Kad būtų galima naudoti kaip PŠZ, atkarpai keliami saugos reikalavimai turi būti pažymėti saugos plane, išskyrus gelbėjimo automobilius, kurie liks vietoje ir po greičio ruožo pradžios.  
 44.4.2. Numatant padangų šildymo zoną, atstumas tarp laiko kontrolės ir greičio ruožo starto turi būti mažiausiai 500 metrų. Padangų šildymo zona turi būti pažymėta kelio knygoje.  
 44.4.3. Padangų šildymo zona prasideda po laiko kontrolės įspėjamuoju ženklu ir baigiasi įspėjamuoju ženklu, jog padangų šildymo zona baigiasi. Kilus pavojui, vairuotojai turi turėti galimybę bet kada sustabdyti automobilį. Griežtai draudžiama tyčia sustoti zonoje arba važiuoti priešinga kryptimi. Tarp „padangų šildymo zonos pabaigos“ ženklo ir greičio ruožo starto turi būti mažiausiai 100 m atstumas.  
 44.4.4. 3 minučių laiko norma tarp laiko kontrolės ir greičio ruožo starto gali būti padidinta atsižvelgiant į padangų šildymo zonos ilgį, jog ekipažas galėtų tinkamai apšildyti padangas ir pasiruošti greičio ruožo startui. Laiko norma padangų šildymo zonoje turi būti informuojama varžybų Papildomuose Nuostatuose.  
@@ -1279,13 +867,13 @@ Kai po laiko kontrolės seka greičio ruožas, reikia laikytis tokios tvarkos:
 45. VĖLAVIMAS  
 
 45.1. MAKSIMALUS VĖLAVIMO LAIKAS  
-Už bet kokį didesnį nei 15 min. vėlavimą pagal bet kurią individualią laiko normą arba už didesnį nei 30 min. suminį vėlavimą kiekvienos ralio sekcijos arba ralio rato gale ekipažas bus varžybų vadovo šalinamas iš varžybų rezultatų. Tačiau ekipažas turi teisę iš naujo startuoti ralyje pagal Rally 2 (54 str.) taisyklių reikalavimus, jei šios taisyklės taikomos. Skaičiuojant bendrą vėlavimo laiką, imamas faktinis vėlavimas, o ne už baudas (10 sekundžių už minutę) skirtas laikas.  
+Už bet kokį didesnį nei 15 min. vėlavimą pagal bet kurią individualią laiko normą arba už didesnį nei 30 min. suminį vėlavimą kiekvienos ralio sekcijos arba ralio rato gale ekipažas bus varžybų vadovo šalinamas iš rezultato. Tačiau ekipažas turi teisę iš naujo startuoti ralyje pagal Rally 2 (54 str.) taisyklių reikalavimus, jei šios taisyklės taikomos. Skaičiuojant bendrą vėlavimo laiką, imamas faktinis vėlavimas, o ne už baudas (10 sekundžių už minutę) skirtas laikas.  
 
 45.2. ANKSTYVAS ATVYKIMAS  
-Ekipažams atvykus anksčiau, vėlavimo laikas, skaičiuojamas į bendrą vėlavimo sumą, jokiais būdais nebus sumažinamas.  
+Ekipažams atvykus anksčiau, vėlavimo laikas, skaičiuojamas į bendrą vėlavimo sumą, jokiais būdais nebus sumažintas.  
 
 45.3. PRANEŠIMAS APIE PAŠALINIMĄ  
-Apie pašalinimą už didžiausio leistino vėlavimo laiko viršijimą gali būti paskelbta tiktai sekcijos pabaigoje.  
+Apie pašalinimą už didžiausio leistino vėlavimo laiko viršijimą gali būti paskelbta tik sekcijos pabaigoje.  
 
 46. PERGRUPAVIMAS  
 
@@ -1297,267 +885,252 @@ Apie pašalinimą už didžiausio leistino vėlavimo laiko viršijimą gali būt
 Po pergrupavimo ralio rato eigoje (starto tvarkos sutraukimo) dalyviai startuos tokia tvarka, kokia įvažiavo į pergrupavimo zoną. Varžybų vadovas, žinant komisarams, gali pakeisti bet kurio ekipažo starto tvarkos poziciją, esant aiškioms priežastims.
 47. GREIČIO RUOŽAI - BENDRIEJI REIKALAVIMAI
 
-47.1. LAIKO FIKSAVIMAS  
+47.1. LAIKO FIKSAVIMAS
 Greičio ruožuose laikas fiksuojamas dešimtosiomis sekundės dalimis. Laisvosiose treniruotėse, kvalifikacijoje ir “Super” greičio ruože laikas fiksuojamas tūkstantosiomis sekundės dalimis.
 
-48. GREIČIO RUOŽO STARTAS
+48.  GREIČIO RUOŽO STARTAS
 
-48.1. STARTO VIETA  
+48.1. STARTO VIETA
 Greičio ruožai pradedami iš vietos, automobiliui stovint prie starto linijos. Starto vietą rekomenduojama parinkti ant kietos kelio dangos.
 
-48.2. STARTO PROCEDŪRA  
-48.2.1. Elektroninė starto procedūra ekipažams turi būti aiškiai matoma nuo starto linijos. Ji gali būti rodoma, kaip atgalinės atskaitos laikrodis ir/arba nuoseklios šviesos sistema. Bet kuriuo atveju sistema turi būti aprašyta varžybų papildomuose nuostatuose.  
-48.2.2. Elektroninė starto procedūra gali būti naudojama kartu su prietaisu, kuris nustato ir užfiksuoja, kai automobilis startuoja anksčiau laiko (klaidingas startas). Toks prietaisas turi būti 50 cm nuo starto linijos.  
-48.2.3. Kai į laiko kortelę įrašomas ekipažo starto laikas, laiko kortelė turi būti perduota ekipažui kaip įmanoma greičiau, tačiau ne ankščiau nei likus 30 sekundžių iki ekipažo faktinio starto laiko.  
-48.2.4. Kai automobilis atvyksta į startą, automobilio priekis turi būti pastatytas priešais teisėjo lazdą, žyminčią stikslią starto vietą. Likus vienai minutei prieš startą, bet ne anksčiau kai automobilis sustoja į savo tikslią starto vietą, teisėjas turi patraukti lazdą ir palikti ekipažą stebėti laiką iki starto. Bet kokie tolesni automobilio pozicijos pasikeitimai iki ekipažo starto laiko nėra leidžiami ir apie tai bus pranešama varžybų komisarams.
+48.2. STARTO PROCEDŪRA
+48.2.1. Elektroninė starto procedūra ekipažams turi būti aiškiai matoma nuo starto linijos. Ji gali būti rodoma, kaip atgalinės atskaitos laikrodis ir/arba nuoseklios šviesos sistema. Bet kuriuo atveju sistema turi būti aprašyta varžybų papildomuose nuostatuose.
+48.2.2. Elektroninė starto procedūra gali būti naudojama kartu su prietaisu, kuris nustato ir užfiksuoja, kai automobilis startuoja anksčiau laiko (klaidingas startas). Toks prietaisas turi būti 50 cm nuo starto linijos.
+48.2.3. Kai į laiko kortelę įrašomas ekipažo starto laikas, laiko kortelė turi būti perduota ekipažui kaip įmanoma greičiau, tačiau ne anksčiau nei likus 30 sekundžių iki ekipažo faktinio starto laiko.
+48.2.4. Kai automobilis atvyksta į startą, automobilio priekis turi būti pastatytas priešais teisėjo lazdą, žyminčią starto vietą. Likus vienai minutei prieš startą, bet ne anksčiau kai automobilis sustoja į savo tikslią starto vietą, teisėjas turi patraukti lazdą ir palikti ekipažą stebėti laiką iki starto. Bet kokie tolimesni automobilio pozicijos pasikeitimai iki ekipažo starto laiko nėra leidžiami ir apie tai bus pranešama varžybų komisarams.
 
-48.3. RANKINĖ STARTO PROCEDŪRA  
+48.3. RANKINĖ STARTO PROCEDŪRA
 Varžybose, kuriose naudojama rankinė starto procedūra, teisėjui atidavus ekipažui laiko kortelę, starto teisėjas garsiai sako iki starto likusį laiką: 30 s – 15 s – 10 s, o likusias 5 sekundes atgaline tvarka rankos pirštais skaičiuoja po vieną. Praėjus paskutinėms 5 sekundėms, bus duotas starto signalas.
 
-48.4. DĖL EKIPAŽO KALTĖS ATIDĖTAS STARTAS  
-48.4.1. Jei startas atidedamas dėl ekipažo kaltės, teisėjas laiko kortelėje įrašo naują laiką, o ekipažui skiriama vienos minutės bauda už kiekvieną pavėluotą minutę ar jos dalį.  
-48.4.2. Apie bet kokį ekipažo atsisakymą startuoti greičio ruože nustatyta tvarka ir numatytu laiku bus pranešta komisarams, nepaisant to, ar greičio ruožas yra vykdomas, ar ne.  
+48.4. DĖL EKIPAŽO KALTĖS ATIDĖTAS STARTAS
+48.4.1. Jei startas atidedamas dėl ekipažo kaltės, teisėjas laiko kortelėje įrašo naują laiką, o ekipažui skiriama vienos minutės bauda už kiekvieną pavėluotą minutę ar jos dalį.
+48.4.2. Apie bet kokį ekipažo atsisakymą startuoti greičio ruože nustatyta tvarka ir numatytu laiku bus pranešta komisarams, nepaisant to, ar greičio ruožas yra vykdomas, ar ne.
 48.4.3. Bet kuris ekipažas, nesugebėjęs startuoti nuo starto linijos praėjus 20 sekundžių nuo starto signalo, bus automatiškai laikomas pasitraukusiu iš varžybų, o automobilis nedelsiant patrauktas į saugią vietą.
 
 48.5. GREIČIO RUOŽO STARTO ATIDĖJIMAS
+39
+
 Kai greičio ruožo startas atidedamas daugiau nei 20 minučių, žiūrovams turi būti pranešta apie vėl atnaujintą greičio ruožą pravažiuojant saugos automobiliu. Kitu atveju, greičio ruožas turi būti sustabdytas.
 
-### 48.6. KLAIDINGAS STARTAS  
-Už klaidingą startą bus baudžiama tokia tvarka:  
-- 1–as kartas: 10 sekundžių.  
-- 2–as kartas: 1 minutė.  
-- 3–as kartas: 3 minutės.  
-- Kiti kartai: Sporto komisarų kolegijos sprendimas.  
+48.6. KLAIDINGAS STARTAS
+
+Už klaidingą startą bus baudžiama tokia tvarka:
+- 1–as kartas: 10 sekundžių.
+- 2–as kartas: 1 minutė.
+- 3–as kartas: 3 minutės.
+- Kiti kartai: Sporto komisarų kolegijos sprendimas.
 
 Šios nuobaudos neužkerta kelio komisarams skirti didesnių nuobaudų, jei jie nusprendžia, kad tai yra būtina. Skaičiuojant laiką, turi būti naudojamas faktinis starto laikas.
 
----
+49. GREIČIO RUOŽO FINIŠAS
 
-## 49. GREIČIO RUOŽO FINIŠAS
+49.1. FINIŠO LINIJA
 
-### 49.1. FINIŠO LINIJA
+49.1.1. Greičio ruožų finišas iš eigos. Finišo linija turėtų būti parinkta tokioje vietoje, kur, vertinamai, automobiliai turėtų važiuoti lėčiau, bei nutolusiai nuo sustojimo vietos ne mažiau kaip 200 metrų. Kelyje tarp finišo linijos ir sustojimo vietos neturi būti staigių ir apgaulingų posūkių, bei papildomų kliūčių (vartai, užtvaros ir t.t.). Draudžiama sustoti tarp geltono įspėjamo ženklo ir “Stop” ženklo. Apie šios taisyklės nevykdymą bus pranešama ralio sporto kolegijos komisarams. Laikas fiksuojamas kirtus finišo liniją, naudojant elektroninius spindulius ir dubliuojamas chronometru. Greičio ruožų finiše laikinninkai turi būti lygiagrečiai ties finišo linija, kuri pažymėta ženklu su šachmatine vėliava raudoname fone.
 
-**49.1.1.** Greičio ruožų finišas iš eigos. Finišo linija turėtų būti parinkta tokioje vietoje, kur, vertinamai, automobiliai turėtų važiuoti lėčiau, bei nutolusiai nuo sustojimo vietos ne mažiau kaip 200 metrų. Kelyje tarp finišo linijos ir sustojimo vietos neturi būti staigių ir apgaulingų posūkių, bei papildomų kliūčių (vartai, užtvaros ir t.t.). Draudžiama sustoti tarp geltono įspėjamo ženklo ir “Stop” ženklo. Apie šios taisyklės nevykdymą bus pranešama ralio sporto kolegijos komisarams. Laikas fiksuojamas kirtus finišo liniją, naudojant elektroninius spindulius ir dubliuojamas chronometru. Greičio ruožų finiše laikINinkai turi būti lygiai ties finišo linija, kuri pažymėta ženklu su šachmatine vėliava raudoname fone.  
+49.1.2. Greičio ruožo finišas – bazė (gali būti taikoma tik C lygos varžybose). Ekipažo laikas fiksuojamas, kai automobilis kerta finišo liniją. Automobilis turi sustoti ant finišo linijos, t.y. ji turi būti tarp priekinių ir galinių ratų ašių. Neįvykdžius pastarosios sąlygos, fiksuojamas klaidingas finišas, už kurį skiriama bauda, nurodyta papildomuose nuostatuose.
 
-**49.1.2.** Greičio ruožo finišas – bazė (gali būti taikoma tik C lygos varžybose). Ekipažo laikas fiksuojamas, kai automobilis kerta finišo liniją. Automobilis turi sustoti ant finišo linijos, t.y. ji turi būti tarp automobilio priekinio ir galinių ratų ašių. Neįvykdžius pastarosios sąlygos, fiksuojamas klaidingas finišas, už kurį skiriama bauda, nurodyta papildomuose nuostatuose.  
+49.2. SUSTOJIMO VIETA
 
-### 49.2. SUSTOJIMO VIETA  
-Ekipažas privalo sustoti prie raudono “STOP” ženklo, kur kortelėje bus įrašytas greičio ruožo finišo laikas (valanda, minutė, sekundė, dešimtoji sekundės). Jei laikininkai iš karto negali pateikti teisėjams tikslaus finišo laiko, šie tik uždės antspaudą ir /arba pasirašys ekipažo laiko kortelėje, o laikas bus įrašytas kitoje neutralizavimo zonoje arba pergrupavimo kontrolės punkte.
+Ekipažas privalo sustoti prie raudono “STOP” ženklo, kur kortelėje bus įrašytas greičio ruožo finišo laikas (valanda, minutė, sekundė, dešimtoji sekundės). Jei laikininkai iš karto negali pateikti teisėjams tikslaus finišo laiko, šie tik uždės antspaudą ir/arba pasirašys ekipažo laiko kortelėje, o laikas bus įrašytas kitoje neutralizavimo zonoje arba pergrupavimo kontrolės punkte.
 
----
+50.  “POWER STAGE” GREIČIO RUOŽAS
 
-## 50. “POWER STAGE” GREIČIO RUOŽAS
+50.1. “POWER STAGE” YPATYBĖS
 
-### 50.1. “POWER STAGE” YPATYBĖS  
 “Power Stage” įgyvendinimas yra apibrėžiamas atitinkamo čempionato reglamente.
 
-### 50.2. CHARAKTERISTIKA  
-- Konkretus greičio ruožas, kuris turi “Power Stage” statusą, nurodomas papildomuose nuostatuose.  
-- Visiems klasifikuojamiems ekipažams skaičiuojama prie bendro rezultato praleisto trasoje.  
-- Visi klasifikuojami ekipažai gali iškovoti papildomus čempionatinius taškus, nurodomus atitinkamo čempionato reglamente.  
-- Važiuojantys pagal “Rally 2” taisyklę, gali iškovoti čempionatinius taškus, nurodomus atitinkamo čempionato reglamente.
-čempionato reglamente.  
-- Reprezentacinė ralio dalis.  
+50.2. CHARAKTERISTIKA
 
-50.3. “POWER STAGE” VYKDYMAS  
-Konkrečios taisyklės, susijusios su “Power Stage” greičio ruožo vykdymu, starto tvarka ir laiko intervalais, priklauso tik nuo organizatorių. Ši informacija turi būti įtraukta į ralio papildomus nuostatus ir ralio maršrutą. Varžybų vadovas, esant force majeure aplinkybėms, gali pakeisti ekipažų startavimo intervalus.  
+- Konkretus greičio ruožas, kuris turi “Power Stage” statusą, nurodomas papildomuose nuostatuose.
+- Visiems klasifikuojamiems ekipažams skaičiuojama prie bendro rezultato praleisto trasoje.
+- Visi klasifikuojami ekipažai gali iškovoti papildomus čempionatinius taškus, nurodomus atitinkamo čempionato reglamente.
+- Važiuojantys pagal “Rally 2” taisyklę, gali iškovoti čempionatinius taškus, nurodomus atitinkamuose nuostatuose.
+40
 
-50.4. TAŠKAI  
-Už pasiektus rezultatus “Power Stage” greičio ruože, ekipažams skiriami papildomi čempionatiniai taškai, nurodyti atitinkamo čempionato reglamente.  
+čempionato reglamente.
+- Reprezentacinė ralio dalis.
+50.3. “POWER STAGE” VYKDYMAS
+Konkrečios taisyklės, susijusios su “Power Stage” greičio ruožo vykdymu, starto tvarka ir laiko intervalais, priklauso tik nuo organizatorių. Ši informacija turi būti įtraukta į ralio papildomus nuostatus ir ralio maršrutą. Varžybų vadovas, esant force majeure aplinkybėms, gali pakeisti ekipažų startavimo intervalus.
+50.4. TAŠKAI
+Už pasiektus rezultatus “Power Stage” greičio ruože, ekipažams skiriami papildomi čempionatiniai taškai, nurodyti atitinkamo čempionato reglamente.
+50.4.1. Taškai ekipažams skiriami pagal:
+- Skiriant taškus, “Power Stage” klasifikacija apskaičiuojama sumuojant greičio ruožo įveikimo laiką ir pridėdant laiko baudas, kurias ekipažas gavo važiuojant “Power Stage” greičio ruože.
+- Norėdamas gauti taškus, ekipažas turi būti klasifikuojamas bendroje ralio įskaitoje arba varžantis pagal “Rally 2” teisę, kuri yra apibrėžiama konkrečiame čempionato reglamente.
+50.4.2. Jei „Power Stage“ yra sustabdytas, ir ekipažai, turintys teisę rinkti taškus čempionate, neturėjo galimybės įveikti “Power Stage” greičio ruožo, Sporto komisarų kolegija gali nuspręsti, kad už „Power Stage“ taškai nebus neskiriami.
 
-50.4.1. Taškai ekipažams skiriami pagal:  
-- Skiriant taškus, “Power Stage” klasifikacija apskaičiuojama sumuojant greičio ruožo įveikimo laiką ir pridėdant laiko baudas, kurias ekipažas gavo važiuojant “Power Stage” greičio ruože.  
-- Norėdamas gauti taškus, ekipažas turi būti klasifikuojamas bendroje ralio įskaitoje arba varžantis pagal “Rally 2” teisę, kuri yra apibrėžiama konkrečiame čempionato reglamente.  
+51. “SUPER” GREIČIO RUOŽAI
 
-50.4.2. Jei „Power Stage“ yra sustabdytas, ir ekipažai, turintys teisę rinkti taškus čempionate, neturėjo galimybės įveikti “Power Stage” greičio ruožo, Sporto komisarų kolegija gali nuspręsti, kad už „Power Stage“ taškai nebus neskiriami.  
+51.1. “SUPER” GREIČIO RUOŽO YPATYBĖS
+Kai vienu metu startuoja daugiau nei vienas automobilis, trasos išplanavimas kiekvienoje starto vietoje turi būti panašus, o starto sąlygos – vienodos. Starto procedūra abiem automobiliams turi būti tokia pati. Leidžiama pakeisti starto linijos poziciją, siekiant išlyginti greičio ruožo ilgį, automobiliams startuojant iš skirtingų starto pozicijų.
+51.2. “SUPER” GREIČIO RUOŽO VYKDYMAS
+Konkrečios taisyklės, susijusios su “Super” greičio ruožo vykdymu, starto tvarka ir laiko intervalais, priklauso tik nuo organizatorių. Ši informacija turi būti įtraukta į ralio papildomus nuostatus ir ralio maršrutą.
+51.3. SAUGOS PLANAS
+51.3.1. “Super” greičio ruožui turi būti parengtas saugos planas, atitinkantis LASF reikalavimus.
+51.3.2. Siekiant užtikrinti saugumą, kai ekipažo automobilis trukdo saugiai tęsti varžybas, sugedusį ar patyrusį avariją automobilį organizatorius turi evakuoti iš greičio ruožo.
 
-51. “SUPER” GREIČIO RUOŽAI  
+52. GREIČIO RUOŽO NUTRAUKIMAS
 
-51.1. “SUPER” GREIČIO RUOŽO YPATYBĖS  
-Kai vienu metu startuoja daugiau nei vienas automobilis, trasos išplanavimas kiekvienoje starto vietoje turi būti panašus, o starto sąlygos – vienodos. Starto procedūra abiem automobiliams turi būti tokia pati. Leidžiama pakeisti starto linijos poziciją, siekiant išlyginti greičio ruožo ilgį, automobiliams startuojant iš skirtingų starto pozicijų.  
-
-51.2. “SUPER” GREIČIO RUOŽO VYKDYMAS  
-Konkrečios taisyklės, susijusios su “Super” greičio ruožo vykdymu, starto tvarka ir laiko intervalais, priklauso tik nuo organizatorių. Ši informacija turi būti įtraukta į ralio papildomus nuostatus ir ralio maršrutą.  
-
-51.3. SAUGOS PLANAS  
-51.3.1. “Super” greičio ruožui turi būti parengtas saugos planas, atitinkantis LASF reikalavimus.  
-51.3.2. Siekiant užtikrinti saugumą, kai ekipažo automobilis trukdo saugiai tęsti varžybas, sugedusį ar patyrusį avariją automobilį organizatorius turi evakuoti iš greičio ruožo.  
-
-52. GREIČIO RUOŽO NUTRAUKIMAS  
-
-Kai dėl bet kokios nors priežasties greičio ruožas yra nutraukiamas arba sustabdomas, varžybų vadovas kiekvienam ekipažui, kuriam greičio ruožo sustabdymas ar nutraukimas turi įtakos, gali paskirti realiai įvertintus laikus. Varžybų vadovas paskelbia atitinkamą Pranešimą. Tačiau ekipažas, kuris yra visiškai arba iš dalies atsakingas už greičio ruožo sustabdymą, negali turėti naudos iš tokio sprendimo.  
+Kai dėl bet kokios nors priežasties greičio ruožas yra nutraukiamas arba sustabdomas, varžybų vadovas kiekvienam ekipažui, kuriam greičio ruožo sustabdymas ar nutraukimas turi įtakos, gali paskirti realiai įvertintus laikus. Varžybų vadovas paskelbia atitinkamą pranešimą. Tačiau ekipažas, kuris yra visiškai arba iš dalies atsakingas už greičio ruožo sustabdymą, negali turėti naudos iš tokio sprendimo.
 
 53. DALYVIŲ SAUGUMAS
 53.1. EKIPAŽŲ SAUGOS ĮRANGA  
-Kai automobilis juda bet kokio tipo greičio ruože ekipažas privalo dėvėti šalmus, visus reikiamus apsauginius drabužius ir įrangą, nurodytą atitinkamų ralio varžybų Reglamente nurodytus reikalavimus, bei būti teisingai prisisegęs saugos diržais iki greičio ruožo pabaigos pilno sustojimo vietos (raudono kontrolės „STOP“ ženklo).  
-Už bet kokį pažeidimą bus baudžiama SKK sprendimu.  
+Kai automobilis juda bet kokio tipo greičio ruože ekipažas privalo dėvėti šalmus, visus reikiamus apsauginius drabužius ir įrangą, nurodytą atitinkamų ralio varžybų Reglamento nurodytus reikalavimus, bei būti teisingai prisisegęs saugos diržais iki greičio ruožo pabaigos iki pilno sustojimo vietos (raudono kontrolės „STOP“ ženklo). Už bet kokį pažeidimą bus baudžiama SKK sprendimu.  
 
 53.2. AUTOMOBILIŲ SAUGOS ĮRANGA  
-53.2.1. Jeigu organizatorius aprūpina dalyvius GPS saugos ir kontrolės sistema, šios sistemos konsolė turi būti lengvai pasiekiama bent vieno iš vairuotojų esant prisegtiems saugos diržams.  
-53.2.2. Kiekviename dalyvių automobilyje turi būti raudonas “SOS” ženklas, kurio kitoje pusėje privalo būti žalias “OK” ženklas, kurio matmenys mažiausiai 42 cm x 29.7 cm (A3).  
+53.2.1. Jeigu organizatorius aprūpina dalyvius GPS saugos ir kontrolės sistema, šios sistemos konsolė turi būti lengvai pasiekiama bent vieno iš vairuotojų, esant prisegtiems saugos diržams.  
+53.2.2. Kiekviename dalyvių automobilyje turi būti raudonas „SOS“ ženklas, kurio kitoje pusėje privalo būti žalias „OK“ ženklas, kurio matmenys mažiausiai 42 cm x 29.7 cm (A3).  
 53.2.3. Visuose automobiliuose turi būti raudonas, šviesą atspindintis trikampis, kurį, automobiliui sustojus dėl avarijos ar techninio gedimo greičio ruože ir automobiliui esant kelio ribose arba arčiau nei 3 metrai nuo jo, ekipažo narys turi pastatyti gerai matomoje vietoje toje pačioje kelio pusėje ne mažiau kaip 50 metrų iki automobilio, norint įspėti kitus vairuotojus.  
 
 53.3. ĮVYKIS GREIČIO RUOŽE  
-53.3.1. Nelaimingo atsitikimo atveju, kai reikalinga skubi medikų pagalba, kaip tik įmanoma skubiau reikia pranešti per GPS saugos ir kontrolės sistemą (jeigu GPS sistema naudojama), reikia rodyti raudoną “SOS” ženklą po to važiuojantiems automobiliams ir pagalbos sraigtasparniui. Kaip įmanoma greičiau, toje pačioje kelio pusėje kaip ir automobilis, nemažiau kaip 50 metrų atstumu, turi būti pastatytas šviesą atspindintis raudonas trikampis, siekiant įspėti paskui važiuojančius ekipažus, net jeigu ir automobilis nulėkęs nuo kelio.  
-53.3.2. Bet kuris ekipažas, kuriam rodomas raudonas “SOS” ženklas arba kuris mato didelę avariją patyrusį automobilį, kurio ekipažo nariai yra automobilyje ir nerodo raudono “SOS” ženklo, turi nedelsdami ir be jokių išimčių sustoti, pranešti per GPS saugos ir kontrolės sistemą (jeigu GPS sistema naudojama) bei suteikti pagalbą. Visi po to važiuojantys automobiliai taip pat turi sustoti. Antrasis automobilis atvykęs į įvykio vietą važiuoja toliau perduoti informacijos iki sekančio pažymėto radijo sekimo posto. Sekantys automobiliai turi palikti laisvą ralio trasą gelbėjimo tarnybų atvykimui. Visiems ekipažams, sustojusiems pagal šią tvarką bus skiriamas atitinkamas laikas pagal 52 str.  
-53.3.3. Nelaimingo atsitikimo atveju, kai skubios medicininės pagalbos nereikia, ekipažo nariai turi pranešti per GPS saugos ir kontrolės sistemą (jeigu GPS sistema naudojama) bei aiškiai rodyti “OK” ženklą kitiems ekipažams ir pagalbos sraigtasparniui.  
+53.3.1. Nelaimingo atsitikimo atveju, kai reikalinga skubi medikų pagalba, kaip tik įmanoma skubiau reikia pranešti per GPS saugos ir kontrolės sistemą (jeigu GPS sistema naudojama), reikia rodyti raudoną „SOS“ ženklą po to važiuojantiems automobiliams ir pagalbos sraigtasparniui. Kaip įmanoma greičiau, toje pačioje kelio pusėje kaip ir automobilis, nemažiau kaip 50 metrų atstumu, turi būti pastatytas šviesą atspindintis raudonas trikampis, siekiant įspėti paskui važiuojančius ekipažus, net jeigu ir automobilis nulėkęs nuo kelio.  
+53.3.2. Bet kuris ekipažas, kuriam rodomas raudonas „SOS“ ženklas arba kuris mato didelę avariją patyrusį automobilį, kurio ekipažo nariai yra automobilyje ir nerodo raudono „SOS“ ženklo, turi nedelsdami ir be jokių išimčių sustoti, pranešti per GPS saugos ir kontrolės sistemą (jeigu GPS sistema naudojama) bei suteikti pagalbą. Visi po to važiuojantys automobiliai taip pat turi sustoti. Antrasis automobilis atvykęs į įvykio vietą važiuoja toliau perduoti informaciją iki sekančio pažymėto radijo sekimo posto. Sekantys automobiliai turi palikti laisvą ralio trasą gelbėjimo tarnybų atvykimui. Visiems ekipažams, sustojusiems pagal šią tvarką, bus skiriamas atitinkamas laikas pagal 52 str.  
+53.3.3. Nelaimingo atsitikimo atveju, kai skubios medicininės pagalbos nereikia, ekipažo nariai turi pranešti per GPS saugos ir kontrolės sistemą (jeigu GPS sistema naudojama) bei aiškiai rodyti „OK“ ženklą kitiems ekipažams ir pagalbos sraigtasparniui.  
 53.3.4. Jeigu dėl nežinomų priežasčių ekipažas ar ekipažo narys negali rodyti OK/SOS ženklo, tai galima padaryti naudojant aiškią ženklų kalbą:  
-- Pakelta į viršų ranka ir iškeltas nykštys, reiškiantis “OK”;
-- Sukryžiuotos rankos ir pakeltos virš galvos, reiškiančios “SOS”.  
-53.3.5. Jei ekipažas palieka automobilį, “OK” ženklas turi būti padėtas taip, kad jis būtų aiškiai matomas kitiems ekipažams.  
-53.3.6. Apie ekipažą, kuris galėjo, bet nesilaiko aukščiau paminėtų taisyklių, bus pranešta varžybų vadovui.  
-53.3.7. Kelio knygoje privalomas lapas aprašantis veiksmus avarijos atveju.  
-53.3.8. Ekipažas, pasitraukęs iš ralio, turi nedelsiant informuoti organizatorius apie pasitraukimo priežastis papildomuose nuostatuose nurodytu būdu, išskyrus „force majeure“ aplinkybes. Ekipažui, nesilaikant šios taisyklės, komisarai savo nuožiūra skiria baudą.  
+- Pakelta į viršų ranka ir iškeltas nykštys, reiškiantis „OK“;
+42
 
-53.4. ĮVYKIS GREIČIO RUOŽE SU NUKENTĖJUSIAIS PAŠALINIAIS ASMENIMIS  
-Jei ekipažas susijęs su įvykiu, kurio metu pašaliniai asmenys patiria fizinių sužalojimų, ekipažo nariai turi iškart sustoti ir vadovautis taisyklių 53.3.1 punktu.  
-
-53.5. RAUDONŲ VĖLIAVŲ NAUDOJIMAS  
-53.5.1. VIRTUALI RAUDONA VĖLIAVA (kai naudojama)  
-Jei varžybų metu naudojama STS įranga, šia įranga privaloma aprūpinti visų ekipažų automobilius. Varžybų valdymo centrui suaktyvinus virtualią raudoną vėliavą, STS įrangoje atsiras mirksinti raudona lemputė prie “RED FLAG” žodžio/ženklo bei įranga skleis garsinį signalą. Ekipažai privalo nedelsdami patvirtinti virtualią raudoną vėliavą, paspausdami atitinkamą jungiklį ir toliau važiuoti taip, kaip nurodyta 53.5.3. punkte.  
-
-53.5.2. RAUDONA VĖLIAVA RYŠIO PUNKTUOSE  
-Raudona vėliava ekipažams rodoma tik varžybų vadovo sprendimu. Raudonas vėliavas galima dislokuoti tik kelio knygoje pažymėtuose ryšio punktuose ir teisėjui, dėvinčiam liemenę, ant kurios nurodytas ryšio taško simbolis. Vėliavos privalo būti teisėjams išdalintos iki saugos automobilių grafiko pradžios. Jokios kitos spalvos vėliava, išskyrus raudoną vėliavą, negali būti naudojama greičio ruožų metu.  
-
-53.5.3. RAUDONOS VĖLIAVOS VYKDYMAS  
-Privažiuodamas pirmąją rodomą raudoną vėliavą ir (arba) ekipažas gavęs virtualią raudoną vėliavą, priklausomai nuo to, kas įvyksta ankščiau, ekipažas privalo nedelsiant sumažinti greitį ir važiuoti sumažintu greičiu iki GR finišo bei toliau laikytis teisėjų arba gelbėjimo tarnybų darbuotojų nurodymų. Vėliavos bus rodomos visuose ryšio punktuose, esančiuose prieš įvykį. Gali būti naudojama ir elektroninė GPS raudona vėliava. Nesilaikant šios taisyklės, komisarų nuožiūra ekipažams bus skiriama bauda.  
-
-53.5.4. Ekipažui, kuriam buvo parodyta raudona vėliava, bus skiriamas atitinkamas laikas, kaip nurodyta 52 str.
+- Sukryžiuotos rankos ir pakeltos virš galvos, reiškiančios “SOS”.
+53.3.5. Jei ekipažas palieka automobilį, “OK” ženklas turi būti padėtas taip, kad jis būtų aiškiai matomas kitiems ekipažams.
+53.3.6. Apie ekipažą, kuris galėjo, bet nesilaiko aukščiau paminėtų taisyklių, bus pranešta varžybų vadovui.
+53.3.7. Kelio knygoje privalomas lapas aprašantis veiksmus avarijos atveju.
+53.3.8. Ekipažas, pasitraukęs iš ralio, turi nedelsiant informuoti organizatorius apie pasitraukimo priežastis papildomuose nuostatuose nurodytu būdu, išskyrus „force majeure“ aplinkybes. Ekipažui, nesilaikant šios taisyklės, komisarai savo nuožiūra skiria baudą.
+53.4. ĮVYKIS GREIČIO RUOŽE SU NUKENTĖJUSIAIS PAŠALINIAIS ASMENIMIS
+Jei ekipažas susijęs su įvykiu, kurio metu pašaliniai asmenys patiria fizinių sužalojimų, ekipažo nariai turi iškart sustoti ir vadovautis taisyklių 53.3.1 punktu.
+53.5. RAUDONŲ VĖLIAVŲ NAUDOJIMAS
+53.5.1. VIRTUALI RAUDONA VĖLIAVA (kai naudojama)
+Jei varžybų metu naudojama STS įranga, šia įranga privaloma aprūpinti visų ekipažų automobilius. Varžybų valdymo centrui suaktyvinus virtualią raudoną vėliavą, STS įrangoje atsiras mirksinti raudona lemputė prie “RED FLAG” žodžio/ženklo bei įranga skleis garsinį signalą. Ekipažai privalo nedelsdami patvirtinti virtualią raudoną vėliavą, paspausdami atitinkamą jungiklį ir toliau važiuoti taip, kaip nurodyta 53.5.3. punkte.
+53.5.2. RAUDONA VĖLIAVA RYŠIO PUNKTUOSE
+Raudona vėliava ekipažams rodoma tik varžybų vadovo sprendimu. Raudonas vėliavas galima dislokuoti tik kelio knygoje pažymėtuose ryšio punktuose ir teisėjui, dėvinčiam liemenę, ant kurios nurodytas ryšio taško simbolis. Vėliavos privalo būti teisėjams išdalintos iki saugos automobilių grafiko pradžios. Jokios kitos spalvos vėliava, išskyrus raudoną, negali būti naudojama greičio ruožų metu.
+53.5.3. RAUDONOS VĖLIAVOS VYKDYMAS
+Privažiuodamas pirmąją rodomą raudoną vėliavą ir (arba) ekipažas gavęs virtualią raudoną vėliavą, priklausomai nuo įvykio, ekipažas privalo nedelsiant sumažinti greitį ir važiuoti sumažintu greičiu iki GR finišo bei toliau laikytis teisėjų arba gelbėjimo tarnybų darbuotojų nurodymų. Vėliavos bus rodomos visuose ryšio punktuose, esančiuose prieš įvykį. Gali būti naudojama ir elektroninė GPS raudona vėliava. Nesilaikant šios taisyklės, komisarų nuožiūra ekipažams bus skiriama bauda.
+53.5.4. Ekipažui, kuriam buvo parodyta raudona vėliava, bus skiriamas atitinkamas laikas, kaip nurodyta 52 straipsnyje.
 53.5.5. Jei super greičio ruožuose naudojamos skirtingos signalizacijos sistemos (pvz., mirksinčios šviesos), visa informacija turi būti nurodyta Papildomuose nuostatuose.  
 53.5.6. Jei greičio ruožas nutraukiamas arba sustabdomas, o ekipažai privalo pravažiuoti greičio ruožą, starto vietoje turi būti rodoma raudona vėliava ir informuojami vairuotojai, kaip jie turi važiuoti.  
-
 53.5.7. RYŠIO PUNKTAI SUSIPAŽINIMO SU TRASA METU  
 Susipažinimo su trasa metu, pagal kelio knygą, greičio ruožų vietose kur bus ryšio punktai, turi būti iškabinti/pastatyti ryšio posto simboliai. Šis ženklas gali būti mažesnis nei naudojamas greičio ruožų metu, bet turi būti aiškiai matomas ir atpažįstamas susipažįstantiems su trasa ekipažams, kad būtų galima pasižymėti vietas stenogramoje.  
 
-53.6. STABDYMO ZONOS  
+## 53.6. STABDYMO ZONOS  
 53.6.1. Stabdymo zona gali būti įrengta siekiant išspręsti su saugumu susijusią situaciją arba siekiant sumažinti lenktynininkų greitį pavojingose vietose. Dalyviai stabdymo zoną privalo įveikti taip, kaip nurodyta kelio knygoje.  
 53.6.2. Stabdymo zona turi būti nurodyta saugos plane ir kelio knygoje. Ji turi būti įgyvendinta su I priede nurodytais ženklais. Ženklai, rodantys stabdymo zonos įveikimą, turi būti pastatyti prieš vykdant susipažinimą su trasa.  
 53.6.3. Prie stabdymo zonos turi būti paskirtas fakto teisėjas, kuris fiksuotų bet kokius pažeidimus, atsiradusius dėl klaidingo arba netinkamo stabdymo zonos įveikimo. Už kiekvieną pažeidimą bus skiriama bauda, nurodyta III priede.  
 
-53.7. VIRTUALI STABDYMO ZONA  
+## 53.7. VIRTUALI STABDYMO ZONA  
 53.7.1. Virtuali stabdymo zona gali būti įrengta siekiant išspręsti su saugumu susijusią situaciją arba siekiant sumažinti lenktynininkų greitį pavojingose vietose. Dalyviai turi trumpam sumažinti greitį iki 50 km/val nustatytoje 150–250 metrų zonoje.  
 53.7.2. Virtuali stabdymo zona turi būti nurodyta saugos plane ir kelio knygoje. Ji turi būti įgyvendinta su I priede nurodytais ženklais. Ženklai, rodantys stabdymo zonos įveikimą, turi būti pastatyti prieš vykdant susipažinimą su trasa.  
 53.7.3. Virtualios stabdymo zonos vykdymas nurodomas šių taisyklių III priede.  
 53.7.4. Virtualioje stabdymo zonoje privalo būti paskirtas papildomas fakto teisėjas, kuris turi turėti greičio matavimo prietaisą papildomiems patikrinimams. Esant neatitikimams patikrinimuose tarp virtualios sistemos ir greičio matavimo prietaiso, atsižvelgiama į mažiausią greitį.  
-53.7.5. Virtualios stabdymo zonos baudos:
+53.7.5. Virtualios stabdymo zonos baudos:  
+- 51–55 km/val.: 10 sekundžių  
+- 56–60 km/val.: 20 sekundžių  
+- 61 km/val ir daugiau: 1 minutė  
 
-| Greitis (km/val.)   | Bauda          |
-|--------------------|----------------|
-| 51–55              | 10 sekundžių   |
-| 56–60              | 20 sekundžių   |
-| 61 ir daugiau       | 1 minutė       |
-
-53.8. LIETUVOJE NETAIKOMA  
+## 53.8. LIETUVOJE NETAIKOMA  
 
 54. PAKARTOTINIS STARTAS PO PASITRAUKIMO/RALLY 2  
 Aprašoma atskirų varžybų ir čempionatų atitinkamuose reglamentuose.  
 
 55. TAISYMAS IR TECHNINIS TIKRINIMAS PAKARTOTINIAM STARTUI  
 Aprašoma atskirų varžybų ir čempionatų atitinkamuose reglamentuose.
-56. SERVISAS - BENDRIEJI REIKALAVIMAI
+44 
+ 
+SERVISAS 
+ 
+56. SERVISAS - BENDRIEJI REIKALAVIMAI 
+ 
+56.1. SERVISO ATLIKIMAS 
+56.1.1. Nuo pat pirmo laiko kontrolės punkto servisas dalyvio automobiliui gali būti atliekamas tik serviso parkuose ir nuotolinio serviso zonose, išskyrus remontus, atliekamus pasitraukiusiems automobiliams, kurie ketina pakartotinai startuoti. Jeigu organizatorius nenumato naktinio UP, servisas neribojamas nuo paskutinio rato LK iki pirmo sekančio rato LK. 
+56.1.2. Ekipažas, kuris naudoja tik automobilyje esančią įrangą be jokios pašalinės fizinės pagalbos, gali atlikti automobilio remonto darbus bet kuriuo metu, jei tai nėra specialiai draudžiama. 
 
-56.1. SERVISO ATLIKIMAS  
-56.1.1. Nuo pat pirmo laiko kontrolės punkto servisas dalyvio automobiliui gali būti atliekamas tik serviso parkuose ir nuotolinio serviso zonose, išskyrus remontus, atliekamus pasitraukiusiems automobiliams, kurie ketina pakartotinai startuoti. Jeigu organizatorius nenumato naktinio UP, servisas neribojamas nuo paskutinio rato LK iki pirmo sekančio rato LK.  
-56.1.2. Ekipažas, kuris naudoja tik automobilyje esančią įrangą be jokios pašalinės fizinės pagalbos, gali atlikti automobilio remonto darbus bet kuriuo metu, jei tai nėra specialiai draudžiama.
+56.2. KOMANDOS PERSONALAS IR SERVISO APRIBOJIMAI 
+56.2.1. Komandos personalui arba bet kokiai komandos transporto priemonei (įskaitant sraigtasparnius) draudžiama būti 1 km atstumu nuo dalyvio automobilio, išskyrus: 
+- serviso parkus ir nuotolinio serviso zonas (NSZ) 
+- kuro papildymo zonas 
+- padangų keitimo zonas 
+- šviesų montavimo zonas 
+- vienam komandos nariui automobilių plovimo zonose 
+- greičio ruožus (nuo geltono ženklo laiko kontrolės zonos pradžioje iki „stop“ ženklo greičio ruožo pabaigoje) 
+- automobiliams esant žiniasklaidos zonoje 
+- kai dalyvių automobiliams, važiuojantiems kelio knygos nurodytu maršrutu, tuo pačiu metu reikia važiuoti tuo pačiu keliu(–iais) kaip ir komandos personalui, su sąlyga, kad jie nesustoja toje pačioje vietoje tuo pačiu metu. 
 
-56.2. KOMANDOS PERSONALAS IR SERVISO APRIBOJIMAI  
-56.2.1. Komandos personalui arba bet kokiai komandos transporto priemonei (įskaitant sraigtasparnius) draudžiama būti 1 km atstumu nuo dalyvio automobilio, išskyrus:  
-- serviso parkus ir nuotolinio serviso zonas (NSZ)  
-- kuro papildymo zonas  
-- padangų keitimo zonas  
-- šviesų montavimo zonas  
-- vienam komandos nariui automobilių plovimo zonose  
-- greičio ruožus (nuo geltono ženklo laiko kontrolės zonos pradžioje iki „stop“ ženklo greičio ruožo pabaigoje)  
-- automobiliams esant žiniasklaidos zonoje  
-- kai dalyvių automobiliams, važiuojantiems kelio knygos nurodytu maršrutu, tuo pačiu metu reikia važiuoti tuo pačiu keliu(–iais) kaip ir komandos personalui, su sąlyga, kad jie nesustoja toje pačioje vietoje tuo pačiu metu.  
+56.2.2. Ekipažui perduoti arba paimti maistą, gėrimus, drabužius ir informaciją (duomenų, kelio knygą ir pan.) galima serviso parkuose, nuotolinio serviso zonose, padangų keitimo zonose, šviesų montavimo zonose arba automobiliui esant žiniasklaidos zonoje. 
 
-56.2.2. Ekipažui perduoti arba paimti maistą, gėrimus, drabužius ir informaciją (duomenų, kelio knygą ir pan.) galima serviso parkuose, nuotolinio serviso zonose, padangų keitimo zonose, šviesų montavimo zonose arba automobiliui esant žiniasklaidos zonoje.  
-56.2.3. Jei automobilis neužsiveda ir negali nuvažiuoti į serviso zoną iš uždaro parko, kuris yra prieš serviso zoną, teisėjai ir/arba komandos atstovai gali nustumti ar nutemti automobilį nuo uždaro parko pabaigos ženklo iki serviso vietos.
+56.2.3. Jei automobilis neužsiveda ir negali nuvažiuoti į serviso zoną iš uždaro parko, kuris yra prieš serviso zoną, teisėjai ir/arba komandos atstovai gali nustumti ar nutemti automobilį nuo uždaro parko pabaigos ženklo iki serviso vietos. 
 
-57. SERVISO PARKAI
+57. SERVISO PARKAI 
 
-57.1. BENDRIEJI REIKALAVIMAI  
-Serviso parkų skaičius ir jų vieta yra nurodoma papildomuose nuostatuose ir kelio knygoje. Maksimalus atstumas tarp serviso parkų aprašytas atitinkamų čempionatų ir varžybų serijų reglamentuose.
+57.1. BENDRIEJI REIKALAVIMAI 
+Serviso parkų skaičius ir jų vieta yra nurodoma papildomuose nuostatuose ir kelio knygoje. Maksimalus atstumas tarp serviso parkų aprašytas atitinkamų čempionatų ir varžybų serijų reglamentuose. 
 
 57.2. SERVISO PARKO TVARKARAŠTIS
+45
+
 Kiekvieno automobilio buvimas serviso parke turi atitikti varžybų tvarkaraštį su sekančiomis rekomendacijomis:
+57.2.1. 15 min prieš kiekvieno rato pirmą greituminį ruožą po naktinio pergrupavimo. Nebūtina pirmai sekcijai, išskyrus jei servisas seka po ralio varžybų dalies ir buvo vykdomas naktinis uždaras parkas.
+- Techninis tikrinimas gali būti atliekamas uždarame parke.
+57.2.2. 30 min tarp dviejų greituminių rungčių grupių.
+- Nebūtinas jei naudojama/os pildoma/os kuro žpylimo zona/os. Prieš servisą gali būti techninė zona, kuri gali sutapti su pergrupavimu.
+57.2.3. 45 min. po sekcijos pabaigos prieš naktinį pergrupavimą, išskyrus po paskutinės varžybų sekcijos.
+- Techninis tikrinimas gali būti atliekamas uždarame parke.
+57.2.4. 10 min. servisas prieš ralio finišą.
+- Prieš servisą gali būti techninė zona, kuri gali sutapti su pergrupavimu.
+57.3. SERVISO PARKO IDENTIFIKAVIMAS
+Serviso parkai ralio maršrute yra pažymėti laiko kontrolės punktais įvažiavime ir išvažiavime.
+57.4. GREITIS SERVISO PARKUOSE
+Sportinių automobilių ir serviso automobilių greitis serviso parkuose negali būti didesnis kaip 30 km/val arba dar mažesnis, jei tai nurodoma papildomuose nuostatuose. Nesilaikant šių apribojimų, t.y. sportiniams ir/ar serviso automobiliams viršijus leistiną greitį, varžybų vadovas skiria 25 Eur baudą už kiekvieną viršytą kilometrą per valandą, apie tai pranešdamas paskelbtame Pranešime.
+57.5. SERVISO PARKŲ IŠDĖSTYMAS
+Organizatorius privalo paskirti vietas serviso parke (nurodant ilgį, plotį ir vietą) kiekvienam dalyvaujančiam ekipažui (C lygoje neprivaloma). Kiekvieno ekipažo serviso automobiliai turi būti pastatyti savo vietoje. Šie automobiliai turi būti paženklinti ženklais „Service“.
 
-57.2.1. 15 min prieš kiekvieno rato pirmą greituminį ruožą po naktinio pergrupavimo.  
-Nebūtina pirmai sekcijai, išskyrus jei servisas seka po ralio varžybų dalies ir buvo vykdomas naktinis uždaras parkas.  
-- Techninis tikrinimas gali būti atliekamas uždarame parke.  
+58. KURO BAKO IŠTUŠTINIMAS IR/ARBA PAPILDYMAS SERVISO PARKE
+Kai tai yra būtina atliekant servisą (degalų bako, siurblio, degalų filtro keitimas ar kitokie darbai susiję su degalų sistema), degalų bako ištuštinimą ir/arba papildymą galima atlikti serviso parke, jei:
+- darbai atliekami žinant organizatoriui;
+- paruoštas gesintuvas su mokančiu juo naudotis komandos asmeniu;
+- degalų bako ištuštinimo ir/arba papildymo metu neatliekami jokie kiti darbai;
+- aplinkui automobilį užtikrintas pakankamai saugus atstumas;
+- pripilama tik kitai kuro papildymo zonai pasiekti reikalingas kuro kiekis;
 
-57.2.2. 30 min tarp dviejų greituminių rungčių grupių.  
-- Nebūtinas jei naudojama/os papildoma/os kuro pylimo zona/os.  
-Prieš servisą gali būti techninė zona, kuri gali sutapti su pergrupavimu.  
+59. LANKSTUSIS SERVISAS (FLEXI SERVICE)– 45'
 
-57.2.3. 45 min po sekcijos pabaigos prieš naktinį pergrupavimą, išskyrus po paskutinės varžybų sekcijos.  
-- Techninis tikrinimas gali būti atliekamas uždarame parke.  
+59.1. BENDROSIOS NUOSTATOS
+Lanksčiojo 45 min. serviso taisyklė leidžia paimti dalyvaujantį automobilį iš UP į su juo sujungtą serviso parką.
 
-57.2.4. 10 min servisas prieš ralio finišą.  
-Prieš servisą gali būti techninė zona, kuri gali sutapti su pergrupavimu.  
-
-57.3. SERVISO PARKO IDENTIFIKAVIMAS  
-Serviso parkai ralio maršrute yra pažymėti laiko kontrolės punktais įvažiavime ir išvažiavime.  
-
-57.4. GREITIS SERVISO PARKUOSE  
-Sportinių automobilių ir serviso automobilių greitis serviso parkuose negali būti didesnis kaip 30 km/val arba dar mažesnis, jei tai nurodoma papildomuose nuostatuose. Nesilaikant šių apribojimų, t.y. sportiniams ir/ar serviso automobiliams viršijus leistiną greitį, varžybų vadovas skiria 25 Eur baudą už kiekvieną viršytą kilometrą per valandą, apie tai pranešdamas paskelbtame Pranešime.  
-
-57.5. SERVISO PARKŲ IŠDĖSTYMAS  
-Organizatorius privalo paskirti vietas serviso parke (nurodant ilgį, plotį ir vietą) kiekvienam dalyvaujančiam ekipažui (C lygoje neprivaloma). Kiekvieno ekipažo serviso automobiliai turi būti pastatyti savo vietoje. Šie automobiliai turi būti paženklinti ženklais „Service“.  
-
-58. KURO BAKO IŠTUŠTINIMAS IR/ARBA PAPILDYMAS SERVISO PARKE  
-
-Kai tai yra būtina atliekant servisą (degalų bako, siurblio, degalų filtro keitimas ar kitokie darbai susiję su degalų sistema) degalų bako ištuštinimą ir/arba papildymą galima atlikti serviso parke, jei:  
-- darbai atliekami žinant organizatoriui;  
-- paruoštas gesintuvas su mokančiu juo naudotis komandos asmeniu;  
-- degalų bako ištuštinimo ir/arba papildymo metu neatliekami jokie kiti darbai;  
-- aplinkui automobilį užtikrintas pakankamai saugus atstumas;  
-- pripilama tik kitai kuro papildymo zonai pasiekti reikalingas kuro kiekis;  
-
-59. LANKSTUSIS SERVISAS (FLEXI SERVICE) – 45'  
-
-59.1. BENDROSIOS NUOSTATOS  
-Lanksčiojo 45 min. serviso taisyklė leidžia paimti dalyvaujantį automobilį iš UP į su juo sujungtą serviso parką.  
-
-59.2. LANKSČIOJO SERVISO VYKDYMAS IR LAIKO GRAFIKAS  
-
+59.2. LANKSČIOJO SERVISO VYKDYMAS IR LAIKO GRAFIKAS
 59.2.1. Norėdami atlikti lankstųjį 45 min. servisą, ekipažai turi įvažiuoti į uždarą parką. Vėliau ekipažai gali įvažiuoti į serviso parką arba palikti savo automobilį uždarame parke.
-59.2.2. Automobilį gali nuvairuoti įgaliotas ekipažo atstovas tik vieną kartą iš uždaro parko į serviso parką ir atvirkščiai, laikantis visų laiko kortelės pateikimo ir susijusių su tuo baudų formalumų. 
+46
 
-59.2.3. Jei automobilis neužsiveda ir negali nuvažiuoti į serviso zoną iš uždaro parko, kuris yra prieš serviso zoną, teisėjai ir/arba komandos atstovai gali nustumti ar nutempti automobilį nuo uždaro parko pabaigos ženklo iki serviso vietos. 
+59.2.2. Automobilį gali nuvairuoti įgaliotas ekipažo atstovas tik vieną kartą iš uždaro parko į serviso parką ir atvirkščiai, laikantis visų laiko kortelės pateikimo ir susijusių su tuo baudų formalumų.
+59.2.3. Jei automobilis neužsiveda ir negali nuvažiuoti į serviso zoną iš uždaro parko, kuris yra prieš serviso zoną, teisėjai ir/arba komandos atstovai gali nustumti ar nutempti automobilį nuo uždaro parko pabaigos ženklo iki serviso vietos.
+59.2.4. Ekipažas negauna baudos, jei automobilis sugrąžinamas į uždarą parką praėjus ne daugiau kaip 45 minutėms.
+59.2.5. Lanksčiojo serviso operacijų pabaigos laikas yra nustatomas organizatorių nuožiūra, tačiau ji turi būti nurodyta ralio maršrutinėje kortelėje.
 
-59.2.4. Ekipažas negauna baudos, jei automobilis sugrąžinamas į uždarą parką praėjus ne daugiau, kaip 45 minutėms. 
+60. NUOTOLINIO SERVISO ZONOS (NSZ)
 
-59.2.5. Lanksčiojo serviso operacijų pabaigos laikas yra nustatoma organizatorių nuožiūra, tačiau ji turi būti nurodyta ralio maršrutinėje kortelėje. 
+60.1. BENDROSIOS NUOSTATOS
+Gali būti įrengtos nuotolinio serviso zonos, kurios:
+- turi būti pažymėtos laiko kontrolės punktais įvažiavime ir išvažiavime;
+- kuriose automobiliai negali užtrukti daugiau nei 15 minučių;
+- kuriose leidžiama pasikeisti padangas, atvežtas serviso automobilio ir atlikti kitus remonto darbus leidžiamus NSZ;
+- prieš kurias gali būti įrengtos 3 min techninės zonos prieš įvažiavimą į laiko kontrolės punktą;
+- gali apjungti padangų žymėjimo zoną po išvažiavimo iš laiko kontrolės punkto;
+- į kurias įleidžiami tik autorizuoti komandos nariai, ralio pareigūnai ir žiniasklaidos darbuotojai su atitinkamais leidimais;
+– siekiant padidinti reklaminę vertę, organizatoriai yra raginami įrengti nuotolinio serviso zonas miestuose arba miesteliuose.
 
-60. NUOTOLINIO SERVISO ZONOS (NSZ) 
+60.2. EKIPAŽĄ APTARNAUJANČIO PERSONALO SKAIČIUS
+60.2.1. Nuotolinio serviso zonose gali dirbti toks žmonių skaičius:
+- vienam automobiliui – ekipažas ir iki 4 ekipažo atstovų. Kol automobilis yra šioje zonoje, joje turi likti tie patys ekipažo atstovai;
+60.2.2. Zonos turi būti suplanuotos taip, kad tie patys serviso darbuotojai, naudodami rekomenduojamą maršrutą, galėtų aptarnauti ekipažą ir NSZ, ir pagrindinėje serviso zonoje. Ekipažo geriamo vandens talpų papildymas nėra laikomas darbu prie automobilio.
+60.2.3. Jokiems kitiems komandos dalyviams, išskyrus aprašytus 60.2.1/60.2.2/60.3.3 punktuose, neleidžiama būti nuotolinio serviso zonose.
 
-60.1. BENDROSIOS NUOSTATOS  
-Gali būti įrengtos nuotolinio serviso zonos, kurios:  
-- turi būti pažymėtos laiko kontrolės punktais įvažiavime ir išvažiavime;  
-- kuriose automobiliai negali užtrukti daugiau nei 15 minučių;  
-- kuriose leidžiama pasikeisti padangas, atvežtas serviso automobilio ir atlikti kitus remonto darbus leidžiamus NSZ;  
-- prieš kurias gali būti įrengtos 3 min techninės zonos prieš įvažiavimą į laiko kontrolės punktą;  
-- gali apjungti padangų žymėjimo zoną po išvažiavimo iš laiko kontrolės punkto;  
-- į kurias įleidžiami tik autorizuoti komandos nariai, ralio pareigūnai ir žiniasklaidos darbuotojai su atitinkamais leidimais;  
-- siekiant padidinti reklaminę vertę, organizatoriai yra raginami įrengti nuotolinio serviso zonas miestuose arba miesteliuose. 
-
-60.2. EKIPAŽĄ APTARNAUJANČIO PERSONALO SKAIČIUS  
-60.2.1. Nuotolinio serviso zonose gali dirbti toks žmonių skaičius:  
-- vienam automobiliui – ekipažas ir iki 4 ekipažo atstovų. Kol automobilis yra šioje zonoje, joje turi likti tie patys ekipažo atstovai;  
-
-60.2.2. Zonos turi būti suplanuotos taip, kad tie patys serviso darbuotojai, naudodami rekomenduojamą maršrutą, galėtų aptarnauti ekipažą ir NSZ, ir pagrindinėje serviso zonoje. Ekipažo geriamo vandens talpų papildymas nėra laikomas darbu prie automobilio. 
-
-60.2.3. Jokiems kitiems komandos dalyviams, išskyrus aprašytus 60.2.1/60.2.2/60.3.3 punktuose, neleidžiama būti nuotolinio serviso zonose. 
-
-60.3. NAUDOJAMA ĮRANGA IR ĮRANKIAI  
-60.3.1. Būnant nuotolinio serviso zonoje, leidžiama:  
-- naudoti domkratus, važiuoklės stendus, rampas, veržliarakčius, dinamometrinius raktus, rankinius įrankius ir paprastą vandenį;  
-- naudoti įrangą, dalis ir įrankius, esančius dalyvių automobilyje;  
+60.3. NAUDOJAMA ĮRANGA IR ĮRANKIAI
+60.3.1. Būnant nuotolinio serviso zonoje, leidžiama:
+- naudoti domkratus, važiuoklės stendus, rampas, veržliarakčius, dinamometrinius raktus, rankinius įrankius ir paprastą vandenį;
+- naudoti įrangą, dalis ir įrankius, esančius dalyvių automobilyje;
 - naudoti su baterijomis veikiančius įrankius, įskaitant bet kokį reikiamą apšvietimą;
-• paprastu vandeniu papildyti automobilio sistemas, kurioms papildyti gali būti naudojama užpildymo priemonė;  
-• naudoti stabdžių nuorinimo ir automobilio valymo įrangą;  
-• Privaloma naudoti patiesalus.  
+47
+
+• paprastu vandeniu papildyti automobilio sistemas, kurioms papildyti gali būti naudojama užpildymo priemonė;
+• naudoti stabdžių nuorinimo ir automobilio valymo įrangą;
+• Privaloma naudoti patiesalus.
 • Galima sujungti dalyvaujantį automobilį su kompiuteriu, esančiu serviso zonoje ir valdomu papildomo asmens (ne vieno iš 4 leidžiamų aptarnaujančių asmenų), kabeliu. Asmuo dirbantis su kompiuteriu negali liesti automobilio ar bet kokios į automobilį montuojamos detalės.
 
 60.3.2. Nuotolinio serviso zonose leidžiama sumontuoti papildomus žibintus ir / ar pakeisti padangas, jeigu tai nurodyta papildomuose nuostatuose. Papildomus žibintus, padangas ir įrankius, kurių reikia jiems sumontuoti, į nuotolinio serviso zoną gali atgabenti serviso automobilis.
@@ -1571,24 +1144,27 @@ Organizatorius vienam ekipažui išduos vieną automobilio leidimą, su kuriuo �
 Kiekvienoje padangų keitimo zonoje:  
 • Prieš įvažiavimą ir įvažiavimą turi būti laiko kontrolės punktai;  
 • Rekomenduojama PKZ trukmė 15 minučių;  
-• Bet koks darbas yra draudžiamas pažymėtoje zonoje, išskyrus ekipažo narių automobilio ratų keitimą naudojant įrankius vežamus tame sportiniame automobilyje. Vienas papildomas domkratas ir keturi ašių stovai gali būti atgabenti komandos personalo.  
+• Bet koks darbas yra draudžiamas pažymėtoje zonoje, išskyrus ekipažo narių automobilio ratų keitimą naudojant įrankius, vežamus tame sportiniame automobilyje. Vienas papildomas domkratas ir keturi ašių stovai gali būti atgabenti komandos personalo.  
 • Joks komandos narys negali būti pažymėtoje zonoje, išskyrus 13.8 punkte numatytą atvejį.  
-• Jeigu atliekamas padangų žymėjimas visi sportiniai automobiliai turi pravažiuoti PKZ ir sustoti padangų žymėjimo zonoje, net tuo atveju jei padangos nekeičiamos.  
+• Jeigu atliekamas padangų žymėjimas, visi sportiniai automobiliai turi pravažiuoti PKZ ir sustoti padangų žymėjimo zonoje, net jei padangos nekeičiamos.  
 • Padangų žymėjimo ir brūkšninio kodo nuskaitymo zonos įrengiamos PKZ išvažiavime. Padangų transportavimas iki PKZ specifikuojamas ralio papildomuose nuostatuose.  
-• Papildomos padangos, jeigu tokios leidžiamos naudoti papildomai pagal ralio papildomus nuostatus, gali būti pristatytos į padangų keitimo zoną serviso automobiliu ir paruoštos naudojimui komandos personalo pagalba.
+• Papildomos padangos, jei tokios leidžiamos naudoti papildomai pagal ralio papildomus nuostatus, gali būti pristatytos į padangų keitimo zoną serviso automobiliu ir paruoštos naudoti komandos personalo pagalba.
 
 KURAS – PAPILDYMAS
 
 61. KURO PAPILDYMAS IR TVARKA
 
 61.1. VIETA
-61.1.1. Išskyrus tuos atvejus, aprašytus šių taisyklių 58 str., ekipažai pasipildyti degalų gali tik kuro papildymo zonose arba degalinėse, kurios yra pažymėtos ralio trasoje ir numatytos organizatorių kelio knygoje.  
+48
+
+61.1.1. Išskyrus tuos atvėjusius, aprašytus šių taisyklių 58 straipsnyje, ekipažai pasipildyti degalų gali tik kuro papildymo zonose arba degalinėse, kurios yra pažymėtos ralio trasoje ir numatytos organizatorių kelio knygoje.  
 Kuro papildymo zonos gali būti įrengtos:  
 - išvažiavimuose iš serviso parkų/pergrupavimo zonų;  
 - išvažiavimuose iš nuotolinio serviso zonų;  
 - atokiose vietovėse ralio trasoje.  
 
-61.1.2. Bet kokia kuro papildymo zona turi būti pažymėta ralio maršrutinėje kortelėje ir kelio knygoje. Ralio rate negali būti daugiau nei trys kuro užpylimo zonos, įskaičiuojant ir esančią pagrindinėje serviso zonoje. Saugumo tikslais, organizatoriai, savo ruožtu, gali pritaikyti sekcijų ilgius taip, kad išvengti nuotolinių kuro papildymo zonų.  
+61.1.2. Bet kokia kuro papildymo zona turi būti pažymėta ralio maršrutinėje kortelėje ir kelio knygoje.  
+Ralio rate negali būti daugiau nei trys kuro užpylimo zonos, įskaitant ir esančią pagrindinėje serviso zonoje. Saugumo tikslais, organizatoriai savo ruožtu gali pritaikyti sekcijų ilgius taip, kad išvengtų nuotolinių kuro papildymo zonų.  
 
 61.1.3. Įvažiavimas/išvažiavimas iš kuro papildymo zonų, išskyrus komercines degalines, turi būti pažymėtas mėlyno kanistro arba degalinės kuro siurblio simboliu.  
 
@@ -1604,7 +1180,7 @@ Kuro papildymo zonos gali būti įrengtos:
 
 61.2.2. Visose kuro papildymo zonose taikomas 5 km/val. greičio apribojimas.  
 
-61.2.3. Kad galėtų patekti į kuro papildymo zoną, ekipažo atstovai, dalyvaujantys degalų papildymo darbuose, turi dėvėti drabužius, kurie tinkamai apsaugotų nuo ugnies, įskaitant bent jau: ilgos kelnės, viršutinė dalis ilgomis rankovėmis, uždari batai, pirštinės ir balaklava. Rekomenduojama, kad šie drabužiai būtų atsparūs ugniai.  
+61.2.3. Kad galėtų patekti į kuro papildymo zoną, ekipažo atstovai, dalyvaujantys degalų papildymo darbuose, turi dėvėti drabužius, kurie tinkamai apsaugotų nuo ugnies, įskaitant bent jau: ilgas kelnes, viršutinę dalį ilgomis rankovėmis, uždarius batus, pirštines ir balaklavą. Rekomenduojama, kad šie drabužiai būtų atsparūs ugniai.  
 
 61.2.4. Atsakomybę už kuro papildymą prisiima tik dalyvis.  
 
@@ -1618,47 +1194,49 @@ Kuro papildymo zonos gali būti įrengtos:
 
 61.3.1. Vairuotojai gali naudoti prekyboje esantį kurą iš komercinės degalinės siurblio arba organizatoriaus distribucijos taško, kurie yra pažymėti kelio knygoje. Degalinėje kurą galima pilti tik į dalyvaujančio automobilio baką.  
 
-61.3.2. Ekipažas gali naudoti tiktai įrangą esančią automobilyje ir tik siurblius, be jokios išorinės fizinės pagalbos.  
+61.3.2. Ekipažas gali naudoti tik įrangą esančią automobilyje ir tik siurblius, be jokios išorinės fizinės pagalbos.  
 
 61.3.3. Jei automobilyje įrengtos tik FIA specifikacijos užpylimo jungtys, adapteriai, naudojami kuro papildymui komercinėse degalinėse, turi būti transportuojami tame automobilyje ir turi būti parodyti techninės komisijos metu.
-62. LIETUVOJE NETAIKOMAS
-
-UŽDARAS PARKAS
+62. LIETUVOJE NETAIKOMAS UŽDARAS PARKAS
 
 63. UŽDARO PARKO TAISYKLĖS
 
-63.1. PRITAIKYMAS  
-Ekipažai privalo laikytis uždaro parko taisyklių:  
-63.1.1. Nuo to momento, kai jie įvažiuoja į pergrupavimo zoną ir iki tol, kol iš jos išvažiuoja.  
-63.1.2. Nuo to momento, kai jie įvažiuoja į kontrolės zoną ir iki tol, kol iš jos išvažiuoja.  
-63.1.3. Nuo to momento, kai jie pasiekia ralio finišą ir iki tol, kol komisarai leidžia atidaryti uždarą parką.  
+63.1. PRITAIKYMAS
+Ekipažai privalo laikytis uždaro parko taisyklių:
+63.1.1. Nuo to momento, kai jie įvažiuoja į pergrupavimo zoną ir iki tol, kol iš jos išvažiuoja.
+63.1.2. Nuo to momento, kai jie įvažiuoja į kontrolės zoną ir iki tol, kol iš jos išvažiuoja.
+63.1.3. Nuo to momento, kai jie pasiekia ralio finišą ir iki tol, kol komisarai leidžia atidaryti uždarą parką.
 
-63.2. ASMENYS, GALINTYS PATEKTI Į UŽDARĄ PARKĄ  
-63.2.1. Pastatęs automobilį uždarame parke, vairuotojas privalo išjungti automobilio variklį ir abu ekipažo nariai per 3 minutes privalo palikti uždarą parką, išskyrus 46.1.2. punkte aprašytą atvejį. Niekas, išskyrus specifines funkcijas atliekančius ralio oficialius asmenis, nėra įleidžiamas į uždarą parką.  
-63.2.2. Ekipažo nariai gali įeiti į uždarą parką likus 10 min iki jų starto pradžios.  
+63.2. ASMENYS, GALINTYS PATEKTI Į UŽDARĄ PARKĄ
+63.2.1. Pastatęs automobilį uždarame parke, vairuotojas privalo išjungti automobilio variklį ir abu ekipažo nariai per 3 minutes privalo palikti uždarą parką, išskyrus 46.1.2. punkte aprašytą atvejį. Niekas, išskyrus specifines funkcijas atliekančius ralio oficialius asmenis, nėra įleidžiamas į uždarą parką.
+63.2.2. Ekipažo nariai gali įeiti į uždarą parką likus 10 min iki jų starto pradžios.
 
-63.3. AUTOMOBILIO STŪMIMAS UŽDARAME PARKE  
-Tiktai dirbantys oficialūs asmenys ir/arba ekipažo nariai gali stumti automobilį uždarame parke.  
+63.3. AUTOMOBILIO STŪMIMAS UŽDARAME PARKE
+Tiktai dirbantys oficialūs asmenys ir/arba ekipažo nariai gali stumti automobilį uždarame parke.
 
-63.4. AUTOMOBILIŲ APDANGALAI  
-Automobilių apdangalus naudoti draudžiama.  
+63.4. AUTOMOBILIŲ APDANGALAI
+Automobilių apdangalus naudoti draudžiama.
 
-63.5. TECHNINIAI PATIKRINIMAI  
-Uždarame parke techninės komisijos nariai gali atlikti techninius patikrinimus.  
+63.5. TECHNINIAI PATIKRINIMAI
+Uždarame parke techninės komisijos nariai gali atlikti techninius patikrinimus.
 
-63.6. REMONTO DARBAI UŽDARAME PARKE  
-63.6.1. Jei techninės komisijos nariai mano, kad automobilis turi pakankamai daug automobilio saugos įrangos trūkumų, dėl kurių gali kilti pavojus saugumui, tokiam automobiliui, leidus vyr. techniniam komisarui ir dalyvaujant techninės komisijos atstovui, gali būti remontuojamos arba keičiamos tik FIA homologuotos, priedą J atitinkančios, saugos dalys, kurios yra sumontuotos automobilyje (t.y. saugos diržai, gesintuvai ir pan.). Šiuos darbus atlikti leidžiama vienam komandos nariui.  
-63.6.2. Tik dėl saugumo priežasčių varžybų vadovui leidus ir prižiūrint uždaro parko teisėjui arba techniniam komisarui, ekipažas ir daugiausiai 3 komandos nariai gali pakeisti langą (-us).  
-63.6.3. Jei dėl atliekamų anksčiau nurodytų remonto darbų pavėluojama į tvarkaraštyje nurodytą startą, pabaigus remonto darbus ekipažui bus skiriamas naujas starto laikas, o už kiekvieną pavėluotą minutę ar jos dalį bus skiriama 1 minutės bauda, tačiau negali viršyti maksimalaus leidžiamo vėlavimo laiko pagal galiojančias taisykles.  
+63.6. REMONTO DARBAI UŽDARAME PARKE
+63.6.1. Jei techninės komisijos nariai mano, kad automobilis turi pakankamai daug automobilio saugos įrangos trūkumų, dėl kurių gali kilti pavojus saugumui, tokiam automobiliui, leidus vyr. techniniam komisarui ir dalyvaujant techninės komisijos atstovui, gali būti remontuojamos arba keičiamos tik FIA homologuotos, priedą J atitinkančios, saugos dalys, kurios yra sumontuotos automobilyje (t.y. saugos diržai, gesintuvai ir pan.). Šiuos darbus atlikti leidžiama vienam komandos nariui.
+63.6.2. Tik dėl saugumo priežasčių, varžybų vadovui leidus ir prižiūrint uždaro parko teisėjui arba techniniam komisarui, ekipažas ir daugiausiai 3 komandos nariai gali pakeisti langą (–us).
+63.6.3. Jei dėl atliekamų remonto darbų pavėluojama į tvarkaraštyje nurodytą startą, pabaigus remonto darbus ekipažui bus skiriamas naujas starto laikas, o už kiekvieną pavėluotą minutę ar jos dalį bus skiriama 1 minutės bauda, tačiau negali viršyti maksimalaus leidžiamo vėlavimo laiko pagal galiojančias taisykles.
 
-63.7. UŽDARAS PARKAS PO RALIO FINIŠO  
+63.7. UŽDARAS PARKAS PO RALIO FINIŠO
 GPS saugos ir kontrolės sistemą bei salono video kameras uždarame parke galima nuimti tik su varžybų vadovo leidimu ir prižiūrint uždaro parko teisėjams.
 
 REZULTATAI IR KITI DOKUMENTAI PO VARŽYBŲ
-64. RALIO REZULTATAI
-
+50 
+ 
+ 
+64. RALIO REZULTATAI 
+ 
 64.1. REZULTATŲ APSKAIČIAVIMAS  
-Rezultatai apskaičiuojami, sudedant greičio ruožų laikus kartu su visomis laiko baudomis, gautomis kelio sekcijose, bei visomis kitomis baudomis, išreikštomis laiku.
+Rezultatai apskaičiuojami, sudedant greičio ruožų laikus kartu su visomis laiko baudomis, gautomis kelio 
+sekcijose, bei visomis kitomis baudomis, išreikštomis laiku. 
 
 64.2. REZULTATŲ PASKELBIMAS  
 Ralio metu rezultatai bus skelbiami tokia tvarka:  
@@ -1666,40 +1244,46 @@ Ralio metu rezultatai bus skelbiami tokia tvarka:
 64.2.2. Daliniai neoficialūs rezultatai: rato pabaigoje paskelbiami rezultatai.  
 64.2.3. Preliminarūs galutiniai rezultatai: ralio pabaigoje paskelbti rezultatai.  
 64.2.4. Oficialūs galutiniai rezultatai: komisarų patvirtinti rezultatai.  
-64.2.5. Vėluojant paskelbti preliminarius rezultatus, oficialioje skelbimų lentoje (–se) pranešimu turi būti paskelbtas naujas rezultatų paskelbimo laikas.
+64.2.5. Vėluojant paskelbti preliminarius rezultatus, oficialioje skelbimų lentoje (–se) pranešimu turi būti 
+paskelbtas naujas rezultatų paskelbimo laikas. 
 
 64.3. LYGIOSIOS RALIO RATE ARBA ČEMPIONATO RALYJE  
-64.3.1. Lygybės ralio rate (ralyje) atveju, dalyvis pasiekęs geresnį laiką pirmame rato (ralio) GR, kuris nėra „Super“ GR, bus skelbiamas užėmęs aukštesnę vietą. Jei to nepakanka, lyginami antro, trečio, ketvirto ir t.t. iš eilės GR laikai.
+64.3.1. Lygybės ralio rate (ralyje) atveju, dalyvis pasiekęs geresnį laiką pirmame rato (ralio) GR, kuris nėra 
+„Super“ GR, bus skelbiamas užėmęs aukštesnę vietą. Jei to nepakanka, lyginami antro, trečio, ketvirto ir 
+t.t. iš eilės GR laikai. 
 
 64.4. NEŠALIŠKAS IR GARBINGAS VARŽYBŲ NUŠVIETIMAS  
-Varžybų organizatorius turi užtikrinti, kad bet koks informacijos paskelbimas apie varžybas yra nešališkas bei garbingas ir neiškreipia varžybų rezultatų.
-
-65. LIETUVOJE NETAIKOMAS
-
-66. RALIO APDOVANOJIMAI
-
+Varžybų organizatorius turi užtikrinti, kad bet koks informacijos paskelbimas apie varžybas yra nešališkas 
+bei garbingas ir neiškreipia varžybų rezultatų. 
+ 
+65. LIETUVOJE NETAIKOMAS 
+ 
+66. RALIO APDOVANOJIMAI 
+ 
 66.1. FINIŠO PODIUMAS  
-Ralio varžybų sportinė dalis baigsis finišo laiko kontrolės punkte.
+Ralio varžybų sportinė dalis baigsis finišo laiko kontrolės punkte. 
 
 66.2. APDOVANOJIMAS  
-Apdovanojimo ceremoniją kiekvienas varžybų organizatorius numato atskirai, tačiau ši apdovanojimo ceremonija privalo būti aprašyta ralio papildomuose nuostatuose.
+Apdovanojimo ceremoniją kiekvienas varžybų organizatorius numato atskirai, tačiau ši apdovanojimo 
+ceremonija privalo būti aprašyta ralio papildomuose nuostatuose. 
 
-67. METINIS LASF APDOVANOJIMAS
-
+67. METINIS LASF APDOVANOJIMAS 
+ 
 67.1. DALYVAVIMO REIKALAVIMAI  
-Pirmasis ir antrasis vairuotojas, nugalėję LASF čempionate, privalo dalyvauti metinėje LASF apdovanojimų ceremonijoje.
+Pirmasis ir antrasis vairuotojas, nugalėję LASF čempionate, privalo dalyvauti metinėje LASF apdovanojimų 
+ceremonijoje. 
 
 67.2. NEDALYVAVIMAS  
-Išskyrus force majeure aplinkybes, ekipažas, nedalyvaujantis šioje ceremonijoje, netenka teisės į iškovotus trofėjus bei LASF ralio komitetas gali skirti baudas.
+Išskyrus force majeure aplinkybes, ekipažas, nedalyvaujantis šioje ceremonijoje, netenka teisės į iškovotus 
+trofėjus bei LASF ralio komitetas gali skirti baudas. 
 
-68. LIETUVOJE NETAIKOMAS
-
+68. LIETUVOJE NETAIKOMAS  
 Šis dokumentas įsigalioja nuo 2024 m. sausio 17 dienos.
 PRIEDAI:  
 1. Ralio ženklai         2 lapai  
 2. Standartiniai dokumentai       16 lapų  
 3. Stabdymo zona         2 lapai  
-
+  
 PRIIMTA:         SUDERINTA:  
 LASF Ralio komitetas       LASF Generalinė sekretorė  
 Protokolo Nr. 2025-02      Indrė Janauskaitė  
