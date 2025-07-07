@@ -21,8 +21,12 @@ class TelegramBot:
 
         timestamp = datetime.now().strftime("%Y-%m-%d %H-%M")
         base_name = f"voice-{timestamp}"
-        ogg_path = os.path.join("../temp", f"{base_name}.ogg")
-        wav_path = os.path.join("../temp", f"{base_name}.wav")
+        temp_dir = "../temp"
+        ogg_path = os.path.join(temp_dir, f"{base_name}.ogg")
+        wav_path = os.path.join(temp_dir, f"{base_name}.wav")
+
+        # Create temp directory if it doesn't exist
+        os.makedirs(temp_dir, exist_ok=True)
 
         await file.download_to_drive(ogg_path)
 
@@ -43,7 +47,7 @@ class TelegramBot:
 
         os.remove(ogg_path)
         os.remove(wav_path)
-
+        
     async def reply_with_answer(self, update, question):
         answer = self.assistant.generate(question)
         await update.message.reply_text(answer)
